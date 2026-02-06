@@ -73,6 +73,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0128-longest-consecutive-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -116,6 +117,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
@@ -137,6 +139,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0138-copy-list-with-random-pointer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
@@ -191,4 +194,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0021-merge-two-sorted-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
