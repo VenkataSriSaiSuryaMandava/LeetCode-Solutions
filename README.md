@@ -50,6 +50,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -102,5 +105,10 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
