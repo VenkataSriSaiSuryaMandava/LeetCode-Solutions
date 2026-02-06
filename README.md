@@ -47,6 +47,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -92,6 +94,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Counting
