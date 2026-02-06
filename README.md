@@ -28,3 +28,15 @@ Problems are organized by their LeetCode titles. Each folder contains:
 ## 🚀 Progress
 
 This repository is actively updated as I continue solving new problems on LeetCode.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
+<!---LeetCode Topics End-->
