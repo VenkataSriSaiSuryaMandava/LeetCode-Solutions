@@ -55,6 +55,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
@@ -111,4 +113,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
