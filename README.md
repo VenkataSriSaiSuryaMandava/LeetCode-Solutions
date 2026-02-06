@@ -36,6 +36,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0001-two-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
@@ -59,6 +60,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -100,6 +102,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
