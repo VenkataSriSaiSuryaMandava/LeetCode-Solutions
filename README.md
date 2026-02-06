@@ -102,6 +102,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -145,4 +146,5 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
