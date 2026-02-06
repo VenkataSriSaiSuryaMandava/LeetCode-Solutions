@@ -41,6 +41,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -127,6 +129,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -195,6 +198,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
@@ -241,4 +245,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
