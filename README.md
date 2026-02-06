@@ -62,6 +62,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0128-longest-consecutive-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -125,6 +126,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
 ## Union-Find
 |  |
 | ------- |
