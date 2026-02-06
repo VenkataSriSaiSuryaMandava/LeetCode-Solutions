@@ -4,7 +4,6 @@ class Solution:
         res = 0
         
         for n in setnums:
-            count = 0
             cur = n
             if cur - 1 not in setnums:
                 count = 1
