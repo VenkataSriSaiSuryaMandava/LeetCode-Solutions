@@ -41,6 +41,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -205,6 +206,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
