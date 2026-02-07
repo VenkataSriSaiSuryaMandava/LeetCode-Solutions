@@ -13,7 +13,7 @@ class Solution:
                 return 
             
             for n in count:
-                if count[n] > 0:
+                if count[n]:
                     perms.append(n)
                     count[n] -= 1
                     dfs()
