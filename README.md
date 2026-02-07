@@ -45,6 +45,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0040-combination-sum-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -110,6 +111,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -211,6 +213,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0039-combination-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
