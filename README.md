@@ -144,6 +144,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +200,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -229,6 +231,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
