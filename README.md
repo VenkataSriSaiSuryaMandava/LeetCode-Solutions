@@ -48,6 +48,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0047-permutations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -196,6 +197,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -225,6 +227,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0046-permutations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -266,6 +269,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,6 +295,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
