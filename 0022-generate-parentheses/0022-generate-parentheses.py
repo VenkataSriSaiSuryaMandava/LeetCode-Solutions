@@ -5,7 +5,7 @@ class Solution:
 
         def backtrack(openN, closeN):
             if openN == closeN == n:
-                res.append("".join(subset.copy()))
+                res.append("".join(subset))
                 return
             if openN < n:
                 subset.append('(')
