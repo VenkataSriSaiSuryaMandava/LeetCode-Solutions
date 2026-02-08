@@ -2,8 +2,8 @@ class Node:
     def __init__(self, key, val):
         self.key = key
         self.val = val
-        self.left = None
-        self.right = None
+        self.next = None
+        self.prev = None
 
 class LRUCache:
 
@@ -11,8 +11,8 @@ class LRUCache:
         self.cap = capacity
         self.hash = {}
         
-        self.left = ListNode()
-        self.right = ListNode()
+        self.left = ListNode(0, 0)
+        self.right = ListNode(0 ,0)
         self.left.next = self.right
         self.right.prev = self.left
     
