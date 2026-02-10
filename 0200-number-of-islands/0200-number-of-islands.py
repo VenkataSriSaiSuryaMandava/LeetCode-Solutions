@@ -31,7 +31,6 @@ class Solution:
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == "1" and (r, c) not in visit:
-                    visit.add((r, c))
                     bfs(r, c)
                     res += 1
         return res
