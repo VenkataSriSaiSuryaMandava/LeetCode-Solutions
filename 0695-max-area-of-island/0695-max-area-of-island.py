@@ -9,33 +9,17 @@ class Solution:
         res = 0
         visit = set()
 
-        def bfs(r, c):
-            queue = deque()
+        def dfs(r, c):
+            if (r < 0 or r >= rows or
+                c < 0 or c >= cols or
+                grid[r][c] == 0 or
+                (r, c) in visit):
+                return 0
             visit.add((r, c))
-            queue.append((r, c))
-            area = 0
-
-            while queue:
-                row, col = queue.popleft()
-                area += 1
-                directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
-
-                for dr, dc in directions:
-                    r = dr + row
-                    c = dc + col
-
-                    if (r in range(rows) and
-                        c in range(cols) and
-                        grid[r][c] == 1 and
-                        (r, c) not in visit):
-                        queue.append((r, c))
-                        visit.add((r, c))
-            return area
+            return 1 + dfs(r + 1, c) + dfs(r - 1, c) + dfs(r, c + 1) + dfs(r, c - 1)
         
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == 1 and (r, c) not in visit:
-                    area = bfs(r, c)
-                    res = max(res, area)
-        
+                area = dfs(r, c)
+                res = max(res, area)
         return res
