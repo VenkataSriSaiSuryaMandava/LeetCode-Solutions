@@ -344,6 +344,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0110-balanced-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -364,6 +365,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0110-balanced-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -405,6 +407,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0110-balanced-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
