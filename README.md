@@ -72,6 +72,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
@@ -241,6 +242,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,6 +316,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -357,6 +360,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -369,6 +373,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
