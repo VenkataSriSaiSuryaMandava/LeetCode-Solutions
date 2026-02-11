@@ -8,4 +8,8 @@ class Solution:
                 l = m + 1
             else:
                 r = m - 1
-        return letters[l % len(letters)]
+                
+        if l >= len(letters):
+            return letters[0]
+        else:
+            return letters[l]
