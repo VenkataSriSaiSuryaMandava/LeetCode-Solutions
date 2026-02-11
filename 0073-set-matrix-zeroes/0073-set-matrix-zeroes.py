@@ -5,15 +5,26 @@ class Solution:
         """
         rows = len(matrix)
         cols = len(matrix[0])
-        zeroes = set()
+        rowZero = False
 
         for r in range(rows):
             for c in range(cols):
                 if matrix[r][c] == 0:
-                    zeroes.add((r, c))
+                    matrix[0][c] = 0
+                    if r > 0:
+                        matrix[r][0] = 0
+                    else:
+                        rowZero = True
 
-        for r, c in zeroes:
-            for i in range(cols):
-                matrix[r][i] = 0
-            for j in range(rows):
-                matrix[j][c] = 0
+        for r in range(1, rows):
+            for c in range(1, cols):
+                if matrix[0][c] == 0 or matrix[r][0] == 0:
+                    matrix[r][c] = 0
+        
+        if matrix[0][0] == 0:
+            for r in range(rows):
+                matrix[r][0] = 0
+        
+        if rowZero:
+            for c in range(cols):
+                matrix[0][c] = 0
