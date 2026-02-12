@@ -21,7 +21,6 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            if level_len:
-                res.append(level_sum / level_len)
+            res.append(level_sum / level_len)
         return res
                     
