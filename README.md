@@ -85,6 +85,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -310,6 +311,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -387,6 +389,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
