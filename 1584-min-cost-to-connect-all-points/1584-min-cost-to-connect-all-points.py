@@ -20,8 +20,10 @@ class Solution:
             cost, point = heapq.heappop(minHeap)
             if point in visit:
                 continue
+
             res += cost
             visit.add(point)
+            
             for neiCost, nei in adj[point]:
                 heapq.heappush(minHeap, [neiCost, nei])
         return res
