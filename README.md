@@ -579,5 +579,6 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
