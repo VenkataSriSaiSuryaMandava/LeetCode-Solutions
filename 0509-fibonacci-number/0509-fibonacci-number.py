@@ -1,12 +1,9 @@
 class Solution:
     def fib(self, n: int) -> int:
-        f1 = 0
-        f2 = 1
+        a = 0
+        b = 1
 
         for i in range(n):
-            temp = f1
-            f1 = f1 + f2
-            f2 = temp
+            a, b = a + b, a
         
-        return f1
-        
+        return a
