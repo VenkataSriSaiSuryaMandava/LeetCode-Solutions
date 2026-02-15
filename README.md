@@ -122,6 +122,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0198-house-robber](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
@@ -313,6 +315,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Union-Find
