@@ -124,6 +124,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
