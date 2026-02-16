@@ -50,6 +50,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0048-rotate-image](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -170,6 +171,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -220,6 +222,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0005-longest-palindromic-substring](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
