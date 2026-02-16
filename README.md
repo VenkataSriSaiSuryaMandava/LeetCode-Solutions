@@ -82,6 +82,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0239-sliding-window-maximum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -225,6 +226,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0131-palindrome-partitioning](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -527,6 +529,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0210-course-schedule-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0684-redundant-connection) |
