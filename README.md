@@ -173,6 +173,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Divide and Conquer
@@ -204,6 +205,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -213,6 +215,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +266,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0011-container-with-most-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Design
 |  |
 | ------- |
@@ -319,6 +323,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -359,6 +364,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
