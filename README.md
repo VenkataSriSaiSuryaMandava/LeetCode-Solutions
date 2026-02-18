@@ -433,6 +433,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Binary Search
 |  |
 | ------- |
