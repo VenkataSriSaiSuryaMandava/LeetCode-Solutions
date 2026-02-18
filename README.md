@@ -719,6 +719,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1661-average-time-of-process-per-machine](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Memoization
 |  |
 | ------- |
