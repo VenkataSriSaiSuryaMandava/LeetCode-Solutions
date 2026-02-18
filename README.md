@@ -94,6 +94,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -256,6 +257,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -420,6 +422,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
