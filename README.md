@@ -241,6 +241,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -353,6 +354,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0003-longest-substring-without-repeating-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -462,6 +464,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
