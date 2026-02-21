@@ -250,6 +250,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -469,6 +470,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Binary Search
 |  |
 | ------- |
