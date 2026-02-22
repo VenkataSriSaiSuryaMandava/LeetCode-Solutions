@@ -254,6 +254,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
