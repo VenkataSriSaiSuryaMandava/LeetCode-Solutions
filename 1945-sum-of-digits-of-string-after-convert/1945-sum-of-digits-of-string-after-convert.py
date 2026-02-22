@@ -1,18 +1,19 @@
 class Solution:
     def getLucky(self, s: str, k: int) -> int:
-        digits = ""
+        digit = 0
 
         for ch in s:
-            digits += str(ord(ch) - ord('a') + 1)
-        
-        digits = int(digits)
-        for i in range(k):
+            val = ord(ch) - ord('a') + 1
+            while val:
+                digit += val % 10
+                val = val // 10
+
+        for i in range(k - 1):
             total = 0
 
-            while digits:
-                total += digits % 10
-                digits = digits // 10
-            
-            digits = total
+            while digit:
+                total += digit % 10
+                digit = digit // 10
+            digit = total
         
-        return digits
+        return digit
