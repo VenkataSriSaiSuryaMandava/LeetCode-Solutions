@@ -4,13 +4,10 @@ class Solution:
 
         for ch in s:
             val = ord(ch) - ord('a') + 1
-            while val:
-                digit += val % 10
-                val = val // 10
+            digit += val % 10 + val // 10
 
         for i in range(k - 1):
             total = 0
-
             while digit:
                 total += digit % 10
                 digit = digit // 10
