@@ -251,6 +251,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0048-rotate-image](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -399,6 +400,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -483,6 +485,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -726,6 +729,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Graph Theory
