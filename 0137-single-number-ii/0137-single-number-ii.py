@@ -1,10 +1,10 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        visit = defaultdict(int)
+        ones = 0 
+        twos = 0
 
         for n in nums:
-            visit[n] += 1
+            ones = (ones ^ n) & ~twos
+            twos = (twos ^ n) & ~ones
         
-        for key, val in visit.items():
-            if val == 1:
-                return key
+        return ones
