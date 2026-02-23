@@ -250,6 +250,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0002-add-two-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -403,6 +404,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -736,6 +738,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
