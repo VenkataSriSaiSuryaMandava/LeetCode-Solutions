@@ -1,13 +1,11 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        Count = defaultdict(int)
+        res = 0
 
-        for ch in t:
-            Count[ch] += 1
-        
         for ch in s:
-            Count[ch] -= 1
+            res = res ^ ord(ch)
         
-        for key, val in Count.items():
-            if val == 1:
-                return key
+        for ch in t:
+            res = res ^ ord(ch)
+        
+        return chr(res)
