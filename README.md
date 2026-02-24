@@ -618,6 +618,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0637-average-of-levels-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -659,6 +660,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -722,6 +724,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0637-average-of-levels-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
