@@ -309,6 +309,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0312-burst-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -519,6 +520,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0231-power-of-two](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0461-hamming-distance) |
