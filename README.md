@@ -92,6 +92,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0238-product-of-array-except-self](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +191,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
@@ -235,6 +237,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -278,6 +281,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0231-power-of-two](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -526,6 +530,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0191-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -547,6 +552,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0074-search-a-2d-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
