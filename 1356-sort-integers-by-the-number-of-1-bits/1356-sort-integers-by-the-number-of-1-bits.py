@@ -1,20 +1,11 @@
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
-        minHeap = []
-        res = []
-
-        for num in arr:
+        
+        def countBits(n):
             count = 0
-            n = num 
-
             while n:
                 n = n & (n - 1)
                 count += 1
-            
-            heapq.heappush(minHeap, [count, num])
+            return count
         
-        while minHeap:
-            count, num = heapq.heappop(minHeap)
-            res.append(num)
-        
-        return res
+        return sorted(arr, key = lambda x : (countBits(x), x))
