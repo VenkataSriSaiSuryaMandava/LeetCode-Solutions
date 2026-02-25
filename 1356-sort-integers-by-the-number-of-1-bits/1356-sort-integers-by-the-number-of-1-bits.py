@@ -8,9 +8,8 @@ class Solution:
             n = num 
 
             while n:
-                if n & 1:
-                    count += 1
-                n = n >> 1
+                n = n & (n - 1)
+                count += 1
             
             heapq.heappush(minHeap, [count, num])
         
