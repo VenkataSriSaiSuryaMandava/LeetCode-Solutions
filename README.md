@@ -135,6 +135,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +211,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
