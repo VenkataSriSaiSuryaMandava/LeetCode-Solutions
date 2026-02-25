@@ -271,6 +271,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0043-multiply-strings) |
