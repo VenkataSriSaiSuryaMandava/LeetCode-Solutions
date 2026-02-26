@@ -91,6 +91,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -197,6 +198,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0208-implement-trie-prefix-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -246,6 +248,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -267,6 +270,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
