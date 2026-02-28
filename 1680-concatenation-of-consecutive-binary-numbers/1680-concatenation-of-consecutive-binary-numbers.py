@@ -1,11 +1,10 @@
 class Solution:
     def concatenatedBinary(self, n: int) -> int:
-        res = []
+        MOD = 10 ** 9 + 7
+        res = 0
         
         for i in range(1, n + 1):
-            binary = bin(i)[2 : ]
-            res.append(binary)
+            length = len(bin(i)) - 2
+            res = ((res << length) | i) % MOD
 
-        binarystring = "".join(res)
-
-        return int(binarystring, 2) % (10 ** 9 + 7)
+        return res
