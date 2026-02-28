@@ -112,6 +112,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0435-non-overlapping-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -209,6 +210,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -396,6 +398,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
