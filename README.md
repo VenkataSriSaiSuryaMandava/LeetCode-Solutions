@@ -360,6 +360,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
 | ------- |
@@ -378,6 +379,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Design
 |  |
 | ------- |
@@ -511,6 +513,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 ## Union-Find
@@ -545,6 +548,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Backtracking
 |  |
 | ------- |
