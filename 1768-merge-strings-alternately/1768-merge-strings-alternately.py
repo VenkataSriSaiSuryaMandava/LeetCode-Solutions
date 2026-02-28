@@ -5,11 +5,10 @@ class Solution:
         res = []
 
         while i < len(word1) and j < len(word2):
-            if (i + j) % 2 == 0:
                 res.append(word1[i])
-                i += 1
-            else:
                 res.append(word2[j])
+
+                i += 1
                 j += 1
         
         while i < len(word1):
