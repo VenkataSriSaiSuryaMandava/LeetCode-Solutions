@@ -8,7 +8,7 @@ class Solution:
         
         for i in range(len(vals)):
             x_val = vals[i]
-            for j in range(1, len(vals)):
+            for j in range(i + 1, len(vals)):
                 y_val = vals[j]
                 if freq[x_val] != freq[y_val]:
                     return [x_val, y_val]
