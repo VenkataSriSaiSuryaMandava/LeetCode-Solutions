@@ -168,6 +168,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -483,6 +484,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
