@@ -377,6 +377,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0763-partition-labels](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -509,6 +510,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
