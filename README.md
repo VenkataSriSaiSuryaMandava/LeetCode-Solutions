@@ -145,6 +145,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2239-find-closest-number-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
