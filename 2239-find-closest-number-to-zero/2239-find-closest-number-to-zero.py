@@ -1,8 +1,12 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        minHeap = []
+        closest = nums[0]
 
         for n in nums:
-            heapq.heappush(minHeap, (abs(n), -1 * n))
+            if abs(n) < abs(closest):
+                closest = n
         
-        return -1 * minHeap[0][1]
+        if closest < 0 and abs(closest) in nums:
+            return abs(closest)
+        else:
+            return closest
