@@ -118,6 +118,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -569,6 +570,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0150-evaluate-reverse-polish-notation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -874,6 +876,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0067-add-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
