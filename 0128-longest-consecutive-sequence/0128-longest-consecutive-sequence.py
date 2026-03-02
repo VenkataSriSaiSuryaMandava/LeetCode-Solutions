@@ -5,11 +5,13 @@ class Solution:
         
         for n in setnums:
             cur = n
+
             if cur - 1 not in setnums:
-                count = 1
-                cur += 1
+                count = 0
+
                 while cur in setnums:
                     count += 1
                     cur += 1
                 res = max(count, res)
+
         return res
