@@ -523,6 +523,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0344-reverse-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -584,6 +585,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0155-min-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -668,6 +670,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Doubly-Linked List
