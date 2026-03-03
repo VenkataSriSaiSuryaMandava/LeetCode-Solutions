@@ -242,6 +242,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0763-partition-labels](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -424,6 +425,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## Randomized
@@ -591,6 +593,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0735-asteroid-collision](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Backtracking
@@ -1033,4 +1036,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
