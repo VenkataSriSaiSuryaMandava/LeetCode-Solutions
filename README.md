@@ -135,6 +135,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -681,6 +682,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
