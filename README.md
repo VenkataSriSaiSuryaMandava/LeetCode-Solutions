@@ -99,6 +99,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0260-single-number-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -181,6 +182,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0344-reverse-string) |
