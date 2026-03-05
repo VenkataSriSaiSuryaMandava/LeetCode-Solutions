@@ -1,21 +1,13 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        count1 = 0
-        count2 = 0
+        count = 0
 
-        for i in range(0, len(s), 2):
-            if s[i] == '1':
-                count1 += 1
+        for i in range(len(s)):
+            if i % 2:
+                if s[i] == "0":
+                    count += 1
             else:
-                count2 += 1
+                if s[i] == "1":
+                    count += 1
 
-            if i + 1 < len(s):
-                if s[i + 1] == '0':
-                    count1 += 1
-                else:
-                    count2 += 1
-        
-        return min(count1, count2)
-            
-            
-        
+        return min(count, len(s) - count)
