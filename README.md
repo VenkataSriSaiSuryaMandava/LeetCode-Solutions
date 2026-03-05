@@ -567,6 +567,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
