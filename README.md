@@ -192,6 +192,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0141-linked-list-cycle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -235,6 +236,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0141-linked-list-cycle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -490,6 +492,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
