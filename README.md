@@ -130,6 +130,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0605-can-place-flowers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -634,6 +635,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
