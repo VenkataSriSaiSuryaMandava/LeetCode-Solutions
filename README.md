@@ -418,6 +418,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
@@ -595,6 +596,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
@@ -622,6 +624,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0438-find-all-anagrams-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
