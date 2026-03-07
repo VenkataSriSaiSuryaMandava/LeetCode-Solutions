@@ -155,6 +155,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
