@@ -8,7 +8,7 @@ class Solution:
             total += nums[r]
 
             if (r - l + 1) == k:
-                res = max(res, float(total / k))
+                res = max(res, total / k)
                 total -= nums[l]
                 l += 1
         
