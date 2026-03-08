@@ -9,28 +9,18 @@ class Solution:
         leaf1 = []
         leaf2 = []
 
-        def dfs(node):
+        def dfs(node, leaf):
             if not node:
                 return None
             
-            dfs(node.left)
-            dfs(node.right)
-
             if not node.left and not node.right:
-                leaf1.append(node.val)
-        
-        dfs(root1)
-        
-        def dfs(node):
-            if not node:
-                return None
+                leaf.append(node.val)
+                return 
             
-            dfs(node.left)
-            dfs(node.right)
-
-            if not node.left and not node.right:
-                leaf2.append(node.val) 
+            dfs(node.left, leaf)
+            dfs(node.right, leaf)
         
-        dfs(root2)
+        dfs(root1, leaf1)
+        dfs(root2, leaf2)
 
         return leaf1 == leaf2
