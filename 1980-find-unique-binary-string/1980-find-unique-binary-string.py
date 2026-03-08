@@ -2,7 +2,6 @@ class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
         setNums = set(nums)
 
-
         def backtrack(i, cur):
             if i == len(nums):
                 res = "".join(cur)
