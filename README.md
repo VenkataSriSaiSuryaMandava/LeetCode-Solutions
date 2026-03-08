@@ -493,6 +493,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0705-design-hashset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## Randomized
@@ -564,6 +565,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## String
 |  |
@@ -1064,6 +1066,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0232-implement-queue-using-stacks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
