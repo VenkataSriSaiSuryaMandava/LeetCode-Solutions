@@ -8,7 +8,7 @@ class Solution:
             if nums[r]:
                 count += 1
 
-            while (r - l + 1) - count > 1:
+            if (r - l + 1) - count > 1:
                 if nums[l]:
                     count -= 1
                 l += 1
