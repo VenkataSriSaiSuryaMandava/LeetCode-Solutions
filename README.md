@@ -164,6 +164,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -495,6 +496,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0303-range-sum-query-immutable](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |
