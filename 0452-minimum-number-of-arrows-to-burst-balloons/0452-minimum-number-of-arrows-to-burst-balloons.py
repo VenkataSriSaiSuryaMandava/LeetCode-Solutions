@@ -1,12 +1,16 @@
 class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
         points.sort()
-        res = [points[0]]
-        
-        for start, end in points:
-            if start <= res[-1][1]:
-                res[-1][1] = min(res[-1][1], end)
+        res = len(points)
+        prev = points[0]
+
+        for i in range(1, len(points)):
+            cur = points[i]
+
+            if cur[0] <= prev[1]:
+                res -= 1
+                prev = [cur[0], min(prev[1], cur[1])]
             else:
-                res.append([start, end])
+                prev = cur
         
-        return len(res)
+        return res
