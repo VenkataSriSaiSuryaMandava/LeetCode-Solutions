@@ -891,6 +891,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -938,6 +939,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -973,6 +975,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -1012,6 +1015,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
