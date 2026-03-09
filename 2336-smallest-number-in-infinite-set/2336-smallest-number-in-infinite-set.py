@@ -8,7 +8,6 @@ class SmallestInfiniteSet:
         small = self.smallest
         self.removed.add(small)
         
-        self.smallest += 1
         while self.smallest in self.removed:
             self.smallest += 1
         
