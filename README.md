@@ -120,6 +120,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0334-increasing-triplet-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -633,6 +634,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0389-find-the-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -677,6 +679,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0128-longest-consecutive-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -945,6 +948,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -989,6 +993,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1103,6 +1108,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0210-course-schedule-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
@@ -1132,6 +1138,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Eulerian Circuit
