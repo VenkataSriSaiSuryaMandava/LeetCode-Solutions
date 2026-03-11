@@ -163,6 +163,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -357,6 +358,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -589,6 +591,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -658,6 +661,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -813,6 +817,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1004-max-consecutive-ones-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -1093,6 +1098,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0211-design-add-and-search-words-data-structure](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 ## Simulation
 |  |
 | ------- |
