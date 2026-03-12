@@ -24,6 +24,6 @@ class Solution:
             node = node.right
         
         if left_height == right_height:
-            return 2 ** (left_height) - 1
+            return 2 ** left_height - 1
 
         return 1 + self.countNodes(root.left) + self.countNodes(root.right)
