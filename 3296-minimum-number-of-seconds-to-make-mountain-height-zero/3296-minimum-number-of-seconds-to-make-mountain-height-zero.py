@@ -11,13 +11,15 @@ class Solution:
         
         l = 0
         r = min(workerTimes) * mountainHeight * (mountainHeight + 1) // 2
+        idx = -1
 
-        while l < r:
+        while l <= r:
             m = (l + r) // 2
 
             if check(m):
-                r = m
+                idx = m
+                r = m - 1
             else:
                 l = m + 1
         
-        return l
+        return idx
