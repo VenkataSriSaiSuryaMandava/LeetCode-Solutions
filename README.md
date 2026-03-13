@@ -197,6 +197,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3285-find-indices-of-stable-mountains](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -421,6 +422,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -511,6 +513,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Design
 |  |
@@ -610,6 +613,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -840,6 +844,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Recursion
 |  |
