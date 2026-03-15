@@ -6,7 +6,7 @@ class Solution:
         cur_sign = 1
         length = len(s)
 
-        while i < len(s):
+        while i < length:
             if s[i].isdigit():
                 number = 0
                 digit_index = i
