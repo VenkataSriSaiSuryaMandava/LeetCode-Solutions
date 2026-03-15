@@ -423,6 +423,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0989-add-to-array-form-of-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -540,6 +541,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
@@ -1317,4 +1319,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
