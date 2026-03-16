@@ -183,6 +183,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -379,6 +380,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -430,6 +432,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
@@ -566,6 +569,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0724-find-pivot-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Linked List
@@ -626,6 +630,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1046-last-stone-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -929,6 +934,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Monotonic Stack
