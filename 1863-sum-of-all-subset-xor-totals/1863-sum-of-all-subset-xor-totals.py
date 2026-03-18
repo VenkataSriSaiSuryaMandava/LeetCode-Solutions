@@ -3,14 +3,11 @@ class Solution:
         self.res = 0
         
         def dfs(i, cur):
-            if i >= len(nums):
+            if i == len(nums):
                 self.res += cur
                 return
             
-            cur = cur ^ nums[i]
-            dfs(i + 1, cur)
-
-            cur = cur ^ nums[i]
+            dfs(i + 1, cur ^ nums[i])
             dfs(i + 1, cur)
         
         dfs(0, 0)
