@@ -149,6 +149,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0706-design-hashmap) |
@@ -503,6 +504,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -830,6 +832,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0401-binary-watch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -855,6 +858,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0461-hamming-distance](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -1345,6 +1349,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0139-word-break](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
@@ -1386,4 +1391,5 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
