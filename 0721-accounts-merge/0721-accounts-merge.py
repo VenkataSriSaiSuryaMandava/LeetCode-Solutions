@@ -47,6 +47,6 @@ class Solution:
         res = []
         for i, emails in emailGroup.items():
             name = accounts[i][0]
-            res.append([name] + sorted(emailGroup[i]))
+            res.append([name] + sorted(emails))
         
         return res
