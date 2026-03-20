@@ -1110,6 +1110,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1325-delete-leaves-with-a-given-value](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -1154,6 +1155,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -1276,6 +1278,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1285,6 +1288,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0207-course-schedule](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 ## Queue
 |  |
 | ------- |
