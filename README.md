@@ -215,6 +215,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2239-find-closest-number-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -1015,6 +1016,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1307,6 +1309,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |
@@ -1316,6 +1319,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0310-minimum-height-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
+| [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 ## Queue
 |  |
 | ------- |
