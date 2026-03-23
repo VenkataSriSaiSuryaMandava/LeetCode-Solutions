@@ -462,6 +462,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0263-ugly-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -521,6 +522,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
