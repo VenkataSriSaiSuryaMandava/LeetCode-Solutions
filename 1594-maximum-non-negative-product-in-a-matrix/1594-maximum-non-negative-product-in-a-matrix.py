@@ -21,17 +21,22 @@ class Solution:
         for r in range(1, rows):
             for c in range(1, cols):
                 cur_val = grid[r][c]
+                
                 min_from_left = dp[r][c - 1][0]
                 min_from_top = dp[r - 1][c][0]
+
                 max_from_top = dp[r - 1][c][1]
                 max_from_left = dp[r][c - 1][1]
 
+                min_value = min(min_from_left, min_from_top) * cur_val
+                max_value = max(max_from_left, max_from_top) * cur_val
+
                 if cur_val >= 0: 
-                    dp[r][c][0] = min(min_from_left, min_from_top) * cur_val
-                    dp[r][c][1] = max(max_from_left, max_from_top) * cur_val
+                    dp[r][c][0] = min_value
+                    dp[r][c][1] = max_value
                 else:
-                    dp[r][c][0] = max(max_from_left, max_from_top) * cur_val
-                    dp[r][c][1] = min(min_from_left, min_from_top) * cur_val
+                    dp[r][c][0] = max_value
+                    dp[r][c][1] = min_value
 
         max_product = dp[-1][-1][1]
 
