@@ -9,7 +9,7 @@ class Solution:
         prefix = 1
         for r in range(rows):
             for c in range(cols):
-                res[r][c] *= prefix
+                res[r][c] = (res[r][c] * prefix) % MOD
                 prefix = (prefix * grid[r][c]) % MOD
         
         suffix = 1
