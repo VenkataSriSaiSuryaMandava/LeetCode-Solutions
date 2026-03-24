@@ -181,6 +181,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1004-max-consecutive-ones-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -545,6 +546,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0799-champagne-tower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
