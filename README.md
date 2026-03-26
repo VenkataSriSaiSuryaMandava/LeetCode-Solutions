@@ -169,6 +169,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0852-peak-index-in-a-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -1049,6 +1050,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0463-island-perimeter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1328,6 +1330,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
