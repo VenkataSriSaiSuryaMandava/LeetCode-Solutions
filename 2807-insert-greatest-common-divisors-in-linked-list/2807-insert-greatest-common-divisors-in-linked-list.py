@@ -7,7 +7,7 @@ class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         def gcd(a, b):
             if b == 0:
-                return abs(a)
+                return a
             
             return gcd(b, a % b)
 
