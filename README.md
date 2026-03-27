@@ -354,6 +354,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -449,6 +450,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
@@ -807,6 +809,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1405-longest-happy-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
