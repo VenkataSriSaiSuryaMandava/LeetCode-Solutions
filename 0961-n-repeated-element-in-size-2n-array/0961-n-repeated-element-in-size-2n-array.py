@@ -1,0 +1,9 @@
+class Solution:
+    def repeatedNTimes(self, nums: List[int]) -> int:
+        count = defaultdict(int)
+        for n in nums:
+            count[n] += 1
+        
+        for n in nums:
+            if count[n] > 1:
+                return n
