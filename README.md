@@ -100,6 +100,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -474,6 +475,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0168-excel-sheet-column-title](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -1492,6 +1494,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1502,6 +1505,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
