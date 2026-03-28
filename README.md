@@ -230,6 +230,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -581,6 +582,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -618,6 +620,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -834,6 +837,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
@@ -853,6 +857,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
@@ -1075,6 +1080,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
+| [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
