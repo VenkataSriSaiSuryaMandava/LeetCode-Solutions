@@ -4,16 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        seen = set()
         res = 1
-        setS = set()
 
-        i = 0
-        while i < len(s):
-            if s[i] in setS:
-                setS = set()
+        for c in s:
+            if c in seen:
                 res += 1
+                seen = set()
             
-            setS.add(s[i])
-            i += 1
-        
+            seen.add(c)
+
         return res
