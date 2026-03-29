@@ -9,9 +9,13 @@ class Solution:
         nums = set(nums)
 
         while head:
-            if head.val in nums and (head.next is None or head.next.val not in nums):
+            while head and head.val not in nums:
+                head = head.next
+            
+            if head is not None:
                 res += 1
-
-            head = head.next
+            
+            while head and head.val in nums:
+                head = head.next
 
         return res
