@@ -6,11 +6,21 @@ class Solution(object):
         :rtype: int
         """
 
-        for i in range(1, n + 1):
+        for i in range(1, int(sqrt(n)) + 1):
             if n % i == 0:
                 k -= 1
             
             if k == 0:
                 return i
         
-        return -1
+        for i in range(int(sqrt(n)), 0, -1):
+            if i * i == n:
+                continue
+            
+            if n % i == 0:
+                k -= 1
+            
+            if k == 0:
+                return n / i
+
+        return -1    
