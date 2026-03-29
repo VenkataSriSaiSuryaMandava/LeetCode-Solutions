@@ -503,6 +503,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1512,6 +1513,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Rolling Hash
