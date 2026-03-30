@@ -376,6 +376,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -448,6 +449,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
@@ -851,6 +853,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 ## Union-Find
