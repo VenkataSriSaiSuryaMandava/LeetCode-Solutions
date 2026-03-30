@@ -1,7 +1,13 @@
-class Solution:
-    def isMatch(self, s: str, p: str) -> bool:
+class Solution(object):
+    def isMatch(self, s, p):
+        """
+        :type s: str
+        :type p: str
+        :rtype: bool
+        """
+        
         dp = {}
-
+        
         def dfs(i, j):
             if (i, j) in dp:
                 return dp[(i, j)]
@@ -13,9 +19,9 @@ class Solution:
                 return False
             
             match = (i < len(s) and (s[i] == p[j] or p[j] == "."))
+
             if (j + 1) < len(p) and p[j + 1] == "*":
-                dp[(i, j)] = (dfs(i, j + 2) or 
-                              (match and dfs(i + 1, j)))
+                dp[(i, j)] = (dfs(i, j + 2) or (match and dfs(i + 1, j)))
                 return dp[(i, j)]
             
             if match:
@@ -23,6 +29,6 @@ class Solution:
                 return dp[(i, j)]
             
             dp[(i, j)] = False
-            return False
-        
+            return dp[(i, j)]
+
         return dfs(0, 0)
