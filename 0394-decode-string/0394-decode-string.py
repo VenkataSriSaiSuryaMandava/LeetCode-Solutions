@@ -9,6 +9,7 @@ class Solution(object):
         for ch in s:
             if ch == "]":
                 encode_string = ""
+                
                 while stack[-1] != '[':
                     encode_string = stack.pop() + encode_string
                 stack.pop()
