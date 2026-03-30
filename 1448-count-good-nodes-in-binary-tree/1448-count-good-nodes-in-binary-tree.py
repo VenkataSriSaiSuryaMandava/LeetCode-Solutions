@@ -17,12 +17,11 @@ class Solution(object):
             res = 0
             if node.val >= maxVal:
                 res += 1
-
-            maxVal = max(maxVal, node.val)
+                maxVal = node.val
             
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
 
             return res
         
-        return dfs(root, -1)
+        return dfs(root, root.val)
