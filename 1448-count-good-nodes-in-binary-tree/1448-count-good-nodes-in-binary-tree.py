@@ -17,7 +17,8 @@ class Solution(object):
             res = 0
             if node.val >= maxVal:
                 res += 1
-                maxVal = node.val
+
+            maxVal = max(maxVal, node.val)
             
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
