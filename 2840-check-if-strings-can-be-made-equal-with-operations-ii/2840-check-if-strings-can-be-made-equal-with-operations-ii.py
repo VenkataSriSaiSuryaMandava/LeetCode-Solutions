@@ -12,5 +12,5 @@ class Solution(object):
         s2_even = sorted(s2[ : : 2])
         s2_odd = sorted(s2[1 : : 2])
 
-        return (s1_even == s2_even and s2_odd == s1_odd)
+        return (s1_even == s2_even and s1_odd == s2_odd)
         
