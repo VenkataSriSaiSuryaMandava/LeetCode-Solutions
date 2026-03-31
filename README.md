@@ -144,6 +144,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -502,6 +503,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -669,12 +671,14 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -1014,6 +1018,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0367-valid-perfect-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
