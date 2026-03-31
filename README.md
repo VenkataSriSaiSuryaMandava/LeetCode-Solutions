@@ -635,6 +635,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Design
 |  |
@@ -859,6 +860,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -1322,6 +1324,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
