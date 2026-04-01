@@ -1,55 +1,73 @@
 class Node:
-    def __init__(self, key, val):
+    def __init__(self, key = 0, val = 0, next = None, prev = None):
         self.key = key
         self.val = val
-        self.next = None
-        self.prev = None
+        self.next = next
+        self.prev = prev
 
-class LRUCache:
+class LRUCache(object):
 
-    def __init__(self, capacity: int):
+    def __init__(self, capacity):
+        """
+        :type capacity: int
+        """
+        self.map = {}
         self.cap = capacity
-        self.hash = {}
-        
-        self.left = ListNode(0, 0)
-        self.right = ListNode(0 ,0)
+
+        self.left = Node()
+        self.right = Node()
+
         self.left.next = self.right
         self.right.prev = self.left
     
-    def remove(self, node):
-        prevnode = node.prev
-        nextnode = node.next
-
-        prevnode.next = nextnode
-        nextnode.prev = prevnode
-
     def insert(self, node):
-        prevnode = self.right.prev
-        nextnode = self.right
+        prevNode = self.right.prev
+        nextNode = self.right
 
-        prevnode.next = node
-        nextnode.prev = node
+        node.next = nextNode
+        node.prev = prevNode
 
-        node.prev = prevnode
-        node.next = nextnode
+        nextNode.prev = node
+        prevNode.next = node
+    
+    def remove(self, node):
+        prevNode = node.prev
+        nextNode = node.next
 
-    def get(self, key: int) -> int:
-        if key in self.hash:
-            self.remove(self.hash[key])
-            self.insert(self.hash[key])
-            return self.hash[key].val
+        prevNode.next = nextNode
+        nextNode.prev = prevNode
+        
+    def get(self, key):
+        """
+        :type key: int
+        :rtype: int
+        """
+        if key in self.map:
+            self.remove(self.map[key])
+            self.insert(self.map[key])
+            
+            return self.map[key].val
+
         return -1
+        
 
-    def put(self, key: int, value: int) -> None:
-        if key in self.hash:
-            self.remove(self.hash[key])
-        self.hash[key] = Node(key, value)
-        self.insert(self.hash[key])
+    def put(self, key, value):
+        """
+        :type key: int
+        :type value: int
+        :rtype: None
+        """
+        if key in self.map:
+            self.remove(self.map[key])
+        
+        self.map[key] = Node(key, value)
+        self.insert(self.map[key])
 
-        if len(self.hash) > self.cap:
+        if len(self.map) > self.cap:
             lru = self.left.next
             self.remove(lru)
-            del self.hash[lru.key]
+            del self.map[lru.key]
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
