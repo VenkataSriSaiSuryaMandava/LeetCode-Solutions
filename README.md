@@ -645,6 +645,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -869,6 +870,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
@@ -1566,6 +1568,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0204-count-primes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Interactive
