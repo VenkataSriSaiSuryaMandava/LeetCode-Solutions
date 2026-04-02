@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: str
         """
         res = ""
-        for i in range(len(number) - 1, -1, -1):
+        for i in range(len(number)):
             if number[i] == digit:
                 cur = number[ : i] + number[i + 1 : ]
                 if cur > res:
