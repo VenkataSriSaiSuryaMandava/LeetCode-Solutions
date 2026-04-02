@@ -1,12 +1,19 @@
-class Solution:
-    def longestDiverseString(self, a: int, b: int, c: int) -> str:
+class Solution(object):
+    def longestDiverseString(self, a, b, c):
+        """
+        :type a: int
+        :type b: int
+        :type c: int
+        :rtype: str
+        """
+        
         res = ""
         maxHeap = []
 
         for count, char in [[-a, "a"], [-b, "b"], [-c, "c"]]:
             if count:
                 heapq.heappush(maxHeap, [count, char])
-
+        
         while maxHeap:
             count1, char1 = heapq.heappop(maxHeap)
 
@@ -23,7 +30,7 @@ class Solution:
             else:
                 res += char1
                 count1 += 1
-                
+
             if count1:
                 heapq.heappush(maxHeap, [count1, char1])
         
