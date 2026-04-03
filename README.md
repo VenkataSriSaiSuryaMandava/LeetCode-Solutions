@@ -204,6 +204,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -604,6 +605,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -643,6 +645,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -862,6 +865,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
