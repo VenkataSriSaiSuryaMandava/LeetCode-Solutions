@@ -10,7 +10,7 @@ class Solution(object):
         visit = set() 
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
-        def bfs(r, c):
+        def dfs(r, c):
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
                 (r, c) in visit or
@@ -22,14 +22,14 @@ class Solution(object):
             for dr, dc in directions:
                 row = r + dr
                 col = c + dc
-                bfs(row, col)
+                dfs(row, col)
         
         res = 0
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == '1' and (r, c) not in visit:
-                    bfs(r, c)
+                    dfs(r, c)
                     res += 1
         
         return res
