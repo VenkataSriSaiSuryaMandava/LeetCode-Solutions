@@ -29,7 +29,7 @@ class Solution(object):
             bottom -= 1
 
             for i in range(bottom - 1, top - 1, -1):
-                res.append(matrix[left][i])
+                res.append(matrix[i][left])
             left += 1
         
         return res
