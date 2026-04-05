@@ -138,6 +138,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0427-construct-quad-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
@@ -514,6 +515,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0371-sum-of-two-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0556-next-greater-element-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
