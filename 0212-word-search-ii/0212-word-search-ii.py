@@ -44,6 +44,7 @@ class Solution(object):
 
             if node.endOfWord:
                 res.add(word)
+                node.endOfWord = False
             
             backtrack(r + 1, c, node, word)
             backtrack(r - 1, c, node, word)
