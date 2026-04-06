@@ -203,6 +203,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -379,6 +380,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0997-find-the-town-judge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -651,6 +653,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -1028,6 +1031,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
