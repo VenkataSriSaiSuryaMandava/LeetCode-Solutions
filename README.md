@@ -695,6 +695,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
+| [2069-walking-robot-simulation-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
@@ -1442,6 +1443,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2069-walking-robot-simulation-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
