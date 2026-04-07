@@ -617,6 +617,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -884,6 +885,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -972,6 +974,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
