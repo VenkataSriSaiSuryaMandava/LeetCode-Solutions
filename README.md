@@ -217,6 +217,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -386,6 +387,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
@@ -490,6 +492,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## Math
 |  |
@@ -665,6 +668,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
