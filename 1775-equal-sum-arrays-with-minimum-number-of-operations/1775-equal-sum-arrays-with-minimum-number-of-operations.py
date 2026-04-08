@@ -23,10 +23,10 @@ class Solution(object):
         for val in nums2:
             changes.append(val - 1)
         
-        for count, val in enumerate(sorted(changes, reverse = True), 1):
+        for count, val in enumerate(sorted(changes, reverse = True)):
             diff -= val
 
             if diff <= 0:
-                return count
+                return count + 1
         
         return -1
