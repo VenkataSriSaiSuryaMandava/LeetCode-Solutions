@@ -1,6 +1,10 @@
-class Solution:
-    def numSteps(self, s: str) -> int:
-        res = 0 
+class Solution(object):
+    def numSteps(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        res = 0
         carry = 0
 
         for i in range(len(s) - 1, 0, -1):
