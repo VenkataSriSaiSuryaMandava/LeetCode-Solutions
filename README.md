@@ -264,6 +264,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
@@ -424,6 +425,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Sorting
 |  |
 | ------- |
