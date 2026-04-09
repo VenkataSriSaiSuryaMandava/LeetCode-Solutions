@@ -14,9 +14,10 @@ class Solution(object):
                 curMax = 1 
                 curMin = 1
                 continue
-            
+    
+            temp = curMax
             curMax = max(curMax * n, curMin * n, n)
-            curMin = min(curMin * n, curMax * n, n)
+            curMin = min(curMin * n, temp * n, n)
             res = max(res, curMax)
         
         return res
