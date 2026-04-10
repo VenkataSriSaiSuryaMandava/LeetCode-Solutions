@@ -1,36 +1,55 @@
 class ListNode:
-
     def __init__(self, key):
         self.key = key
         self.next = None
 
-class MyHashSet:
+class MyHashSet(object):
 
     def __init__(self):
-        self.hashSet = [ListNode(0) for i in range(10 ** 4)]
+        self.hashset = [ListNode(0) for i in range(10 ** 4)]
 
-    def add(self, key: int) -> None:
-        cur = self.hashSet[key % len(self.hashSet)]
+    def add(self, key):
+        """
+        :type key: int
+        :rtype: None
+        """
+        cur = self.hashset[key % len(self.hashset)]
+
         while cur.next:
             if cur.next.key == key:
                 return
+            
             cur = cur.next
+        
         cur.next = ListNode(key)
 
-    def remove(self, key: int) -> None:
-        cur = self.hashSet[key % len(self.hashSet)]
+    def remove(self, key):
+        """
+        :type key: int
+        :rtype: None
+        """
+        cur = self.hashset[key % len(self.hashset)]
+
         while cur.next:
             if cur.next.key == key:
                 cur.next = cur.next.next
-                return
+                return 
+                
             cur = cur.next
 
-    def contains(self, key: int) -> bool:
-        cur = self.hashSet[key % len(self.hashSet)]
+    def contains(self, key):
+        """
+        :type key: int
+        :rtype: bool
+        """
+        cur = self.hashset[key % len(self.hashset)]
+
         while cur.next:
             if cur.next.key == key:
                 return True
+            
             cur = cur.next
+        
         return False
 
 
