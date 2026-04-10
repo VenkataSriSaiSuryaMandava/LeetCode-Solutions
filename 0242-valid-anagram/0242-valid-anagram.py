@@ -1,9 +1,17 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        ds = defaultdict(int)
-        dt = defaultdict(int)
-        for i in s:
-            ds[i] += 1
-        for j in t:
-            dt[j] += 1
-        return dt == ds
+class Solution(object):
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        countS = defaultdict(int)
+        countT = defaultdict(int)
+
+        for ch in s:
+            countS[ch] += 1
+        
+        for ch in t:
+            countT[ch] += 1
+        
+        return countT == countS
