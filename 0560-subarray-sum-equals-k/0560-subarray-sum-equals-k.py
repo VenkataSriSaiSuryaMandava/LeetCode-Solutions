@@ -9,7 +9,7 @@ class Solution(object):
         res = 0
         prefix = 0
 
-        for i, num in enumerate(nums):
+        for num in nums:
             prefix += num
             diff = prefix - k
             
