@@ -19,8 +19,8 @@ class Solution(object):
                 count = new_count
         
         res = []
-        for num, cnt in count.items():
-            if cnt > len(nums) // 3:
+        for num in count:
+            if nums.count(num) > len(nums) // 3:
                 res.append(num)
         
         return res
