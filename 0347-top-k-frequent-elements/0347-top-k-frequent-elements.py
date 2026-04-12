@@ -1,17 +1,21 @@
-class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+class Solution(object):
+    def topKFrequent(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
         count = defaultdict(int)
-        for n in nums:
-            count[n] += 1
+        for num in nums:
+            count[num] += 1
         
-        freq = [[] for i in range(len(nums) + 1)]
-
+        minHeap = []
         for num, cnt in count.items():
-            freq[cnt].append(num)
+            heapq.heappush(minHeap, [-cnt, num])
         
         res = []
-        for i in range(len(freq) - 1, -1, -1):
-            for num in freq[i]:
-                res.append(num)
-                if len(res) == k:
-                    return res
+        while k != len(res):
+            cnt, num = heapq.heappop(minHeap)
+            res.append(num)
+        
+        return res
