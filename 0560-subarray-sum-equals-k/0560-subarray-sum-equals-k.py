@@ -1,14 +1,19 @@
-class Solution:
-    def subarraySum(self, nums: List[int], k: int) -> int:
+class Solution(object):
+    def subarraySum(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        count = {0 : 1}
         res = 0
-        prefixSum = 0
-        countMap = {0 : 1}
+        prefix = 0
 
-        for n in nums:
-            prefixSum += n
-            diff = prefixSum - k
-
-            res += countMap.get(diff, 0)
-            countMap[prefixSum] = 1 + countMap.get(prefixSum, 0)
+        for i, num in enumerate(nums):
+            prefix += num
+            diff = prefix - k
+            
+            res += count.get(diff, 0)
+            count[prefix] = 1 + count.get(prefix, 0)
         
         return res
