@@ -6,7 +6,7 @@ class Solution(object):
         """
         if not height:
             return 0
-
+        
         l = 0
         r = len(height) - 1
 
@@ -23,6 +23,6 @@ class Solution(object):
             else:
                 r -= 1
                 maxr = max(maxr, height[r])
-                res += maxr - height[r]  
-        
-        return res
+                res += maxr - height[r]
+
+        return res 
