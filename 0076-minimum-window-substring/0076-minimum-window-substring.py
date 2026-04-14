@@ -1,22 +1,29 @@
-class Solution:
-    def minWindow(self, s: str, t: str) -> str:
+class Solution(object):
+    def minWindow(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: str
+        """
         if len(t) > len(s) or t == "":
             return ""
-
+        
         countT = defaultdict(int)
-        for c in t:
-            countT[c] += 1
+        for ch in t:
+            countT[ch] += 1
+        
         need = len(countT)
 
         window = defaultdict(int)
-        l = 0
-        have = 0
-        res = [-1, -1]
-        reslen = float('inf')
+        have = 0 
+        res = [0, 0]
+        reslen = float("inf")
 
+        l = 0
         for r in range(len(s)):
             c = s[r]
             window[c] += 1
+
 
             if c in countT and countT[c] == window[c]:
                 have += 1
@@ -26,13 +33,16 @@ class Solution:
                     reslen = r - l + 1
                     res = [l, r]
 
-                window[s[l]] -= 1
-                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                ch = s[l]
+                window[ch] -= 1
+                
+                if ch in countT and countT[ch] > window[ch]:
                     have -= 1
                 l += 1
-                
+        
         l, r = res
-        if reslen != float('inf'):
-            return s[l : r + 1]
-        else:
+
+        if reslen == float("inf"):
             return ""
+        else:
+            return s[l : r + 1]
