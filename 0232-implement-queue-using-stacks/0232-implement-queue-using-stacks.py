@@ -1,26 +1,42 @@
-class MyQueue:
+class MyQueue(object):
 
     def __init__(self):
-        self.s1 = []
-        self.s2 = []
+        self.stack1 = []
+        self.stack2 = []
 
-    def push(self, x: int) -> None:
-        self.s1.append(x)
+    def push(self, x):
+        """
+        :type x: int
+        :rtype: None
+        """
+        self.stack1.append(x)
 
-    def pop(self) -> int:
-        if not self.s2:
-            while self.s1:
-                self.s2.append(self.s1.pop())
-        return self.s2.pop()
+    def pop(self):
+        """
+        :rtype: int
+        """
+        if not self.stack2:
+            while self.stack1:
+                self.stack2.append(self.stack1.pop())
+        
+        return self.stack2.pop()
+        
 
-    def peek(self) -> int:
-        if not self.s2:
-            while self.s1:
-                self.s2.append(self.s1.pop())
-        return self.s2[-1]
+    def peek(self):
+        """
+        :rtype: int
+        """
+        if not self.stack2:
+            while self.stack1:
+                self.stack2.append(self.stack1.pop())
+        
+        return self.stack2[-1]
 
-    def empty(self) -> bool:
-        return len(self.s1) == 0 and len(self.s2) == 0
+    def empty(self):
+        """
+        :rtype: bool
+        """
+        return len(self.stack1) == 0 and len(self.stack2) == 0
 
 
 # Your MyQueue object will be instantiated and called as such:
