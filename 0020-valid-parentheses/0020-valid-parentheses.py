@@ -1,13 +1,17 @@
-class Solution:
-    def isValid(self, s: str) -> bool:
-        pairs = {')' : '(' , ']' : '[' , '}' : '{'}
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        brackets = {')' : '(', ']' : '[', '}' : '{'}
         stack = []
 
-        for i in s:
-            if i in pairs.values():
-                stack.append(i)
-            
-            if i in pairs:
-                if not stack or stack.pop() != pairs[i]:
+        for ch in s:
+            if ch in brackets:
+                if not stack or stack.pop() != brackets[ch]:
                     return False
+            else:
+                stack.append(ch)
+        
         return not stack
