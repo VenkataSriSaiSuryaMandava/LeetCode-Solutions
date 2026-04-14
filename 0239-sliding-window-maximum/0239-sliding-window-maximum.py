@@ -1,17 +1,25 @@
-class Solution:
-    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        q = deque()
-        l = 0
+class Solution(object):
+    def maxSlidingWindow(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: List[int]
+        """
+        queue = deque()
         res = []
+        
+        l = 0
         for r in range(len(nums)):
-            while q and nums[r] > nums[q[-1]]:
-                q.pop()
-            q.append(r)
+            while queue and nums[queue[-1]] < nums[r]:
+                queue.pop()
+            
+            queue.append(r)
 
             if r - l + 1 >= k:
-                if l > q[0]:
-                    q.popleft()
-
-                res.append(nums[q[0]])
+                if l > queue[0]:
+                    queue.popleft()
+                
+                res.append(nums[queue[0]])
                 l += 1
+        
         return res
