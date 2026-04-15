@@ -3,20 +3,24 @@
 # @return -1 if num is higher than the picked number
 #          1 if num is lower than the picked number
 #          otherwise return 0
-# def guess(num: int) -> int:
+# def guess(num):
 
-class Solution:
-    def guessNumber(self, n: int) -> int:
+class Solution(object):
+    def guessNumber(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         l = 1
         r = n
 
         while l <= r:
             m = (l + r) // 2
-            pick = guess(m)
-            
-            if pick  == -1:
+            guessNum = guess(m)
+
+            if guessNum == -1:
                 r = m - 1
-            elif pick == 1:
+            elif guessNum == 1:
                 l = m + 1
             else:
                 return m
