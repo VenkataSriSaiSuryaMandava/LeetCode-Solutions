@@ -5,25 +5,22 @@ class Solution(object):
         :rtype: str
         """
         stack = []
+        
+        for c in s:
+            if c == ']':
+                cur = ""
 
-        for ch in s:
-            if ch == "]":
-                encode_string = ""
-                
                 while stack[-1] != '[':
-                    encode_string = stack.pop() + encode_string
-                stack.pop()
+                    cur = stack.pop() + cur
                 
+                stack.pop()
+
                 digit = ""
                 while stack and stack[-1] in "0123456789":
                     digit = stack.pop() + digit
-
-                digit = int(digit)
-                encode_string *= digit
-
-                stack.append(encode_string)
-
+                
+                stack.append(cur * int(digit))
             else:
-                stack.append(ch)
+                stack.append(c)
         
         return "".join(stack)
