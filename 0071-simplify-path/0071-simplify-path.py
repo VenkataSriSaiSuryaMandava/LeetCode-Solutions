@@ -1,17 +1,22 @@
-class Solution:
-    def simplifyPath(self, path: str) -> str:
+class Solution(object):
+    def simplifyPath(self, path):
+        """
+        :type path: str
+        :rtype: str
+        """
         stack = []
         cur = ""
 
         for c in path + '/':
-            if c == '/':
+            if c == "/":
                 if cur == "..":
                     if stack:
                         stack.pop()
                 elif cur != "." and cur != "":
                     stack.append(cur)
+                
                 cur = ""
             else:
                 cur += c
-
-        return "/" + '/'.join(stack)
+        
+        return "/" + "/".join(stack)
