@@ -1,28 +1,36 @@
-class FreqStack:
+class FreqStack(object):
 
     def __init__(self):
-        self.cnt = {}
-        self.maxCnt = 0
+        self.count = {}
+        self.maxcnt = 0
         self.stacks = {}
 
-    def push(self, val: int) -> None:
-        valCnt = 1 + self.cnt.get(val, 0)
-        self.cnt[val] = valCnt
+    def push(self, val):
+        """
+        :type val: int
+        :rtype: None
+        """
+        valCnt = 1 + self.count.get(val, 0)
+        self.count[val] = valCnt
 
-        if valCnt > self.maxCnt:
-            self.maxCnt = valCnt
-            self.stacks[valCnt] = []
+        if valCnt > self.maxcnt:
+            self.maxcnt = valCnt
+            self.stacks[self.maxcnt] = []
         
         self.stacks[valCnt].append(val)
-
-    def pop(self) -> int:
-        res = self.stacks[self.maxCnt].pop()
-        self.cnt[res] -= 1
-
-        if not self.stacks[self.maxCnt]:
-            self.maxCnt -= 1
-        return res
         
+    def pop(self):
+        """
+        :rtype: int
+        """
+        res = self.stacks[self.maxcnt].pop()
+
+        self.count[res] -= 1
+
+        if not self.stacks[self.maxcnt]:
+            self.maxcnt -= 1
+        
+        return res
 
 
 # Your FreqStack object will be instantiated and called as such:
