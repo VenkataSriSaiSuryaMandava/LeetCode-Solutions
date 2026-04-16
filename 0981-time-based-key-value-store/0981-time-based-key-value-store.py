@@ -1,25 +1,40 @@
-class TimeMap:
+class TimeMap(object):
 
     def __init__(self):
-        self.timemap = defaultdict(list)
+        self.timestamp = defaultdict(list)
 
-    def set(self, key: str, value: str, timestamp: int) -> None:
-        self.timemap[key].append((value, timestamp))
+    def set(self, key, value, timestamp):
+        """
+        :type key: str
+        :type value: str
+        :type timestamp: int
+        :rtype: None
+        """
+        self.timestamp[key].append([value, timestamp])
+        
 
-    def get(self, key: str, timestamp: int) -> str:
-        get_val = self.timemap[key]
+    def get(self, key, timestamp):
+        """
+        :type key: str
+        :type timestamp: int
+        :rtype: str
+        """
+        cur = self.timestamp[key]
+
         l = 0
-        r = len(get_val) - 1
-        res = ""
+        r = len(cur) - 1
+
         while l <= r:
             m = (l + r) // 2
-            if get_val[m][1] <= timestamp:
-                res = get_val[m][0]
+
+            if cur[m][1] <= timestamp:
                 l = m + 1
-            elif get_val[m][1] > timestamp:
+            else:
                 r = m - 1
         
-        return res
+        return cur[r][0]
+
+
 # Your TimeMap object will be instantiated and called as such:
 # obj = TimeMap()
 # obj.set(key,value,timestamp)
