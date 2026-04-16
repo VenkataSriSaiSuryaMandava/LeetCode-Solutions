@@ -1,9 +1,10 @@
-class Solution:
-    def shipWithinDays(self, weights: List[int], days: int) -> int:
-        l = max(weights)
-        r = sum(weights)
-        res = r
-
+class Solution(object):
+    def shipWithinDays(self, weights, days):
+        """
+        :type weights: List[int]
+        :type days: int
+        :rtype: int
+        """
         def canShip(cap):
             ships = 1
             curCap = cap
@@ -12,17 +13,22 @@ class Solution:
                 if curCap - w < 0:
                     curCap = cap
                     ships += 1
+
                 curCap -= w
-            
-            return ships <= days
+
+            return ships <= days        
+        
+        l = max(weights)
+        r = sum(weights)
+        res = sum(weights)
 
         while l <= r:
-            cap = (l + r) // 2
+            m = (l + r) // 2
 
-            if canShip(cap):
-                res = min(res, cap)
-                r = cap - 1
+            if canShip(m):
+                res = min(res, m)
+                r = m - 1
             else:
-                l = cap + 1
+                l = m + 1
         
         return res
