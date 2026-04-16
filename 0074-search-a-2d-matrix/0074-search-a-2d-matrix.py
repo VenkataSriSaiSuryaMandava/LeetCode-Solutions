@@ -22,7 +22,7 @@ class Solution(object):
             return False
         
         left = 0
-        right = len(matrix) - 1
+        right = len(matrix[0]) - 1
 
         while left <= right:
             mid = (left + right) // 2
