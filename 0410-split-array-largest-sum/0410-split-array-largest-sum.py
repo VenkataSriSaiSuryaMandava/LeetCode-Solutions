@@ -1,27 +1,32 @@
-class Solution:
-    def splitArray(self, nums: List[int], k: int) -> int:
-        
+class Solution(object):
+    def splitArray(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
         def canSplit(largest):
+            subarrays = 1
             curSum = 0
-            subArrays = 1
 
             for n in nums:
                 curSum += n
+
                 if curSum > largest:
-                    subArrays += 1
+                    subarrays += 1
                     curSum = n
             
-            return subArrays <= k
-        
+            return subarrays <= k
+
         l = max(nums)
         r = sum(nums)
-        res = r
-
+        res = sum(nums)
+        
         while l <= r:
             m = (l + r) // 2
 
             if canSplit(m):
-                res = m
+                res = min(res, m)
                 r = m - 1
             else:
                 l = m + 1
