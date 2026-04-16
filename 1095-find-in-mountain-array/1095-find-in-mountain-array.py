@@ -2,12 +2,25 @@
 # This is MountainArray's API interface.
 # You should not implement it, or speculate about its implementation
 # """
-#class MountainArray:
-#    def get(self, index: int) -> int:
-#    def length(self) -> int:
+#class MountainArray(object):
+#    def get(self, index):
+#        """
+#        :type index: int
+#        :rtype int
+#        """
+#
+#    def length(self):
+#        """
+#        :rtype int
+#        """
 
-class Solution:
-    def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
+class Solution(object):
+    def findInMountainArray(self, target, mountainArr):
+        """
+        :type target: integer
+        :type mountain_arr: MountainArray
+        :rtype: integer
+        """
         length = mountainArr.length()
 
         l = 1
@@ -15,6 +28,7 @@ class Solution:
 
         while l <= r:
             m = (l + r) // 2
+
             left = mountainArr.get(m - 1)
             mid = mountainArr.get(m)
             right = mountainArr.get(m + 1)
@@ -28,16 +42,16 @@ class Solution:
         
         peak = m
 
-        l = 0 
+        l = 0
         r = peak
 
         while l <= r:
             m = (l + r) // 2
             val = mountainArr.get(m)
 
-            if val < target:
+            if target > val:
                 l = m + 1
-            elif val > target:
+            elif target < val:
                 r = m - 1
             else:
                 return m
@@ -49,12 +63,11 @@ class Solution:
             m = (l + r) // 2
             val = mountainArr.get(m)
 
-            if val > target:
+            if target < val:
                 l = m + 1
-            elif val < target:
+            elif target > val:
                 r = m - 1
             else:
                 return m
         
         return -1
-                
