@@ -23,16 +23,18 @@ class TimeMap(object):
 
         l = 0
         r = len(cur) - 1
+        res = ""
 
         while l <= r:
             m = (l + r) // 2
 
             if cur[m][1] <= timestamp:
+                res = cur[m][0]
                 l = m + 1
             else:
                 r = m - 1
         
-        return cur[r][0]
+        return res
 
 
 # Your TimeMap object will be instantiated and called as such:
