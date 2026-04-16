@@ -1,19 +1,24 @@
-class Solution:
-    def findMin(self, nums: List[int]) -> int:
+class Solution(object):
+    def findMin(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         l = 0
         r = len(nums) - 1
-        res = nums[0]
+        res = float("inf")
 
         while l <= r:
+            m = (l + r) // 2
+            res = min(res, nums[m])
+
             if nums[l] < nums[r]:
                 res = min(res, nums[l])
                 break
             
-            m = (l + r) // 2
-            res = min(res, nums[m])
-            if nums[m] >= nums[l]:
-                l = m + 1
-            else:
+            if nums[m] <= nums[l]:
                 r = m - 1
-        return res
+            else:
+                l = m + 1
         
+        return res
