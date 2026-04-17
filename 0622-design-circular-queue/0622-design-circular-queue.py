@@ -1,30 +1,39 @@
-class ListNode:
-
+class Node:
     def __init__(self, val, prev, next):
         self.val = val
-        self.prev = prev
         self.next = next
+        self.prev = prev
 
-class MyCircularQueue:
+class MyCircularQueue(object):
 
-    def __init__(self, k: int):
+    def __init__(self, k):
+        """
+        :type k: int
+        """
         self.space = k
-        self.left = ListNode(0, None, None)
-        self.right = ListNode(0, self.left, None)
+        self.left = Node(0, None, None)
+        self.right = Node(0, self.left, None)
         self.left.next = self.right
 
-    def enQueue(self, value: int) -> bool:
+    def enQueue(self, value):
+        """
+        :type value: int
+        :rtype: bool
+        """
         if self.isFull():
             return False
         
-        cur = ListNode(value, self.right.prev, self.right)
+        cur = Node(value, self.right.prev, self.right)
         self.right.prev.next = cur
         self.right.prev = cur
         self.space -= 1
 
         return True
         
-    def deQueue(self) -> bool:
+    def deQueue(self):
+        """
+        :rtype: bool
+        """
         if self.isEmpty():
             return False
         
@@ -34,22 +43,34 @@ class MyCircularQueue:
 
         return True
 
-    def Front(self) -> int:
+    def Front(self):
+        """
+        :rtype: int
+        """
         if self.isEmpty():
             return -1
         
         return self.left.next.val
 
-    def Rear(self) -> int:
+    def Rear(self):
+        """
+        :rtype: int
+        """
         if self.isEmpty():
             return -1
         
         return self.right.prev.val
 
-    def isEmpty(self) -> bool:
+    def isEmpty(self):
+        """
+        :rtype: bool
+        """
         return self.left.next == self.right
 
-    def isFull(self) -> bool:
+    def isFull(self):
+        """
+        :rtype: bool
+        """
         return self.space == 0
 
 
