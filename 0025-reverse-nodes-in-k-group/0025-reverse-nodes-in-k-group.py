@@ -10,7 +10,6 @@ class Solution(object):
         :type k: int
         :rtype: Optional[ListNode]
         """
-    
         dummy = ListNode(0, head)
         groupPrev = dummy
 
@@ -31,11 +30,11 @@ class Solution(object):
                 cur = temp
             
             temp = groupPrev.next
-            groupPrev.next = kth
+            groupPrev.next =kth
             groupPrev = temp
         
         return dummy.next
-
+    
     def findkth(self, cur, k):
         while cur and k:
             cur = cur.next
