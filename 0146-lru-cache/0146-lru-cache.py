@@ -1,9 +1,9 @@
 class Node:
-    def __init__(self, key = 0, val = 0, next = None, prev = None):
+    def __init__(self, key = 0, val = 0, prev = None, next = None):
         self.key = key
         self.val = val
-        self.next = next
         self.prev = prev
+        self.next = next
 
 class LRUCache(object):
 
@@ -24,11 +24,11 @@ class LRUCache(object):
         prevNode = self.right.prev
         nextNode = self.right
 
-        node.next = nextNode
-        node.prev = prevNode
-
-        nextNode.prev = node
         prevNode.next = node
+        nextNode.prev = node
+
+        node.prev = prevNode
+        node.next = nextNode
     
     def remove(self, node):
         prevNode = node.prev
@@ -36,7 +36,7 @@ class LRUCache(object):
 
         prevNode.next = nextNode
         nextNode.prev = prevNode
-        
+
     def get(self, key):
         """
         :type key: int
@@ -45,11 +45,9 @@ class LRUCache(object):
         if key in self.map:
             self.remove(self.map[key])
             self.insert(self.map[key])
-            
             return self.map[key].val
-
-        return -1
         
+        return -1
 
     def put(self, key, value):
         """
@@ -59,7 +57,7 @@ class LRUCache(object):
         """
         if key in self.map:
             self.remove(self.map[key])
-        
+
         self.map[key] = Node(key, value)
         self.insert(self.map[key])
 
@@ -67,7 +65,6 @@ class LRUCache(object):
             lru = self.left.next
             self.remove(lru)
             del self.map[lru.key]
-
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
