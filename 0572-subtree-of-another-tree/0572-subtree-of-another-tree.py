@@ -20,7 +20,7 @@ class Solution(object):
         if self.isSameTree(root, subRoot):
             return True
         
-        return (self.isSameTree(root.left, subRoot) or self.isSameTree(root.right, subRoot))
+        return (self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot))
     
     def isSameTree(self, p, q):
         if not p and not q:
