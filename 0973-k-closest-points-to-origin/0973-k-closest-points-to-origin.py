@@ -1,13 +1,19 @@
-class Solution:
-    def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-        minheap = []
+class Solution(object):
+    def kClosest(self, points, k):
+        """
+        :type points: List[List[int]]
+        :type k: int
+        :rtype: List[List[int]]
+        """
+        minHeap = []
         res = []
 
         for x, y in points:
             dist = x * x + y * y
-            heapq.heappush(minheap, (dist,x, y))
-            
-        for i in range(k):
-            dist, x, y = heapq.heappop(minheap)
+            heapq.heappush(minHeap, [dist, x, y])
+        
+        while len(res) < k:
+            dist, x, y = heapq.heappop(minHeap)
             res.append([x, y])
+        
         return res
