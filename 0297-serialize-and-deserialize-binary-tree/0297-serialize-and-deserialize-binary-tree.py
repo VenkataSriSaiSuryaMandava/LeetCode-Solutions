@@ -25,6 +25,7 @@ class Codec:
             dfs(node.right)
         
         dfs(root)
+
         return ",".join(res)
 
     def deserialize(self, data):
@@ -33,8 +34,8 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        data = data.split(",")
-        self.i = 0
+        data = data.split(',')
+        self. i = 0
 
         def dfs():
             if data[self.i] == "N":
@@ -46,7 +47,7 @@ class Codec:
 
             node.left = dfs()
             node.right = dfs()
-            
+
             return node
         
         return dfs()
