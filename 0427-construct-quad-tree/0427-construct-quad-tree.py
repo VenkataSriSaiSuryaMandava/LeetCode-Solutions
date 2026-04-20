@@ -1,7 +1,7 @@
 """
 # Definition for a QuadTree node.
-class Node:
-    def __init__(self, val, isLeaf, topLeft, topRight, bottomLeft, bottomRight):
+class Node(object):
+    def __init__(self, val=False, isLeaf=False, topLeft=None, topRight=None, bottomLeft=None, bottomRight=None):
         self.val = val
         self.isLeaf = isLeaf
         self.topLeft = topLeft
@@ -10,9 +10,13 @@ class Node:
         self.bottomRight = bottomRight
 """
 
-class Solution:
-    def construct(self, grid: List[List[int]]) -> 'Node':
-
+class Solution(object):
+    def construct(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: Node
+        """
+        
         def dfs(n, r, c):
             allSame = True
 
@@ -34,4 +38,3 @@ class Solution:
             return Node(0, False, topLeft, topRight, bottomLeft, bottomRight)
         
         return dfs(len(grid), 0, 0)
-        
