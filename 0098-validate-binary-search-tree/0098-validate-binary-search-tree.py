@@ -15,12 +15,12 @@ class Solution(object):
             if not node:
                 return True
             
-            if not (left <= node.val <= right):
+            if not (left < node.val < right):
                 return False
 
             leftTree = dfs(node.left, left, node.val)
             rightTree = dfs(node.right, node.val, right)
             
             return leftTree and rightTree
-            
+
         return dfs(root, float("-inf"), float("inf"))
