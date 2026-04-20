@@ -4,18 +4,18 @@ class Solution(object):
         :type stones: List[int]
         :rtype: int
         """
-        nums = []
+        minHeap = []
         for stone in stones:
-            heapq.heappush(nums, -1 * stone) 
+            heapq.heappush(minHeap, -1 * stone) 
 
-        while len(nums) > 1:
-            x = -1 * heapq.heappop(nums)
-            y = -1 * heapq.heappop(nums)
+        while len(minHeap) > 1:
+            y = -1 * heapq.heappop(minHeap)
+            x = -1 * heapq.heappop(minHeap)
 
             if x != y:
-                heapq.heappush(nums, -1 * abs(y - x))
+                heapq.heappush(minHeap, -1 * (y - x))
         
-        if stones:
-            return -1 * nums[0]
+        if minHeap:
+            return -1 * minHeap[0]
         else:
             return 0
