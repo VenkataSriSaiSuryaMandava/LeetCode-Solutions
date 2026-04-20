@@ -4,23 +4,15 @@ class Solution(object):
         :type colors: List[int]
         :rtype: int
         """
-        l = 0
-        r = len(colors) - 1
         res = 0
+        n = len(colors)
         
-        while l < r:
-            if colors[l] != colors[r]:
-                res = max(res, r - l)
-
-            l += 1
-
-        l = 0
-        r = len(colors) - 1
-        
-        while l < r:
-            if colors[l] != colors[r]:
-                res = max(res, r - l)
-
-            r -= 1
+        for i in range(n):
+            if colors[i] != colors[-1]:
+                res = max(res, n - 1 - i)
+  
+        for i in range(n - 1, -1, -1):
+            if colors[i] != colors[0]:
+                res = max(res, i)
         
         return res
