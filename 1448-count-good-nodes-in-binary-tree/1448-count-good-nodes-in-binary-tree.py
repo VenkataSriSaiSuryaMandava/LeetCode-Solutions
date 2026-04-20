@@ -10,6 +10,7 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+
         def dfs(node, maxVal):
             if not node:
                 return 0
@@ -21,7 +22,7 @@ class Solution(object):
             
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
-
+        
             return res
         
         return dfs(root, root.val)
