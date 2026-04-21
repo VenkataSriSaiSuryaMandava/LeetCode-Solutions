@@ -1,17 +1,27 @@
-class Solution:
-    def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        passChange = [0] * 1001
+class Solution(object):
+    def carPooling(self, trips, capacity):
+        """
+        :type trips: List[List[int]]
+        :type capacity: int
+        :rtype: bool
+        """
+        trips.sort(key = lambda t : t[1])
 
-        for t in trips:
-            numPass, start, end = t
-            passChange[start] += numPass
-            passChange[end] -= numPass
-        
         curPass = 0
-        for i in range(1001):
-            curPass += passChange[i]
+        minHeap = []
+
+        for trip in trips:
+            numPass, start, end = trip
+
+            while minHeap and minHeap[0][0] <= start:
+                prevEnd, prevPass = heapq.heappop(minHeap)
+                curPass -= prevPass
             
+            curPass += numPass
+
             if curPass > capacity:
                 return False
+            
+            heapq.heappush(minHeap, (end, numPass))
         
         return True
