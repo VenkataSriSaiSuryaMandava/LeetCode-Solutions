@@ -222,6 +222,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -979,6 +980,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1357,6 +1359,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
