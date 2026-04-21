@@ -1,13 +1,18 @@
-class Solution:
-    def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
+class Solution(object):
+    def findMaximizedCapital(self, k, w, profits, capital):
+        """
+        :type k: int
+        :type w: int
+        :type profits: List[int]
+        :type capital: List[int]
+        :rtype: int
+        """
         maxProfit = []
         minCapital = []
 
-        for c, p in zip(capital, profits):
-            minCapital.append([c, -1 * p])
+        for p, c in zip(profits, capital):
+            minCapital.append((c, -1 * p))
         
-        heapq.heapify(minCapital)
-
         for i in range(k):
             while minCapital and minCapital[0][0] <= w:
                 c, p = heapq.heappop(minCapital)
@@ -17,6 +22,5 @@ class Solution:
                 break
             
             w -= heapq.heappop(maxProfit)
-
-        return w
         
+        return w
