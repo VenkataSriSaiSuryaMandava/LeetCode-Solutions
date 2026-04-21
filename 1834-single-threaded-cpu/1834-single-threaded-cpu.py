@@ -1,13 +1,18 @@
-class Solution:
-    def getOrder(self, tasks: List[List[int]]) -> List[int]:
+class Solution(object):
+    def getOrder(self, tasks):
+        """
+        :type tasks: List[List[int]]
+        :rtype: List[int]
+        """
         for i, task in enumerate(tasks):
             task.append(i)
+        
         tasks.sort()
+        i = 0
+        time = tasks[0][0]
 
         res = []
         minHeap = []
-        i = 0
-        time = tasks[0][0]
 
         while minHeap or i < len(tasks):
             while i < len(tasks) and tasks[i][0] <= time:
@@ -17,8 +22,8 @@ class Solution:
             if not minHeap:
                 time = tasks[i][0]
             else:
-                procTime, index = heapq.heappop(minHeap)
-                time += procTime
+                proctime, index = heapq.heappop(minHeap)
+                time += proctime
                 res.append(index)
         
         return res
