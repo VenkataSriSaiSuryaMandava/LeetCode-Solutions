@@ -13,6 +13,8 @@ class Solution(object):
         for p, c in zip(profits, capital):
             minCapital.append((c, -1 * p))
         
+        heapq.heapify(minCapital)
+        
         for i in range(k):
             while minCapital and minCapital[0][0] <= w:
                 c, p = heapq.heappop(minCapital)
