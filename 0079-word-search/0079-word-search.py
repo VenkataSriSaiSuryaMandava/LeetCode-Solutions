@@ -22,13 +22,15 @@ class Solution(object):
                 return False
             
             visit.add((r, c))
-            
+
             for dr, dc in directions:
                 row = r + dr
                 col = c + dc
 
                 if backtrack(row, col, i + 1):
                     return True
+            
+            visit.remove((r, c))
             
             return False
 
