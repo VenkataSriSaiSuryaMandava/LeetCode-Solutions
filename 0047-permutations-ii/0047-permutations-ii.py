@@ -1,24 +1,30 @@
-class Solution:
-    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        perms = []
-
+class Solution(object):
+    def permuteUnique(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
         count = defaultdict(int)
         for n in nums:
             count[n] += 1
         
-        def dfs():
+        res = []
+        perms = []
+
+        def backtrack():
             if len(perms) == len(nums):
-                res.append(perms.copy())
+                res.append(perms[ : : ])
                 return 
             
             for n in count:
                 if count[n]:
-                    perms.append(n)
                     count[n] -= 1
-                    dfs()
-
-                    perms.pop()
+                    perms.append(n)
+                    backtrack()
+                    
                     count[n] += 1
-        dfs()
+                    perms.pop()
+        
+        backtrack()
+
         return res
