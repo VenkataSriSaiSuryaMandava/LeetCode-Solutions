@@ -8,7 +8,7 @@ class Solution(object):
         res = []
         subset = []
 
-        def backtrack(i, curSum, target):
+        def backtrack(i, curSum):
             if target == curSum:
                 res.append(subset[ : : ])
                 return 
@@ -17,11 +17,11 @@ class Solution(object):
                 return
             
             subset.append(candidates[i])
-            backtrack(i, curSum + candidates[i], target)
+            backtrack(i, curSum + candidates[i])
 
             subset.pop()
-            backtrack(i + 1, curSum, target)
+            backtrack(i + 1, curSum)
         
-        backtrack(0, 0, target)
+        backtrack(0, 0)
 
         return res
