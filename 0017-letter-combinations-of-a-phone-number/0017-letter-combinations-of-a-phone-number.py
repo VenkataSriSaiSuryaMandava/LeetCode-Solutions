@@ -16,14 +16,15 @@ class Solution(object):
         }
 
         res = []
-        
+
         def backtrack(i, cur):
             if len(cur) == len(digits):
                 res.append(cur)
                 return
-
+            
             for ch in digitToChar[digits[i]]:
                 backtrack(i + 1, cur + ch)
         
         backtrack(0, "")
+
         return res
