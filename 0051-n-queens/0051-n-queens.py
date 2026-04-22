@@ -22,15 +22,15 @@ class Solution(object):
                     continue
                 
                 cols.add(c)
-                posDiag.add((r + c))
-                negDiag.add((r - c))
+                posDiag.add(r + c)
+                negDiag.add(r - c)
                 board[r][c] = "Q"
 
                 backtrack(r + 1)
 
                 cols.remove(c)
-                posDiag.remove((r + c))
-                negDiag.remove((r - c))
+                posDiag.remove(r + c)
+                negDiag.remove(r - c)
                 board[r][c] = "."
         
         backtrack(0)
