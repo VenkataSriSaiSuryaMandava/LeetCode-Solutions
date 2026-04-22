@@ -1,19 +1,26 @@
-class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
+class Solution(object):
+    def generateParenthesis(self, n):
+        """
+        :type n: int
+        :rtype: List[str]
+        """
         res = []
         subset = []
 
-        def backtrack(openN, closeN):
-            if openN == closeN == n:
+        def backtrack(left, right):
+            if left == right == n:
                 res.append("".join(subset))
                 return
-            if openN < n:
+            
+            if left < n:
                 subset.append('(')
-                backtrack(openN + 1, closeN)
+                backtrack(left + 1, right)
                 subset.pop()
-            if closeN < openN:
+            if right < left:
                 subset.append(')')
-                backtrack(openN, closeN + 1)
+                backtrack(left, right + 1)
                 subset.pop()
+        
         backtrack(0, 0)
+
         return res
