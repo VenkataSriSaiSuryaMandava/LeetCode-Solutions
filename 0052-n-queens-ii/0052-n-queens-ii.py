@@ -1,5 +1,9 @@
-class Solution:
-    def totalNQueens(self, n: int) -> int:
+class Solution(object):
+    def totalNQueens(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
         self.res = 0
 
         cols = set()
@@ -9,7 +13,6 @@ class Solution:
         def backtrack(r):
             if r == n:
                 self.res += 1
-                return 
             
             for c in range(n):
                 if c in cols or (r + c) in posDiag or (r - c) in negDiag:
@@ -28,3 +31,4 @@ class Solution:
         backtrack(0)
 
         return self.res
+
