@@ -9,7 +9,7 @@ class Solution(object):
 
         def backtrack(i):
             if i == len(nums):
-                res.append(list(subset))
+                res.append(subset[ : : ])
                 return 
             
             subset.append(nums[i])
