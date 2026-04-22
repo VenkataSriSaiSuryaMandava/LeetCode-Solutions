@@ -4,16 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        self.res = 0
-
         def backtrack(i, xorTotal):
             if i == len(nums):
-                self.res += xorTotal
-                return
+                return xorTotal
             
-            backtrack(i + 1, xorTotal ^ nums[i])
-            backtrack(i + 1, xorTotal)
+            return backtrack(i + 1, xorTotal ^ nums[i]) + backtrack(i + 1, xorTotal)
         
-        backtrack(0, 0)
-
-        return self.res
+        return backtrack(0, 0)
