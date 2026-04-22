@@ -13,7 +13,8 @@ class Solution(object):
 
         def backtrack(r):
             if r == n:
-                res.append("".join(row) for row in board)
+                copy = ["".join(row) for row in board]
+                res.append(copy)
                 return 
             
             for c in range(n):
