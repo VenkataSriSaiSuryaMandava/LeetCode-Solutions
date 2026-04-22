@@ -16,6 +16,7 @@ class Solution(object):
                 subset.append('(')
                 backtrack(left + 1, right)
                 subset.pop()
+                
             if right < left:
                 subset.append(')')
                 backtrack(left, right + 1)
