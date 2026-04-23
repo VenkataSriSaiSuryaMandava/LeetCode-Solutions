@@ -1,9 +1,15 @@
-class Solution:
-    def canPartitionKSubsets(self, nums: List[int], k: int) -> bool:
-        if sum(nums) % k != 0:
+class Solution(object):
+    def canPartitionKSubsets(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: bool
+        """
+        if sum(nums) % k:
             return False
         
         nums.sort(reverse = True)
+
         target = sum(nums) // k
         used = [False] * len(nums)
 
@@ -13,11 +19,12 @@ class Solution:
             
             if curSum == target:
                 return backtrack(0, k - 1, 0)
-            
-            for j in range(i, len(nums)):
-                if used[j] or curSum + nums[j] > target or (j > i and nums[j] == nums[j - 1] and not used[j - 1]):
-                    continue
 
+            for j in range(i, len(nums)):
+                if (used[j] or curSum + nums[j] > target or (i < j and 
+                    nums[j - 1] == nums[j] and not used[j - 1])): 
+                    continue
+                
                 used[j] = True
 
                 if backtrack(j + 1, k, curSum + nums[j]):
