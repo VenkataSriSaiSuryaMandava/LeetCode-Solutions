@@ -1,4 +1,4 @@
-class TrieNode:
+class Trie:
     def __init__(self):
         self.children = {}
         self.endOfWord = False
@@ -8,7 +8,8 @@ class TrieNode:
 
         for c in word:
             if c not in cur.children:
-                cur.children[c] = TrieNode()
+                cur.children[c] = Trie()
+            
             cur = cur.children[c]
         
         cur.endOfWord = True
@@ -20,20 +21,21 @@ class Solution(object):
         :type words: List[str]
         :rtype: List[str]
         """
-        root = TrieNode()
-
+        root = Trie()
         for word in words:
             root.addWord(word)
         
         rows = len(board)
         cols = len(board[0])
-
-        visit = set()
+        
         res = set()
+        visit = set()
 
-        def backtrack(r, c, node, word):
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+        def backtrack(r, c, word, node):
             if (r < 0 or c < 0 or
-                r >= rows or c >= cols or
+                r == rows or c == cols or
                 (r, c) in visit or
                 board[r][c] not in node.children):
                 return 
@@ -46,15 +48,16 @@ class Solution(object):
                 res.add(word)
                 node.endOfWord = False
             
-            backtrack(r + 1, c, node, word)
-            backtrack(r - 1, c, node, word)
-            backtrack(r, c + 1, node, word)
-            backtrack(r, c - 1, node, word)
+            for dr, dc in directions:
+                row = r + dr
+                col = c + dc
 
+                backtrack(row, col, word, node)
+            
             visit.remove((r, c))
         
         for r in range(rows):
             for c in range(cols):
-                backtrack(r, c, root, "")
+                backtrack(r, c, "", root)
         
         return list(res)
