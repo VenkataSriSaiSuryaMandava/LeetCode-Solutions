@@ -1,11 +1,15 @@
-class Solution:
-    def makesquare(self, matchsticks: List[int]) -> bool:
+class Solution(object):
+    def makesquare(self, matchsticks):
+        """
+        :type matchsticks: List[int]
+        :rtype: bool
+        """
+        if sum(matchsticks) % 4:
+            return False
+        
         length = sum(matchsticks) // 4
         sides = [0] * 4
 
-        if sum(matchsticks) / 4 != length:
-            return False
-        
         matchsticks.sort(reverse = True)
 
         def backtrack(i):
@@ -18,7 +22,7 @@ class Solution:
 
                     if backtrack(i + 1):
                         return True
-
+                    
                     sides[j] -= matchsticks[i]
             
             return False
