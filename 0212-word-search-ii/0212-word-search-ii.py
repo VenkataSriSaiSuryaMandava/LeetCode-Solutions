@@ -31,8 +31,6 @@ class Solution(object):
         res = set()
         visit = set()
 
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-
         def backtrack(r, c, word, node):
             if (r < 0 or c < 0 or
                 r >= rows or c >= cols or
@@ -47,12 +45,11 @@ class Solution(object):
             if node.endOfWord:
                 res.add(word)
                 node.endOfWord = False
-            
-            for dr, dc in directions:
-                row = r + dr
-                col = c + dc
 
-                backtrack(row, col, word, node)
+            backtrack(r + 1, c, word, node)
+            backtrack(r - 1, c, word, node)
+            backtrack(r, c + 1, word, node)
+            backtrack(r, c - 1, word, node)
             
             visit.remove((r, c))
         
