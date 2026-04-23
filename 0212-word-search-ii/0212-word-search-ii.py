@@ -35,7 +35,7 @@ class Solution(object):
 
         def backtrack(r, c, word, node):
             if (r < 0 or c < 0 or
-                r == rows or c == cols or
+                r >= rows or c >= cols or
                 (r, c) in visit or
                 board[r][c] not in node.children):
                 return 
