@@ -58,6 +58,7 @@ class Solution(object):
         
         for r in range(rows):
             for c in range(cols):
-                backtrack(r, c, "", root)
+                if board[r][c] in root.children:
+                    backtrack(r, c, "", root)
         
         return list(res)
