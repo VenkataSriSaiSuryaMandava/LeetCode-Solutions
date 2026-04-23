@@ -1,5 +1,10 @@
-class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+class Solution(object):
+    def wordBreak(self, s, wordDict):
+        """
+        :type s: str
+        :type wordDict: List[str]
+        :rtype: List[str]
+        """
         wordDict = set(wordDict)
         cache = {}
 
@@ -13,15 +18,18 @@ class Solution:
             res = []
             for j in range(i, len(s)):
                 w = s[i : j + 1]
+
                 if w not in wordDict:
                     continue
                 
                 string = backtrack(j + 1)
+
                 if not string:
                     continue
                 
                 for substr in string:
                     sentence = w
+
                     if substr:
                         sentence += " " + substr
                     
@@ -29,5 +37,5 @@ class Solution:
                 
             cache[i] = res
             return res
-        
+
         return backtrack(0)
