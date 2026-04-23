@@ -17,8 +17,13 @@ class Trie:
             
             cur.word = True
 
-class Solution:
-    def minExtraChar(self, s: str, dictionary: List[str]) -> int:
+class Solution(object):
+    def minExtraChar(self, s, dictionary):
+        """
+        :type s: str
+        :type dictionary: List[str]
+        :rtype: int
+        """
         trie = Trie(dictionary).root
         dp = {len(s) : 0}
 
