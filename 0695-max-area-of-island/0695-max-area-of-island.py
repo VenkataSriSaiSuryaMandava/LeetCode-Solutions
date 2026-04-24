@@ -18,7 +18,7 @@ class Solution(object):
                 return 0
             
             visit.add((r, c))
-            area = 0
+            area = 1
 
             for dr, dc in directions:
                 row = r + dr
@@ -26,7 +26,7 @@ class Solution(object):
 
                 area += dfs(row, col)
             
-            return 1 + area
+            return area
         
         res = 0
 
