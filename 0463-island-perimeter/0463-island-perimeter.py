@@ -27,8 +27,7 @@ class Solution(object):
                 col = c + dc
 
                 res += dfs(row, col)
-            
-            visit.remove((r, c))
+        
             return res
         
         for r in range(rows):
