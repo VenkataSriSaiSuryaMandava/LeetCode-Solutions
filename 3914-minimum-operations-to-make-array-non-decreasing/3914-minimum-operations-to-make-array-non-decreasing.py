@@ -8,7 +8,6 @@ class Solution(object):
 
         for i in range(len(nums) - 1):
             if nums[i] > nums[i + 1]:
-                diff = nums[i] - nums[i + 1]
-                res += diff
+                res += nums[i] - nums[i + 1]
 
         return res
