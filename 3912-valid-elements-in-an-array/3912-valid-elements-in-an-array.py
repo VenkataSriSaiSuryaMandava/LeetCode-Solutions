@@ -21,10 +21,7 @@ class Solution(object):
         res = []
 
         for i, n in enumerate(nums):
-            if i == 0 or i == len(nums) - 1:
-                res.append(n)
-
-            elif left[i] < n or right[i] < n:
+            if left[i] < n or right[i] < n:
                 res.append(n)
 
         return res
