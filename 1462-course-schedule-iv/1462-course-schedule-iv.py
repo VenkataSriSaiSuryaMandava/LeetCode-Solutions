@@ -1,27 +1,33 @@
-class Solution:
-    def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
+class Solution(object):
+    def checkIfPrerequisite(self, numCourses, prerequisites, queries):
+        """
+        :type numCourses: int
+        :type prerequisites: List[List[int]]
+        :type queries: List[List[int]]
+        :rtype: List[bool]
+        """
         adj = defaultdict(list)
 
         for pre, crs in prerequisites:
             adj[crs].append(pre)
         
         def dfs(crs):
-            if crs not in prereqmap:
-                prereqmap[crs] = set()
+            if crs not in preMap:
+                preMap[crs] = set()
 
                 for pre in adj[crs]:
-                    prereqmap[crs] |= dfs(pre)
+                    preMap[crs] |= dfs(pre)
                 
-                prereqmap[crs].add(crs)
-            
-            return prereqmap[crs]
-        
-        prereqmap = {}
+                preMap[crs].add(crs)
+
+            return preMap[crs]
+
+        preMap = {}
         for crs in range(numCourses):
             dfs(crs)
 
         res = []
         for pre, crs in queries:
-            res.append(pre in prereqmap[crs])
+            res.append(pre in preMap[crs])
         
         return res
