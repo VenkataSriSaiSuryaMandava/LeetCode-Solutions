@@ -5,33 +5,36 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        premap = defaultdict(list)
+        preMap = defaultdict(list)
+
         for crs, pre in prerequisites:
-            premap[crs].append(pre)
+            preMap[crs].append(pre)
         
-        res = []
         visit = set()
         cycle = set()
+        res = []
 
-        def dfs(course):
-            if course in cycle:
+        def dfs(crs):
+            if crs in cycle:
                 return False
             
-            if course in visit:
+            if crs in visit:
                 return True
             
-            cycle.add(course)
-            for pre in premap[course]:
+            cycle.add(crs)
+
+            for pre in preMap[crs]:
                 if not dfs(pre):
                     return False
             
-            cycle.remove(course)
-            visit.add(course)
-            res.append(course)
+            cycle.remove(crs)
+            visit.add(crs)
+            res.append(crs)
+
             return True
         
-        for course in range(numCourses):
-            if not dfs(course):
+        for crs in range(numCourses):
+            if not dfs(crs):
                 return []
         
         return res
