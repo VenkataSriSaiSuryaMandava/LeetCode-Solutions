@@ -1,5 +1,9 @@
-class Solution:
-    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
+class Solution(object):
+    def findRedundantConnection(self, edges):
+        """
+        :type edges: List[List[int]]
+        :rtype: List[int]
+        """
         n = len(edges)
         parent = [i for i in range(n + 1)]
         rank = [1] * (n + 1)
@@ -7,6 +11,7 @@ class Solution:
         def find(node):
             if node != parent[node]:
                 parent[node] = find(parent[node])
+            
             return parent[node]
         
         def union(node1, node2):
@@ -22,8 +27,9 @@ class Solution:
             else:
                 parent[parent1] = parent2
                 rank[parent2] += rank[parent1]
-            return True
             
-        for node1, node2 in edges:
-            if not union(node1, node2):
-                return [node1, node2]
+            return True
+        
+        for n1, n2 in edges:
+            if not union(n1, n2):
+                return [n1, n2]
