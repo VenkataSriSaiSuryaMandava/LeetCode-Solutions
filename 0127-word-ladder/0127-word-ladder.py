@@ -6,11 +6,10 @@ class Solution(object):
         :type wordList: List[str]
         :rtype: int
         """
-        wordList = set(wordList)
-
         if endWord not in wordList:
             return 0
-    
+        
+        wordList.append(beginWord)
         adj = defaultdict(list)
 
         for word in wordList:
@@ -18,7 +17,7 @@ class Solution(object):
                 pattern = word[ : i] + "*" + word[i + 1 : ]
                 adj[pattern].append(word)
             
-        visit = {beginWord}
+        visit = set([beginWord])
         queue = deque([beginWord])
 
         res = 1
@@ -37,8 +36,7 @@ class Solution(object):
                         if nei not in visit:
                             visit.add(nei)
                             queue.append(nei)
-
-                    adj[pattern] = []
+            
             res += 1
 
-        return res
+        return 0
