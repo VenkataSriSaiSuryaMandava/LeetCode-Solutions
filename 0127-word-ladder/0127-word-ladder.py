@@ -6,20 +6,22 @@ class Solution(object):
         :type wordList: List[str]
         :rtype: int
         """
+        wordList = set(wordList)
+
         if endWord not in wordList:
             return 0
-        
-        wordList.append(beginWord)
-        nei = defaultdict(list)
+    
+        adj = defaultdict(list)
 
         for word in wordList:
             for i in range(len(word)):
-                pattern = word[ : i] + "*" + word[i + 1: ]
-                nei[pattern].append(word)
+                pattern = word[ : i] + "*" + word[i + 1 : ]
+                adj[pattern].append(word)
+            
+        visit = {beginWord}
+        queue = deque([beginWord])
 
         res = 1
-        visit = set(beginWord)
-        queue = deque([beginWord])
 
         while queue:
             for i in range(len(queue)):
@@ -31,11 +33,12 @@ class Solution(object):
                 for j in range(len(word)):
                     pattern = word[ : j] + "*" + word[j + 1 : ]
 
-                    for neiWord in nei[pattern]:
-                        if neiWord not in visit:
-                            visit.add(neiWord)
-                            queue.append(neiWord)
-                
+                    for nei in adj[pattern]:
+                        if nei not in visit:
+                            visit.add(nei)
+                            queue.append(nei)
+
+                    adj[pattern] = []
             res += 1
-        
-        return 0
+
+        return res
