@@ -1,24 +1,29 @@
-class Solution:
-    def swimInWater(self, grid: List[List[int]]) -> int:
+class Solution(object):
+    def swimInWater(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
         n = len(grid)
         visit = set((0, 0))
+
         minHeap = [[grid[0][0], 0, 0]]
-        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+        directions =[[1, 0], [-1, 0], [0, 1], [0, -1]]
 
         while minHeap:
             t, r, c = heapq.heappop(minHeap)
 
-            if r == n - 1 and c == n - 1:
+            if (r, c) == (n - 1, n - 1):
                 return t
             
             for dr, dc in directions:
-                neiR = r + dr
-                neiC = c + dc
+                row = r + dr
+                col = c + dc
 
-                if (neiR < 0 or neiC < 0 or
-                    neiR >= n or neiC >= n or
-                    (neiR, neiC) in visit):
+                if (row < 0 or col < 0 or
+                    row == n or col == n or 
+                    (row, col) in visit):
                     continue
-                
-                visit.add((neiR, neiC))
-                heapq.heappush(minHeap, [max(t, grid[neiR][neiC]), neiR, neiC])
+
+                visit.add((row, col))
+                heapq.heappush(minHeap, [max(t, grid[row][col]), row, col])
