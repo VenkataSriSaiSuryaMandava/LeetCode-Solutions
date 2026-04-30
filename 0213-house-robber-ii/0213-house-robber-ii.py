@@ -1,16 +1,20 @@
-class Solution:
-    def rob(self, nums: List[int]) -> int:
-        robFirst = self.helper(nums[ : -1])
-        robLast = self.helper(nums[1 : ])
+class Solution(object):
+    def rob(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        robleft = self.helper(nums[ : -1])
+        robright = self.helper(nums[1 : ])
 
-        return max(nums[0], robFirst, robLast)
-
+        return max(nums[0], robleft, robright)
+    
     def helper(self, nums):
         rob1 = 0
         rob2 = 0
 
         for n in nums:
-            temp = max(n + rob1, rob2)
+            temp = max(rob2, n + rob1)
             rob1 = rob2
             rob2 = temp
         
