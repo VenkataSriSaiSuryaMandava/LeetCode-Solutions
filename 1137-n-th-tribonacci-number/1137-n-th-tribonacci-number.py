@@ -1,11 +1,19 @@
-class Solution:
-    def tribonacci(self, n: int) -> int:
-        t = [0, 1, 1]
+class Solution(object):
+    def tribonacci(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        seq = [0, 1, 1]
 
         if n < 3:
-            return t[n]
-
-        for i in range(3, n + 1):
-            t[0], t[1], t[2] = t[1], t[2], sum(t)
+            return seq[n]
         
-        return t[2]
+        for i in range(n - 2):
+            temp = sum(seq)
+            seq[0] = seq[1]
+            seq[1] = seq[2]
+            seq[2] = temp
+
+        return seq[-1]
+
