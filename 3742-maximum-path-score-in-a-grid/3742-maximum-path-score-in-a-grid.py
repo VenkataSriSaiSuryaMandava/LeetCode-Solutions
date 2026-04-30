@@ -36,4 +36,4 @@ class Solution(object):
         
         res = max(dp[n - 1])
 
-        return res if res != -1 else -1
+        return res
