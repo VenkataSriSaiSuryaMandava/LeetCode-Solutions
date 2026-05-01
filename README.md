@@ -135,6 +135,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -569,6 +570,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0367-valid-perfect-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -643,6 +645,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0343-integer-break](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
