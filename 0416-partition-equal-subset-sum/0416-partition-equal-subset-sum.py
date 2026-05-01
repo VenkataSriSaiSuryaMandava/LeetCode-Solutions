@@ -1,21 +1,27 @@
-class Solution:
-    def canPartition(self, nums: List[int]) -> bool:
+class Solution(object):
+    def canPartition(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
         if sum(nums) % 2:
             return False
-
+        
         dp = set()
         dp.add(0)
+
         target = sum(nums) // 2
 
         for n in nums:
-            nextDP = set()
+            nextDp = set()
 
             for t in dp:
                 if n + t == target:
                     return True
-                nextDP.add(n + t)
-                nextDP.add(t)
                 
-            dp = nextDP
-
+                nextDp.add(t)
+                nextDp.add(n + t)
+            
+            dp = nextDp
+        
         return False
