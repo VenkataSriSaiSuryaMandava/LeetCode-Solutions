@@ -945,6 +945,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0761-special-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1502,6 +1503,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
