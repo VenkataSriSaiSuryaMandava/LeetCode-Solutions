@@ -1,5 +1,9 @@
-class Solution:
-    def stoneGame(self, piles: List[int]) -> bool:
+class Solution(object):
+    def stoneGame(self, piles):
+        """
+        :type piles: List[int]
+        :rtype: bool
+        """
         dp = {}
 
         def dfs(l, r):
