@@ -1,5 +1,10 @@
-class Solution:
-    def change(self, amount: int, coins: List[int]) -> int:
+class Solution(object):
+    def change(self, amount, coins):
+        """
+        :type amount: int
+        :type coins: List[int]
+        :rtype: int
+        """
         dp = [0] * (amount + 1)
         dp[0] = 1
 
@@ -12,6 +17,7 @@ class Solution:
 
                 if a - coins[i] >= 0:
                     nextDP[a] += nextDP[a - coins[i]]
+            
             dp = nextDP
         
         return dp[amount]
