@@ -1,11 +1,15 @@
-class Solution:
-    def lastStoneWeightII(self, stones: List[int]) -> int:
+class Solution(object):
+    def lastStoneWeightII(self, stones):
+        """
+        :type stones: List[int]
+        :rtype: int
+        """
         stoneSum = sum(stones)
         target = ceil(stoneSum / 2)
         dp = {}
 
         def dfs(i, total):
-            if total >= target or i == len(stones):
+            if i == len(stones) or total >= target:
                 return abs(total - (stoneSum - total))
             
             if (i, total) in dp:
