@@ -1,5 +1,9 @@
-class Solution:
-    def stoneGameII(self, piles: List[int]) -> int:
+class Solution(object):
+    def stoneGameII(self, piles):
+        """
+        :type piles: List[int]
+        :rtype: int
+        """
         dp = {}
 
         def dfs(i, M, alice):
@@ -19,11 +23,12 @@ class Solution:
                 total += piles[i + X - 1]
 
                 if alice:
-                    res = max(res, total + dfs(i + X, max(M, X), not alice))
+                    res = max(res, total + dfs(i + X, max(X, M), not alice))
                 else:
-                    res = min(res, dfs(i + X, max(M, X), not alice))
-
+                    res = min(res, dfs(i + X, max(X, M), not alice))
+                
             dp[(i, M, alice)] = res
-            return res
 
-        return dfs(0, 1, True) 
+            return res
+        
+        return dfs(0, 1, True)
