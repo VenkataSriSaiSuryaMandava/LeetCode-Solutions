@@ -1,5 +1,10 @@
-class Solution:
-    def numDistinct(self, s: str, t: str) -> int:
+class Solution(object):
+    def numDistinct(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: int
+        """
         dp = {}
 
         def dfs(i, j):
@@ -18,5 +23,5 @@ class Solution:
                 dp[(i, j)] = dfs(i + 1, j)
             
             return dp[(i, j)]
-
+        
         return dfs(0, 0)
