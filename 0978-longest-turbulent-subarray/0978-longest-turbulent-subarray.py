@@ -1,5 +1,9 @@
-class Solution:
-    def maxTurbulenceSize(self, arr: List[int]) -> int:
+class Solution(object):
+    def maxTurbulenceSize(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: int
+        """
         l = 0
         r = 1
 
