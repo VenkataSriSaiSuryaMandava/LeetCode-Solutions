@@ -1,5 +1,9 @@
-class Solution:
-    def maxSubarraySumCircular(self, nums: List[int]) -> int:
+class Solution(object):
+    def maxSubarraySumCircular(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         curMax = 0
         globalMax = nums[0]
 
@@ -16,7 +20,7 @@ class Solution:
             globalMin = min(globalMin, curMin)
 
             curSum += n
-
+        
         if globalMax < 0:
             return globalMax
         
