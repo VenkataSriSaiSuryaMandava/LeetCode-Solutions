@@ -5,9 +5,8 @@ class Solution(object):
         :type p: str
         :rtype: bool
         """
-        
         dp = {}
-        
+
         def dfs(i, j):
             if (i, j) in dp:
                 return dp[(i, j)]
@@ -18,10 +17,10 @@ class Solution(object):
             if j >= len(p):
                 return False
             
-            match = (i < len(s) and (s[i] == p[j] or p[j] == "."))
+            match = (i < len(s) and (s[i] == p[j] or p[j] == '.'))
 
-            if (j + 1) < len(p) and p[j + 1] == "*":
-                dp[(i, j)] = (dfs(i, j + 2) or (match and dfs(i + 1, j)))
+            if j + 1 < len(p) and p[j + 1] == '*':
+                dp[(i, j)] = dfs(i, j + 2) or (match and dfs(i + 1, j))
                 return dp[(i, j)]
             
             if match:
@@ -30,5 +29,5 @@ class Solution(object):
             
             dp[(i, j)] = False
             return dp[(i, j)]
-
+        
         return dfs(0, 0)
