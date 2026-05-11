@@ -264,6 +264,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2553-separate-the-digits-in-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -1583,6 +1584,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
