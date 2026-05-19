@@ -6,7 +6,7 @@ class Solution:
         D = deque()
 
         for i, c in enumerate(senate):
-            if c == 'R':
+            if c == "R":
                 R.append(i)
             else:
                 D.append(i)
