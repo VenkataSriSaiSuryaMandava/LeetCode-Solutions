@@ -16,7 +16,8 @@ class Solution:
             
             if leftMax < 0:
                 return False
+            
             if leftMin < 0:
                 leftMin = 0
-        
+            
         return leftMin == 0
