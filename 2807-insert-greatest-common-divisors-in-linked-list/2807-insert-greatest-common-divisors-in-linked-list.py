@@ -10,13 +10,12 @@ class Solution:
                 return a
             
             return gcd(b, a % b)
-
+        
         cur = head
 
         while cur and cur.next:
             nextNode = cur.next
-
-            val = gcd(cur.val, nextNode.val)
+            val = gcd(cur.val, cur.next.val)
             node = ListNode(val)
 
             node.next = nextNode
