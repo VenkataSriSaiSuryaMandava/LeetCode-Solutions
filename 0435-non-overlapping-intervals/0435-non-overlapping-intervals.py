@@ -8,7 +8,7 @@ class Solution:
             if start >= prevEnd:
                 prevEnd = end
             else:
+                prevEnd = min(prevEnd, end)
                 res += 1
-                prevEnd = min(end, prevEnd)
         
         return res
