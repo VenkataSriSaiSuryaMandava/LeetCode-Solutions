@@ -1,10 +1,5 @@
-class Solution(object):
-    def romanToInt(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        
+class Solution:
+    def romanToInt(self, s: str) -> int:
         mapping = {
             "I" : 1,
             "V" : 5,
@@ -14,7 +9,7 @@ class Solution(object):
             "D" : 500,
             "M" : 1000
         }
-        
+
         res = 0
 
         for i in range(len(s)):
