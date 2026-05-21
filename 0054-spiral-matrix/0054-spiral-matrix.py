@@ -1,18 +1,14 @@
-class Solution(object):
-    def spiralOrder(self, matrix):
-        """
-        :type matrix: List[List[int]]
-        :rtype: List[int]
-        """
-        left = 0
-        right = len(matrix[0]) 
-
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         top = 0
         bottom = len(matrix)
 
+        left = 0
+        right = len(matrix[0])
+
         res = []
 
-        while left < right and top < bottom:
+        while top < bottom and left < right:
             for i in range(left, right):
                 res.append(matrix[top][i])
             top += 1
@@ -21,7 +17,7 @@ class Solution(object):
                 res.append(matrix[i][right - 1])
             right -= 1
 
-            if not(left < right and top < bottom):
+            if not (left < right and top < bottom):
                 break
             
             for i in range(right - 1, left - 1, -1):
