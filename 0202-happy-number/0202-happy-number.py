@@ -1,24 +1,22 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         slow = n
-        fast = self.SumofSquares(n)
+        fast = self.sumOfSquares(n)
 
         while slow != fast:
-            fast = self.SumofSquares(fast)
-            fast = self.SumofSquares(fast)
-            slow = self.SumofSquares(slow)
+            slow = self.sumOfSquares(slow)
+            fast = self.sumOfSquares(fast)
+            fast = self.sumOfSquares(fast)
         
-        if fast == 1:
-            return True
-        else:
-            return False
-
-    def SumofSquares(self, n):
+        return slow == 1
+    
+    def sumOfSquares(self, n):
         res = 0
 
         while n:
             digit = n % 10
-            res += digit ** 2
-            n = n // 10
+            n = n// 10
+
+            res += digit * digit
         
         return res
