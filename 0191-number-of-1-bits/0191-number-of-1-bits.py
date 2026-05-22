@@ -5,4 +5,5 @@ class Solution:
         while n:
             res += 1
             n = n & (n - 1)
+        
         return res
