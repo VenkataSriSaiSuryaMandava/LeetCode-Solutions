@@ -1,10 +1,15 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
         n = len(nums)
-        count = 0
+        count = 1
 
-        for i in range(n):
-            if nums[i] > nums[(i + 1) % n]:
+        for i in range(1, 2 * n):
+            if nums[(i - 1) %  n] <= nums[i % n]:
                 count += 1
+            else:
+                count = 1
+            
+            if count == n:
+                return True
         
-        return count <= 1
+        return n == 1
