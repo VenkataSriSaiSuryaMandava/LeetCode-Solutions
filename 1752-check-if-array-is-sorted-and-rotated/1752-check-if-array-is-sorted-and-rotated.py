@@ -1,16 +1,10 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
         n = len(nums)
-        sortedNums = sorted(nums)
+        count = 0
 
         for i in range(n):
-            isSorted = True
-
-            for j in range(n):
-                if sortedNums[j] != nums[(i + j) % n]:
-                    isSorted = False
-            
-            if isSorted:
-                return True
-
-        return False
+            if nums[i] > nums[(i + 1) % n]:
+                count += 1
+        
+        return count <= 1
