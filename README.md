@@ -171,6 +171,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0724-find-pivot-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0752-open-the-lock) |
@@ -415,6 +416,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0705-design-hashset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -685,6 +687,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0788-rotated-digits) |
