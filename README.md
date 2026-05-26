@@ -688,6 +688,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -978,6 +979,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0680-valid-palindrome-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0761-special-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0761-special-binary-string) |
