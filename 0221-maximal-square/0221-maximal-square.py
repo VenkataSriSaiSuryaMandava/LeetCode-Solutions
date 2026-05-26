@@ -9,14 +9,14 @@ class Solution:
                 return 0
             
             if (r, c) not in cache:
-                down = helper(r + 1, c)
                 right = helper(r, c + 1)
-                diag = helper(r + 1, c + 1)
+                down = helper(r + 1, c)
+                diagonal = helper(r + 1, c + 1)
 
                 cache[(r, c)] = 0
 
-                if matrix[r][c] == "1":
-                    cache[(r, c)] = 1 +  min(down, right, diag)
+                if matrix[r][c] == '1':
+                    cache[(r, c)] = 1 + min(right, down, diagonal)
             
             return cache[(r, c)]
         
