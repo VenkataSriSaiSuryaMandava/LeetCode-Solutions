@@ -158,6 +158,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
@@ -515,6 +516,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -687,6 +689,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -745,6 +748,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
