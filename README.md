@@ -258,6 +258,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-count-special-quadruplets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1995-count-special-quadruplets) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
@@ -1237,6 +1238,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1862,4 +1864,5 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
