@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int], fee: int) -> int:
         sell = 0
-        hold = float('-inf')
+        hold = float("-inf")
 
         for price in prices:
             sell = max(sell, hold + price)
