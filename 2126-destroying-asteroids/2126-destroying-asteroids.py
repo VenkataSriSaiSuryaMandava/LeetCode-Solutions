@@ -7,4 +7,5 @@ class Solution:
                 mass += a
             else:
                 return False
+        
         return True
