@@ -266,6 +266,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -556,6 +557,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -789,6 +791,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
