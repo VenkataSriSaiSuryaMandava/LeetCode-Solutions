@@ -1,6 +1,6 @@
 class Solution:
     def minimumCost(self, cost: List[int]) -> int:
-        cost = reversed(sorted(cost))
+        cost.sort(reverse = True)
         res = 0
 
         for i, c in enumerate(cost):
