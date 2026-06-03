@@ -149,6 +149,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0454-4sum-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
@@ -709,6 +710,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1006,6 +1008,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0438-find-all-anagrams-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
