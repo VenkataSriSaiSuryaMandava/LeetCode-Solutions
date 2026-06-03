@@ -1,16 +1,11 @@
-class Solution(object):
-    def combinationSum4(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
+class Solution:
+    def combinationSum4(self, nums: List[int], target: int) -> int:
         dp = {0 : 1}
 
-        for target in range(1, target + 1):
-            dp[target] = 0
+        for t in range(1, target + 1):
+            dp[t] = 0
 
-            for n in nums:
-                dp[target] += dp.get(target - n, 0)
+            for num in nums:
+                dp[t] += dp.get(t - num, 0)
         
         return dp[target]
