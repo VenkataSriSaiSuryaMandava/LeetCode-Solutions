@@ -1,9 +1,5 @@
-class Solution(object):
-    def numSquares(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def numSquares(self, n: int) -> int:
         dp = [n] * (n + 1)
         dp[0] = 0
 
