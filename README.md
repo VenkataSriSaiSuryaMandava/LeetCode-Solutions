@@ -754,6 +754,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2466-count-ways-to-build-good-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
