@@ -6,4 +6,4 @@ class Solution:
         for i in range(4, n + 1):
             dp[i] = 2 * dp[i - 1] + dp[i - 3]
         
-        return dp[n] % MOD
+        return dp[n]
