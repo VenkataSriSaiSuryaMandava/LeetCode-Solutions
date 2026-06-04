@@ -728,6 +728,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
