@@ -4,9 +4,21 @@ class Solution:
         cols = len(grid[0])
         res = 0
 
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] < 0:
-                    res += 1
+        for row in range(rows):
+            l = 0
+            r = cols - 1
+            idx = -1
+
+            while l <= r:
+                m = (l + r) // 2
+
+                if grid[row][m] < 0:
+                    idx = m
+                    r = m - 1
+                else:
+                    l = m + 1
+            
+            if idx != -1:
+                res += cols - idx
 
         return res
