@@ -11,16 +11,18 @@ class TimeMap:
 
         l = 0 
         r = len(arr) - 1
+        res = ""
 
         while l <= r:
             m = (l + r) // 2
 
-            if timestamp <= arr[m][1]:
-                r = m - 1
-            else:
+            if timestamp >= arr[m][1]:
+                res = arr[m][0]
                 l = m + 1
+            else:
+                r = m - 1
         
-        return arr[m][0]
+        return res
 
 
 # Your TimeMap object will be instantiated and called as such:
