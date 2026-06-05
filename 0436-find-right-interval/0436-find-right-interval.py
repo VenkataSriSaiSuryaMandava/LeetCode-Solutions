@@ -15,12 +15,11 @@ class Solution:
                 m = (l + r) // 2
 
                 if intervals[m][0] >= end:
-                    idx = m
+                    idx = intervals[m][2]
                     r = m - 1
                 else:
                     l = m + 1
-            
-            if idx != -1:
-                res[index] = intervals[idx][2]
+
+            res[index] = idx
         
         return res
