@@ -214,6 +214,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -449,6 +450,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -850,6 +852,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0901-online-stock-span](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2069-walking-robot-simulation-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -1269,6 +1272,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
