@@ -1,15 +1,16 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        l = 1
+        l = 0
         r = num
 
         while l <= r:
             m = (l + r) // 2
 
-            if m * m < num:
+            if num > m * m:
                 l = m + 1
-            elif m * m > num:
+            elif num < m * m:
                 r = m - 1
             else:
                 return True
+        
         return False
