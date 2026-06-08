@@ -1259,6 +1259,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0222-count-complete-tree-nodes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -1885,6 +1886,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Ordered Set
