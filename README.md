@@ -157,6 +157,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -1275,6 +1276,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0436-find-right-interval](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
