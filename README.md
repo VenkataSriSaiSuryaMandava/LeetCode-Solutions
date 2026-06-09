@@ -639,6 +639,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0380-insert-delete-getrandom-o1](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -1269,6 +1270,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0374-guess-number-higher-or-lower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
