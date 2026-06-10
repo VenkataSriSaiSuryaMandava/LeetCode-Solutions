@@ -1,10 +1,5 @@
-class Solution(object):
-    def findMedianSortedArrays(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: float
-        """
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         A = nums1
         B = nums2
 
@@ -28,10 +23,11 @@ class Solution(object):
 
             if Aleft <= Bright and Bleft <= Aright:
                 if total % 2:
-                   return min(Aright, Bright)
+                    return min(Aright, Bright)
                 else:
-                    return(float(max(Aleft, Bleft) + min(Aright, Bright)) / 2)
-            elif Aleft > Bright:
+                    return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            
+            if Aleft > Bright:
                 r = i - 1
             else:
-                l = i + 1 
+                l = i + 1
