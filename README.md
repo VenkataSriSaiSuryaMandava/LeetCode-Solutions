@@ -152,6 +152,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0463-island-perimeter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0502-ipo) |
