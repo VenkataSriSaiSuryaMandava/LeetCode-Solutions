@@ -7,7 +7,17 @@ class Solution:
             if h > dp[-1]:
                 dp.append(h)
             else:
-                idx = bisect_left(dp, h)
-                dp[idx] = h
+                l = 0
+                r = len(dp) - 1
+
+                while l <= r:
+                    m = (l + r) // 2
+
+                    if h <= dp[m]:
+                        r = m - 1
+                    else:
+                        l = m + 1
+                
+                dp[l] = h
         
         return len(dp)
