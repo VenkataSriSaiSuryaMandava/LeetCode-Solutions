@@ -343,6 +343,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1128,6 +1129,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
@@ -1759,6 +1761,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Graph Theory
 |  |
 | ------- |
