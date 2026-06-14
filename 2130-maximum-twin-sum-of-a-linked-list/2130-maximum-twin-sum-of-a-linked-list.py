@@ -7,29 +7,27 @@ class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
         slow = head
         fast = head
-        prev = None
-        res = 0
 
         while fast and fast.next:
-            prev = slow
             slow = slow.next
             fast = fast.next.next
         
-        prev.next = None
-       
         prev = None
-        while slow:
-            temp = slow.next
-            slow.next = prev
-            prev = slow
-            slow = temp
-        
-        first = head
-        second = prev
+        cur = slow
 
-        while first and second:
-            res = max(res, first.val + second.val)
-            first = first.next
-            second = second.next
+        while cur:
+            temp = cur.next
+            cur.next = prev
+            prev = cur
+            cur = temp
+        
+        ptr1 = head
+        ptr2 = prev
+        res = 0
+
+        while ptr1 and ptr2:
+            res = max(res, ptr1.val + ptr2.val)
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next
         
         return res
