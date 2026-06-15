@@ -255,6 +255,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -1205,6 +1206,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -1752,6 +1754,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -1812,6 +1815,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0649-dota2-senate](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
