@@ -9,7 +9,7 @@ class Solution:
             i = int(i)
             cur = int(cur)
 
-            if op[0] == "s":
+            if op == "start":
                 if stack:
                     prev_id = stack[-1]
                     res[prev_id] += cur - prev
