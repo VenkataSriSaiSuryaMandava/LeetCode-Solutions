@@ -1,21 +1,17 @@
-class Solution(object):
-    def lastStoneWeight(self, stones):
-        """
-        :type stones: List[int]
-        :rtype: int
-        """
+class Solution:
+    def lastStoneWeight(self, stones: List[int]) -> int:
         minHeap = []
         for stone in stones:
-            heapq.heappush(minHeap, -1 * stone) 
+            heapq.heappush(minHeap, -1 * stone)
 
         while len(minHeap) > 1:
-            y = -1 * heapq.heappop(minHeap)
-            x = -1 * heapq.heappop(minHeap)
+            x = heapq.heappop(minHeap)
+            y = heapq.heappop(minHeap)
 
             if x != y:
-                heapq.heappush(minHeap, -1 * (y - x))
+                heapq.heappush(minHeap, x - y)
         
         if minHeap:
-            return -1 * minHeap[0]
+            return -1 * heapq.heappop(minHeap)
         else:
             return 0
