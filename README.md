@@ -1066,6 +1066,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0443-string-compression](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
