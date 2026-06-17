@@ -10,6 +10,7 @@ class Solution:
             while s[i + 1] != '@':
                 i += 1
             res += s[i : ].lower()
+            return res
         else:
             count = 0
             number = ""
@@ -26,5 +27,3 @@ class Solution:
                 return res
 
             return localNumber
-        
-        return res
