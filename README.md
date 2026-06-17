@@ -1137,6 +1137,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
@@ -1776,6 +1777,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Graph Theory
