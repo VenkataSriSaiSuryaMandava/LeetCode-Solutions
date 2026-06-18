@@ -254,6 +254,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1664-ways-to-make-a-fair-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -920,6 +921,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
