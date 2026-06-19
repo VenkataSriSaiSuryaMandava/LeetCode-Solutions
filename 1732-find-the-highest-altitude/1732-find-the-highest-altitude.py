@@ -3,8 +3,8 @@ class Solution:
         res = 0
         altitude = 0
 
-        for netgain in gain:
-            altitude += netgain
+        for netGain in gain:
+            altitude += netGain
             res = max(res, altitude)
         
         return res
