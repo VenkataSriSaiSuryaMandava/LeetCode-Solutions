@@ -394,6 +394,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0556-next-greater-element-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -681,6 +682,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0556-next-greater-element-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0633-sum-of-square-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -1336,6 +1338,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
