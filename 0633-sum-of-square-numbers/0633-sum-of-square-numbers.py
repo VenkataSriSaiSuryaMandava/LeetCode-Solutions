@@ -4,9 +4,11 @@ class Solution:
         r = int(sqrt(c))
 
         while l <= r:
-            if c > l * l + r * r:
+            s = l * l + r * r
+
+            if c > s:
                 l += 1
-            elif c < l * l + r * r:
+            elif c < s:
                 r -= 1
             else:
                 return True
