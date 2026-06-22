@@ -6,9 +6,9 @@ class Solution:
         for start, end in intervals[1 : ]:
             lastEnd = res[-1][1]
 
-            if start <= lastEnd:
-                res[-1][1] = max(end, lastEnd)
+            if lastEnd >= start:
+                res[-1][1] = max(lastEnd, end)
             else:
                 res.append([start, end])
-
+        
         return res
