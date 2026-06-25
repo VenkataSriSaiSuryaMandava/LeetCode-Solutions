@@ -1,11 +1,12 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         total_happy = 3 * (2 ** (n - 1))
-
-        res = []
         choices = "abc"
+
         left = 1
         right = total_happy
+
+        res = []
 
         for i in range(n):
             cur = left
@@ -14,11 +15,11 @@ class Solution:
             for c in choices:
                 if cur <= k < cur + partition_size:
                     res.append(c)
-                    left = cur
+                    left = cur 
                     right = cur + partition_size - 1
                     choices = "abc".replace(c, "")
                     break
                 
                 cur += partition_size
-
+        
         return "".join(res)
