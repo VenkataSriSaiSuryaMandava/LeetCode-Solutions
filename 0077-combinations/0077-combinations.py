@@ -1,22 +1,21 @@
-class Solution(object):
-    def combine(self, n, k):
-        """
-        :type n: int
-        :type k: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
-        subset = []
+        cur = []
 
         def backtrack(i):
-            if len(subset) == k:
-                res.append(subset[ : :])
+            if len(cur) == k:
+                res.append(cur.copy())
                 return
             
-            for j in range(i, n + 1):
-                subset.append(j)
-                backtrack(j + 1)
-                subset.pop()
+            if i > n:
+                return 
+            
+            cur.append(i)
+            backtrack(i + 1)
+
+            cur.pop()
+            backtrack(i + 1)
         
         backtrack(1)
 
