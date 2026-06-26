@@ -1,9 +1,8 @@
 class Solution:
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
-        n = len(nums)
         prefix = [0]
-
         pre = 0
+        
         for num in nums:
             pre += 1 if num == target else -1
             prefix.append(pre)
