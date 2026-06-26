@@ -352,6 +352,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3689-maximum-total-subarray-value-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -526,6 +527,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -555,6 +557,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -959,6 +962,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1416,6 +1420,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0493-reverse-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2009,6 +2014,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3161-block-placement-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bitmask
 |  |
 | ------- |
