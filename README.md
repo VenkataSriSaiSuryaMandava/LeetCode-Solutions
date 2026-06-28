@@ -271,6 +271,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1833-maximum-ice-cream-bars](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -620,6 +621,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1833-maximum-ice-cream-bars](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -880,6 +882,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1727-largest-submatrix-with-rearrangements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
