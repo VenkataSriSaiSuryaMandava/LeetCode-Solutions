@@ -1,22 +1,19 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
+class Solution:
+    def trap(self, height: List[int]) -> int:
         if not height:
             return 0
         
-        l = 0
-        r = len(height) - 1
+        n = len(height)
+        res = 0
 
+        l = 0
+        r = n - 1
+        
         maxl = height[l]
         maxr = height[r]
 
-        res = 0
-
         while l < r:
-            if maxl < maxr:
+            if maxl <= maxr:
                 l += 1
                 maxl = max(maxl, height[l])
                 res += maxl - height[l]
@@ -24,5 +21,5 @@ class Solution(object):
                 r -= 1
                 maxr = max(maxr, height[r])
                 res += maxr - height[r]
-
-        return res 
+        
+        return res
