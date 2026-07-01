@@ -322,6 +322,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
@@ -1043,6 +1044,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Data Stream
@@ -1205,6 +1207,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
@@ -1391,6 +1394,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1490,6 +1494,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1691,6 +1696,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
