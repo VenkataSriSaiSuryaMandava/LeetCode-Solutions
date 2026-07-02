@@ -11,7 +11,7 @@ class Solution:
             
             queue.append(r)
 
-            if r - l + 1 >= k:
+            if r - l + 1 == k:
                 if l > queue[0]:
                     queue.popleft()
                 
