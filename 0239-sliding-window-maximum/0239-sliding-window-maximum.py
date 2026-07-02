@@ -1,14 +1,10 @@
-class Solution(object):
-    def maxSlidingWindow(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
+class Solution:
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
         queue = deque()
         res = []
-        
+
         l = 0
+
         for r in range(len(nums)):
             while queue and nums[queue[-1]] < nums[r]:
                 queue.pop()
@@ -21,5 +17,5 @@ class Solution(object):
                 
                 res.append(nums[queue[0]])
                 l += 1
-        
+            
         return res
