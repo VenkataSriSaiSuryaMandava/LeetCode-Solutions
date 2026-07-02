@@ -1,17 +1,15 @@
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        countS = defaultdict(int)
-        countT = defaultdict(int)
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+
+        count_s = [0] * 26
+        count_t = [0] * 26
 
         for ch in s:
-            countS[ch] += 1
+            count_s[ord(ch) - ord('a')] += 1
         
         for ch in t:
-            countT[ch] += 1
+            count_t[ord(ch) - ord('a')] += 1
         
-        return countT == countS
+        return count_s == count_t
