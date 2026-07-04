@@ -1,21 +1,24 @@
 class Solution:
-    def minScore(self, n: int, roads: list[list[int]]) -> int:
+    def minScore(self, n: int, roads: List[List[int]]) -> int:
         adj = defaultdict(list)
-        for src, dst, dist in roads:
-            adj[src].append((dst, dist))
-            adj[dst].append((src, dist))
 
-        res = float("inf")
-        visit = set()
+        for src, dst, dist in roads:
+            adj[src].append([dst, dist])
+            adj[dst].append([src, dist])
+        
+        self.res = float("inf")
+        visited = set()
 
         def dfs(node):
-            nonlocal res
-            if node in visit:
+            if node in visited:
                 return
-            visit.add(node)
-            for nei, dist in adj[node]:
-                res = min(res, dist)
-                dfs(nei)
+            
+            visited.add(node)
 
+            for nei, dist in adj[node]:
+                self.res = min(self.res, dist)
+                dfs(nei)
+        
         dfs(1)
-        return res
+
+        return self.res
