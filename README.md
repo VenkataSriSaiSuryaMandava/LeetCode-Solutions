@@ -231,6 +231,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1340-jump-game-v) |
@@ -821,6 +822,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1301-number-of-paths-with-max-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1340-jump-game-v) |
@@ -1488,6 +1490,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0931-minimum-falling-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
