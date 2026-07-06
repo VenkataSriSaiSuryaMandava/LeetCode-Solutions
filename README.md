@@ -202,6 +202,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0875-koko-eating-bananas](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
