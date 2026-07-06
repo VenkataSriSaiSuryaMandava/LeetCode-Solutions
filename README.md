@@ -231,6 +231,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1288-remove-covered-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
@@ -614,6 +615,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1288-remove-covered-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
