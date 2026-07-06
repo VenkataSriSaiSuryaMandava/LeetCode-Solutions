@@ -1,25 +1,20 @@
-class Solution(object):
-    def mergeAlternately(self, word1, word2):
-        """
-        :type word1: str
-        :type word2: str
-        :rtype: str
-        """
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        i = 0
         res = []
-        l = 0
-        r = 0
 
-        while l < len(word1) and r < len(word2):
-            res.append(word1[l])
-            res.append(word2[r])
+        while i < len(word1) and i < len(word2):
+            res.append(word1[i])
+            res.append(word2[i])
 
-            l += 1
-            r += 1
+            i+= 1
+
+        while i < len(word1):
+            res.append(word1[i])
+            i += 1
         
-        if l < len(word1):
-            res.append(word1[l : ])
-        
-        if r < len(word2):
-            res.append(word2[r : ])
+        while i < len(word2):
+            res.append(word2[i])
+            i += 1
         
         return "".join(res)
