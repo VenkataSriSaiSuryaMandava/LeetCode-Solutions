@@ -249,6 +249,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -622,6 +623,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
