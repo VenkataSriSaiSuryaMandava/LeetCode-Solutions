@@ -1,19 +1,7 @@
-class Solution(object):
-    def repeatedSubstringPattern(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        cur = ""
-        length = len(s)
-
-        for c in s:
-            cur += c
-            if len(cur) == length:
-                break
-                
-            if length % len(cur) == 0:
-                if s == cur * (length // len(cur)):
-                    return True
+class Solution:
+    def repeatedSubstringPattern(self, s: str) -> bool:
+        for i in range(len(s) - 1):
+            if len(s) % (i + 1) == 0 and s[ : i + 1] * (len(s) // (i + 1)) == s:
+                return True
         
         return False
