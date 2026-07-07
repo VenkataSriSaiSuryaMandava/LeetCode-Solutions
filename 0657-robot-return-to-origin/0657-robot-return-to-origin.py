@@ -1,20 +1,17 @@
-class Solution(object):
-    def judgeCircle(self, moves):
-        """
-        :type moves: str
-        :rtype: bool
-        """
+class Solution:
+    def judgeCircle(self, moves: str) -> bool:
         pos = [0, 0]
 
-        for m in moves:
+        for op in moves:
             a, b = pos
-            if m == 'U':
+
+            if op == 'U':
                 pos = [a - 1, b]
-            elif m == "D":
+            elif op == 'D':
                 pos = [a + 1, b]
-            elif m == "R":
-                pos = [a, b + 1]
-            elif m == "L":
+            elif op == 'L':
                 pos = [a, b - 1]
+            elif op == 'R':
+                pos = [a, b + 1]
         
         return pos == [0, 0]
