@@ -1,14 +1,11 @@
-class Solution(object):
-    def tictactoe(self, moves):
-        """
-        :type moves: List[List[int]]
-        :rtype: str
-        """
+class Solution:
+    def tictactoe(self, moves: List[List[int]]) -> str:
         n = 3
+        player = 1
+
         rows = [0] * n
         cols = [0] * n
 
-        player = 1
         d1 = 0
         d2 = 0
 
