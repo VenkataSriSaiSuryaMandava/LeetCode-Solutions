@@ -1141,6 +1141,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0680-valid-palindrome-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0709-to-lower-case](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0752-open-the-lock) |
