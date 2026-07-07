@@ -1,22 +1,18 @@
-class Solution(object):
-    def calPoints(self, operations):
-        """
-        :type operations: List[str]
-        :rtype: int
-        """
+class Solution:
+    def calPoints(self, operations: List[str]) -> int:
         stack = []
 
-        for op in operations:
-            if op == "+":
+        for ch in operations:
+            if ch == '+':
                 a = stack[-1]
                 b = stack[-2]
                 stack.append(a + b)
-            elif op == "D":
+            elif ch == 'D':
                 a = stack[-1]
                 stack.append(a * 2)
-            elif op == 'C':
+            elif ch == 'C':
                 stack.pop()
             else:
-                stack.append(int(op))
+                stack.append(int(ch))
         
         return sum(stack)
