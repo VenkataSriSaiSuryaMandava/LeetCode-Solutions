@@ -254,6 +254,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1511,6 +1512,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
