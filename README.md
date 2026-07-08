@@ -727,6 +727,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1344-angle-between-hands-of-a-clock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
