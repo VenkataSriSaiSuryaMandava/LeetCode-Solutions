@@ -3,12 +3,12 @@ class Solution:
         top = 0
         bottom = len(matrix)
 
-        left = 0
+        left = 0 
         right = len(matrix[0])
 
         res = []
 
-        while top < bottom and left < right:
+        while left < right and top < bottom:
             for i in range(left, right):
                 res.append(matrix[top][i])
             top += 1
