@@ -230,6 +230,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1200-minimum-absolute-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -728,6 +729,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1071-greatest-common-divisor-of-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -1830,6 +1832,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Trie
 |  |
