@@ -715,6 +715,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0396-rotate-function](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -1030,6 +1031,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0234-palindrome-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -1289,6 +1291,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0232-implement-queue-using-stacks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0682-baseball-game) |
