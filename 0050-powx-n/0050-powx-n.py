@@ -7,16 +7,16 @@ class Solution:
             if n == 0:
                 return 1
             
-            res = helper(x * x, n // 2)
+            res =  helper(x * x, n // 2)
 
             if n % 2:
-                return x * res
+                return res * x
             else:
                 return res
         
         res = helper(x, abs(n))
 
-        if n >= 0:
-            return res
-        else:
+        if n < 0:
             return 1 / res
+        else:
+            return res
