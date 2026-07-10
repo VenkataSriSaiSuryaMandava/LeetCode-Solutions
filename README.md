@@ -354,6 +354,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -434,6 +435,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2161-partition-array-according-to-given-pivot](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -657,6 +659,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -868,6 +871,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
@@ -929,6 +933,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1381,6 +1386,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [3133-minimum-array-end](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3133-minimum-array-end) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
@@ -1443,6 +1449,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1922,6 +1929,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
