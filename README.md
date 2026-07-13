@@ -1751,6 +1751,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0841-keys-and-rooms](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -1928,6 +1929,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1462-course-schedule-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
