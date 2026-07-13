@@ -10,6 +10,7 @@ class Solution:
             for j in range(n):
                 if isConnected[i][j] and j not in visited:
                     dfs(j)
+            
             return 
         
         for i in range(n):
