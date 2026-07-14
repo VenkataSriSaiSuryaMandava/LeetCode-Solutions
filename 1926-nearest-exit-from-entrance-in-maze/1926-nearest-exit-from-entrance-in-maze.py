@@ -10,12 +10,12 @@ class Solution:
             r, c, steps = queue.popleft()
             directions = [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]
 
-            for i, j in directions:
-                if i >= 0 and j >= 0 and i < rows and j < cols and maze[i][j] == '.':
-                    if i == 0 or j == 0 or i == rows - 1 or j == cols - 1:
+            for row, col in directions:
+                if row >= 0 and col >= 0 and row < rows and col < cols and maze[row][col] != '+':
+                    if row == 0 or row == rows - 1 or col == 0 or col == cols - 1:
                         return steps + 1
-
-                    queue.append([i, j, steps + 1])
-                    maze[i][j] = '+'
+                    
+                    queue.append((row, col, steps + 1))
+                    maze[row][col] = '+'
         
         return -1
