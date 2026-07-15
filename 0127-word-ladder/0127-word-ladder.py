@@ -1,42 +1,35 @@
-class Solution(object):
-    def ladderLength(self, beginWord, endWord, wordList):
-        """
-        :type beginWord: str
-        :type endWord: str
-        :type wordList: List[str]
-        :rtype: int
-        """
+class Solution:
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         if endWord not in wordList:
             return 0
         
         wordList.append(beginWord)
-        adj = defaultdict(list)
+        nei = defaultdict(list)
 
         for word in wordList:
             for i in range(len(word)):
-                pattern = word[ : i] + "*" + word[i + 1 : ]
-                adj[pattern].append(word)
-            
-        visit = set([beginWord])
-        queue = deque([beginWord])
+                pattern = word[ : i] + '*' + word[i + 1 : ]
+                nei[pattern].append(word)
 
+        queue = deque([(beginWord)])
+        visited = set([beginWord])
         res = 1
 
         while queue:
-            for i in range(len(queue)):
+            for _ in range(len(queue)):
                 word = queue.popleft()
 
                 if word == endWord:
                     return res
                 
-                for j in range(len(word)):
-                    pattern = word[ : j] + "*" + word[j + 1 : ]
+                for i in range(len(word)):
+                    pattern = word[ : i] + '*' + word[i + 1 : ]
 
-                    for nei in adj[pattern]:
-                        if nei not in visit:
-                            visit.add(nei)
-                            queue.append(nei)
-            
+                    for neiWord in nei[pattern]:
+                        if neiWord not in visited:
+                            visited.add(neiWord)
+                            queue.append(neiWord)
+
             res += 1
-
+        
         return 0
