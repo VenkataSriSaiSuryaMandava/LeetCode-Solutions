@@ -1,19 +1,19 @@
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
-        queue = deque([[startGene, 0]])
-        visit = set([startGene])
+        queue = deque([(startGene, 0)])
+        visited = set([startGene])
 
         while queue:
-            cur_gene, cur_depth = queue.popleft()
+            curGene, curDepth = queue.popleft()
 
-            if cur_gene == endGene:
-                return cur_depth
+            if curGene == endGene:
+                return curDepth
             
-            for next_gene in bank:
-                difference = sum(char1 != char2 for char1, char2 in zip(cur_gene, next_gene))
+            for nextGene in bank:
+                difference = sum(char1 != char2 for char1, char2 in zip(curGene, nextGene))
 
-                if difference == 1 and next_gene not in visit:
-                    queue.append([next_gene, cur_depth + 1])
-                    visit.add(next_gene)
+                if difference == 1 and nextGene not in visited:
+                    queue.append((nextGene, curDepth + 1))
+                    visited.add(nextGene)
         
         return -1
