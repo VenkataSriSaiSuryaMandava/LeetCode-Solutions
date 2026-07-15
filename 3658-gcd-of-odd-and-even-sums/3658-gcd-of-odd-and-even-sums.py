@@ -6,11 +6,7 @@ class Solution:
             
             return gcd(b, a % b)
         
-        sumOdd = 0
-        sumEven = 0
-
-        for num in range(1, 2 * n, 2):
-            sumOdd += num
-            sumEven += num + 1
+        sumOdd = n * n
+        sumEven = n * (n + 1)
 
         return gcd(sumOdd, sumEven)
