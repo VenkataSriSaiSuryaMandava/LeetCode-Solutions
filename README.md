@@ -225,6 +225,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1035-uncrossed-lines](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -1543,6 +1544,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0931-minimum-falling-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1768,6 +1770,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0909-snakes-and-ladders](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
