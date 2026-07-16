@@ -1,23 +1,19 @@
-class Solution(object):
-    def numIslands(self, grid):
-        """
-        :type grid: List[List[str]]
-        :rtype: int
-        """
+class Solution:
+    def numIslands(self, grid: List[List[str]]) -> int:
         rows = len(grid)
         cols = len(grid[0])
 
-        visit = set()
-        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        visited = set()
 
         def dfs(r, c):
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
-                (r, c) in visit or
+                (r, c) in visited or
                 grid[r][c] == '0'):
-                return
+                return 
             
-            visit.add((r, c))
+            visited.add((r, c))
 
             for dr, dc in directions:
                 row = r + dr
@@ -26,10 +22,11 @@ class Solution(object):
                 dfs(row, col)
         
         res = 0
+
         for r in range(rows):
             for c in range(cols):
-                if (r, c) not in visit and grid[r][c] == '1':
+                if (r, c) not in visited and grid[r][c] == '1':
                     dfs(r, c)
                     res += 1
-
+        
         return res
