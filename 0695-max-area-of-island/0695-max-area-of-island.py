@@ -1,30 +1,21 @@
-class Solution(object):
-    def maxAreaOfIsland(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         rows = len(grid)
         cols = len(grid[0])
 
-        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
-        visit = set()
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
         def dfs(r, c):
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
-                (r, c) in visit or 
                 grid[r][c] == 0):
                 return 0
             
-            visit.add((r, c))
+            grid[r][c] = 0
             area = 1
 
             for dr, dc in directions:
-                row = r + dr
-                col = c + dc
-
-                area += dfs(row, col)
+                area += dfs(r + dr, c + dc)
             
             return area
         
@@ -32,8 +23,7 @@ class Solution(object):
 
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] and (r, c) not in visit:
-                    area = dfs(r, c)
-                    res = max(res, area)
+                area = dfs(r, c)
+                res = max(res, area)
         
         return res
