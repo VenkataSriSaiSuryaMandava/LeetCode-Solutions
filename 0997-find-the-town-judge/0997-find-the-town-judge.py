@@ -1,10 +1,5 @@
-class Solution(object):
-    def findJudge(self, n, trust):
-        """
-        :type n: int
-        :type trust: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def findJudge(self, n: int, trust: List[List[int]]) -> int:
         delta = defaultdict(int)
 
         for src, dst in trust:
@@ -14,5 +9,5 @@ class Solution(object):
         for i in range(1, n + 1):
             if delta[i] == n - 1:
                 return i
-
-        return -1         
+        
+        return -1
