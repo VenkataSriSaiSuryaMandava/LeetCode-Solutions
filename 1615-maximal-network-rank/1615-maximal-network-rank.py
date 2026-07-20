@@ -14,6 +14,6 @@ class Solution:
                 if src in graph[dst]:
                     rank -= 1
 
-                res = max(res, src)
+                res = max(res, rank)
         
         return res
