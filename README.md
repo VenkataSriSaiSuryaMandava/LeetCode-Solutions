@@ -1264,6 +1264,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0695-max-area-of-island](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1715,6 +1716,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0721-accounts-merge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -1781,6 +1783,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -1967,6 +1970,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0547-number-of-provinces](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
