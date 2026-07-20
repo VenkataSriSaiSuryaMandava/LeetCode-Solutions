@@ -1,35 +1,30 @@
-class Solution(object):
-    def canFinish(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: bool
-        """
-        preMap = defaultdict(list) 
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        preMap = defaultdict(list)
 
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
         
-        visit = set()
+        visited = set()
 
         def dfs(crs):
-            if crs in visit:
+            if crs in visited:
                 return False
             
-            if not preMap[crs]:
+            if preMap[crs] == []:
                 return True
             
-            visit.add(crs)
+            visited.add(crs)
 
             for pre in preMap[crs]:
                 if not dfs(pre):
                     return False
             
-            visit.remove(crs)
+            visited.remove(crs)
             preMap[crs] = []
 
             return True
-            
+        
         for crs in range(numCourses):
             if not dfs(crs):
                 return False
