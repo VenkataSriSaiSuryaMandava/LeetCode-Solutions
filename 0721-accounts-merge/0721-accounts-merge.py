@@ -1,13 +1,13 @@
 class UnionFind:
     def __init__(self, n):
-        self.parent = [i for i in range(n)]
+        self.par = [i for i in range(n)]
         self.rank = [1] * n
     
     def find(self, x):
-        if x != self.parent[x]:
-            self.parent[x] = self.find(self.parent[x])
+        if x != self.par[x]:
+            self.par[x] = self.find(self.par[x])
         
-        return self.parent[x]
+        return self.par[x]
     
     def union(self, x1, x2):
         p1 = self.find(x1)
@@ -15,31 +15,27 @@ class UnionFind:
 
         if p1 == p2:
             return False
-        
-        if self.rank[p1] < self.rank[p2]:
-            self.parent[p1] = p2
-            self.rank[p2] += self.rank[p1]
-        else:
-            self.parent[p2] = p1
+
+        if self.rank[p1] > self.rank[p2]:
+            self.par[p2] = p1
             self.rank[p1] += self.rank[p2]
+        else:
+            self.par[p1] = p2
+            self.rank[p2] += self.rank[p1]
         
         return True
 
-class Solution(object):
-    def accountsMerge(self, accounts):
-        """
-        :type accounts: List[List[str]]
-        :rtype: List[List[str]]
-        """
+class Solution:
+    def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
         uf = UnionFind(len(accounts))
         emailToAcc = {}
 
         for i, acc in enumerate(accounts):
-            for e in acc[1 : ]:
-                if e in emailToAcc:
-                    uf.union(i, emailToAcc[e])
+            for email in acc[1 : ]:
+                if email in emailToAcc:
+                    uf.union(emailToAcc[email], i)
                 else:
-                    emailToAcc[e] = i
+                    emailToAcc[email] = i
         
         emailGroup = defaultdict(list)
 
