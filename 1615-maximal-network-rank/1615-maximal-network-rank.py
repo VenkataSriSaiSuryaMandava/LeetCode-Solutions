@@ -1,24 +1,15 @@
-class Solution(object):
-    def maximalNetworkRank(self, n, roads):
-        """
-        :type n: int
-        :type roads: List[List[int]]
-        :rtype: int
-        """
-        graph = defaultdict(set)
-        for a, b in roads:
-            graph[a].add(b)
-            graph[b].add(a)
+class Solution:
+    def maximalNetworkRank(self, n: int, roads: List[List[int]]) -> int:
+        count = [0] * n
+
+        for src, dst in roads:
+            count[src] += 1
+            count[dst] += 1
         
         res = 0
 
-        for a in range(n):
-            for b in range(a + 1, n):
-                cur = len(graph[a]) + len(graph[b])
-
-                if a in graph[b]:
-                    cur -= 1
-                
-                res = max(res, cur)
+        for i in range(n):
+            for j in range(i + 1, n):
+                res = max(res, count[i] + count[j] - 1)
         
         return res
