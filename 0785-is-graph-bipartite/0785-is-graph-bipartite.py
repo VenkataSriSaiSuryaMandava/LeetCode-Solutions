@@ -17,8 +17,7 @@ class Solution:
         color = [0 for i in range(n)]
 
         for i in range(n):
-            if color[i] == 0:
-                if not dfs(i, 1):
+            if color[i] == 0 and not dfs(i, 1):
                     return False
         
         return True
