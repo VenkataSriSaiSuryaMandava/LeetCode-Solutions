@@ -4,7 +4,7 @@ class Solution:
 
         for i in range(len(strs[0])):
             for word in strs:
-                if word[i] != strs[0][i] or len(word) <= i:
+                if i >= len(word) or word[i] != strs[0][i]:
                     return res
             
             res += strs[0][i]
