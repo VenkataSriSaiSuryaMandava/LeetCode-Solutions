@@ -1,47 +1,35 @@
-class ListNode:
+class LinkedList:
     def __init__(self, key):
         self.key = key
         self.next = None
 
-class MyHashSet(object):
+class MyHashSet:
 
     def __init__(self):
-        self.hashset = [ListNode(0) for i in range(10 ** 4)]
+        self.hashset = [LinkedList(0) for i in range(10 ** 4)]
 
-    def add(self, key):
-        """
-        :type key: int
-        :rtype: None
-        """
+    def add(self, key: int) -> None:
         cur = self.hashset[key % len(self.hashset)]
 
         while cur.next:
-            if cur.next.key == key:
+            if cur.key == key:
                 return
             
             cur = cur.next
         
-        cur.next = ListNode(key)
+        cur.next = LinkedList(key)
 
-    def remove(self, key):
-        """
-        :type key: int
-        :rtype: None
-        """
+    def remove(self, key: int) -> None:
         cur = self.hashset[key % len(self.hashset)]
 
         while cur.next:
             if cur.next.key == key:
                 cur.next = cur.next.next
-                return 
-                
+                return
+            
             cur = cur.next
-
-    def contains(self, key):
-        """
-        :type key: int
-        :rtype: bool
-        """
+        
+    def contains(self, key: int) -> bool:
         cur = self.hashset[key % len(self.hashset)]
 
         while cur.next:
