@@ -12,7 +12,7 @@ class MyHashSet:
         cur = self.hashset[key % len(self.hashset)]
 
         while cur.next:
-            if cur.key == key:
+            if cur.next.key == key:
                 return
             
             cur = cur.next
