@@ -1,9 +1,5 @@
-class Solution(object):
-    def sortArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
         if len(nums) == 1:
             return nums
         
@@ -14,10 +10,9 @@ class Solution(object):
         return self.merge(left, right)
     
     def merge(self, left, right):
-        res = []
-        
         l = 0
         r = 0
+        res = []
 
         while l < len(left) and r < len(right):
             if left[l] < right[r]:
@@ -34,5 +29,5 @@ class Solution(object):
         while r < len(right):
             res.append(right[r])
             r += 1
-        
+
         return res
