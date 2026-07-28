@@ -1,20 +1,15 @@
-class ListNode:
-    def __init__(self, key, val = 0):
+class LinkedList:
+    def __init__(self, key, val):
         self.key = key
         self.val = val
         self.next = None
 
-class MyHashMap(object):
+class MyHashMap:
 
     def __init__(self):
-        self.hashmap = [ListNode(0) for i in range(10 ** 4)]
+        self.hashmap = [LinkedList(0, 0) for i in range(10 ** 4)]
 
-    def put(self, key, value):
-        """
-        :type key: int
-        :type value: int
-        :rtype: None
-        """
+    def put(self, key: int, value: int) -> None:
         cur = self.hashmap[key % len(self.hashmap)]
 
         while cur.next:
@@ -24,13 +19,9 @@ class MyHashMap(object):
             
             cur = cur.next
         
-        cur.next = ListNode(key, value)
+        cur.next = LinkedList(key, value)
 
-    def get(self, key):
-        """
-        :type key: int
-        :rtype: int
-        """
+    def get(self, key: int) -> int:
         cur = self.hashmap[key % len(self.hashmap)]
 
         while cur.next:
@@ -41,11 +32,7 @@ class MyHashMap(object):
         
         return -1
 
-    def remove(self, key):
-        """
-        :type key: int
-        :rtype: None
-        """
+    def remove(self, key: int) -> None:
         cur = self.hashmap[key % len(self.hashmap)]
 
         while cur.next:
