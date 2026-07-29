@@ -11,7 +11,7 @@ class Solution:
 
                 for n, cnt in count.items():
                     if cnt > 1:
-                        newCount[num] = cnt - 1
+                        newCount[n] = cnt - 1
                 
                 count = newCount
         
