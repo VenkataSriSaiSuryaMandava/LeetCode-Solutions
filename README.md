@@ -560,6 +560,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -701,6 +702,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2833-furthest-point-from-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -780,6 +782,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1262,6 +1265,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3499-maximize-active-section-with-trade-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -2134,6 +2138,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0062-unique-paths](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sweep Line
 |  |
 | ------- |
