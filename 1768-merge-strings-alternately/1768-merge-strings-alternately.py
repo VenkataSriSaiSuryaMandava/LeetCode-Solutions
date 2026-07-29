@@ -6,13 +6,12 @@ class Solution:
         while i < len(word1) and i < len(word2):
             res.append(word1[i])
             res.append(word2[i])
-
-            i+= 1
+            i += 1
 
         while i < len(word1):
             res.append(word1[i])
             i += 1
-        
+
         while i < len(word2):
             res.append(word2[i])
             i += 1
