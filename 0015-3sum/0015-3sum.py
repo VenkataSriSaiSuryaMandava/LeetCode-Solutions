@@ -1,34 +1,31 @@
-class Solution(object):
-    def threeSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
         res = []
 
-        for i, num in enumerate(nums):
-            if num > 0:
+        for i in range(len(nums)):
+            if nums[i] > 0:
                 break
-            
-            if i > 0 and num == nums[i - 1]:
+
+            if i > 0 and nums[i - 1] == nums[i]:
                 continue
             
             l = i + 1
             r = len(nums) - 1
 
             while l < r:
-                curSum = nums[i] + nums[l] + nums[r]
+                threeSum = nums[i] + nums[l] + nums[r]
 
-                if curSum > 0:
+                if threeSum > 0:
                     r -= 1
-                elif curSum < 0:
+                elif threeSum < 0:
                     l += 1
                 else:
                     res.append([nums[i], nums[l], nums[r]])
+
                     l += 1
                     r -= 1
-                    
+
                     while l < r and nums[l] == nums[l - 1]:
                         l += 1
         
