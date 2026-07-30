@@ -776,6 +776,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -965,6 +966,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1255,6 +1257,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2833-furthest-point-from-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
