@@ -3,12 +3,11 @@ class Solution:
         if not height:
             return 0
         
-        n = len(height)
+        l = 0
+        r = len(height) - 1
+
         res = 0
 
-        l = 0
-        r = n - 1
-        
         maxl = height[l]
         maxr = height[r]
 
