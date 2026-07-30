@@ -1,10 +1,5 @@
-class Solution(object):
-    def containsNearbyDuplicate(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: bool
-        """
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         indices = {}
 
         for i, num in enumerate(nums):
