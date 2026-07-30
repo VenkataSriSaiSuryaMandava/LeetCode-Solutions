@@ -1,10 +1,5 @@
-class Solution(object):
-    def fourSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         nums.sort()
         res = []
         quad = []
@@ -18,21 +13,19 @@ class Solution(object):
                     quad.append(nums[i])
                     kSum(k - 1, i + 1, target - nums[i])
                     quad.pop()
-                
-                return 
+                return
             
             l = start
             r = len(nums) - 1
 
             while l < r:
-                curSum = nums[l] + nums[r]
-
-                if curSum < target:
+                if nums[l] + nums[r] < target:
                     l += 1
-                elif curSum > target:
+                elif nums[l] + nums[r] > target:
                     r -= 1
                 else:
                     res.append(quad + [nums[l], nums[r]])
+
                     l += 1
                     r -= 1
 
