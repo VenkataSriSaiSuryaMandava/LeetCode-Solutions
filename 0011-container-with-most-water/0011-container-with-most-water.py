@@ -1,12 +1,8 @@
-class Solution(object):
-    def maxArea(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        res = 0
         l = 0
         r = len(height) - 1
-        res = 0
 
         while l < r:
             area = (r - l) * min(height[l], height[r])
