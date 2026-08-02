@@ -1,17 +1,13 @@
-class Solution(object):
-    def stoneGame(self, piles):
-        """
-        :type piles: List[int]
-        :rtype: bool
-        """
+class Solution:
+    def stoneGame(self, piles: List[int]) -> bool:
         dp = {}
 
         def dfs(l, r):
-            if l > r:
-                return 0
-            
             if (l, r) in dp:
                 return dp[(l, r)]
+            
+            if l > r:
+                return 0
             
             even = True if (r - l) % 2 else False
 
@@ -22,4 +18,4 @@ class Solution(object):
 
             return dp[(l, r)]
         
-        return dfs(0, len(piles) - 1) > sum(piles) // 2
+        return dfs(0, len(piles) - 1) >= sum(piles) // 2
