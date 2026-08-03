@@ -2238,4 +2238,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3161-block-placement-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
