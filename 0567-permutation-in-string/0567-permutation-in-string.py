@@ -1,10 +1,5 @@
-class Solution(object):
-    def checkInclusion(self, s1, s2):
-        """
-        :type s1: str
-        :type s2: str
-        :rtype: bool
-        """
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2):
             return False
         
@@ -24,23 +19,23 @@ class Solution(object):
         for r in range(len(s1), len(s2)):
             if matches == 26:
                 return True
-
+            
             index = ord(s2[r]) - ord('a')
             count2[index] += 1
 
-            if count2[index] == count1[index]:
+            if count1[index] == count2[index]:
                 matches += 1
-            elif count2[index] == count1[index] + 1:
+            elif count1[index] + 1 == count2[index]:
                 matches -= 1
-
+            
             index = ord(s2[l]) - ord('a')
             count2[index] -= 1
 
-            if count2[index] == count1[index]:
+            if count1[index] == count2[index]:
                 matches += 1
-            elif count2[index] == count1[index] - 1:
-                matches -= 1
+            elif count1[index] - 1 == count2[index]:
+                matches -= 1   
 
             l += 1
-            
-        return matches == 26
+
+        return matches == 26         
