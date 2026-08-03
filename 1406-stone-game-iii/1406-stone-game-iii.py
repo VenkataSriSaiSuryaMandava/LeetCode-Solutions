@@ -1,19 +1,16 @@
-class Solution(object):
-    def stoneGameIII(self, stoneValue):
-        """
-        :type stoneValue: List[int]
-        :rtype: str
-        """
-        dp = [float("-inf")] * len(stoneValue)
+class Solution:
+    def stoneGameIII(self, stoneValue: List[int]) -> str:
+        n = len(stoneValue)
+        dp = [float("-inf")] * n
 
         def dfs(i):
-            if i == len(stoneValue):
+            if i == n:
                 return 0
             
             if dp[i] != float("-inf"):
                 return dp[i]
-
-            for j in range(i, min(i + 3, len(stoneValue))):
+            
+            for j in range(i, min(i + 3, n)):
                 dp[i] = max(dp[i], sum(stoneValue[i : j + 1]) - dfs(j + 1))
             
             return dp[i]
