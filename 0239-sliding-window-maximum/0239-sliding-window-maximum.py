@@ -4,7 +4,6 @@ class Solution:
         res = []
 
         l = 0
-
         for r in range(len(nums)):
             while queue and nums[queue[-1]] < nums[r]:
                 queue.pop()
@@ -17,5 +16,5 @@ class Solution:
                 
                 res.append(nums[queue[0]])
                 l += 1
-            
+        
         return res
