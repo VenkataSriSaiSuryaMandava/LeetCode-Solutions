@@ -37,4 +37,4 @@ class Solution:
         
         l, r = res
 
-        return s[l : r + 1] if res != float("inf") else ""
+        return s[l : r + 1] if resLen != float("inf") else ""
