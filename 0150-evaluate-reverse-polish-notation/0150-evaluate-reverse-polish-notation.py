@@ -9,7 +9,7 @@ class Solution:
 
                 if ch == '+':
                     stack.append(a + b)
-                elif ch == "-":
+                elif ch == '-':
                     stack.append(b - a)
                 elif ch == '*':
                     stack.append(a * b)
