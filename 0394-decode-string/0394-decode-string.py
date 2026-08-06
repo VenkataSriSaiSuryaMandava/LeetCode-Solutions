@@ -1,26 +1,22 @@
-class Solution(object):
-    def decodeString(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+class Solution:
+    def decodeString(self, s: str) -> str:
         stack = []
-        
-        for c in s:
-            if c == ']':
+
+        for ch in s:
+            if ch != ']':
+                stack.append(ch)
+            else:
                 cur = ""
 
                 while stack[-1] != '[':
                     cur = stack.pop() + cur
                 
                 stack.pop()
+                k = ""
 
-                digit = ""
                 while stack and stack[-1] in "0123456789":
-                    digit = stack.pop() + digit
+                    k = stack.pop() + k
                 
-                stack.append(cur * int(digit))
-            else:
-                stack.append(c)
+                stack.append(cur * int(k))
         
         return "".join(stack)
