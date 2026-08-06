@@ -1,26 +1,19 @@
-class Solution(object):
-    def largestRectangleArea(self, heights):
-        """
-        :type heights: List[int]
-        :rtype: int
-        """
-        n = len(heights)
-        res = 0
+class Solution:
+    def largestRectangleArea(self, heights: List[int]) -> int:
         stack = []
+        res = 0
 
         for i, h in enumerate(heights):
             start = i
 
             while stack and stack[-1][1] > h:
-                index, height = stack.pop()
-                start = index
-                area = (i - index) * height
-                res = max(res, area)
+                prevIdx, prevHeight = stack.pop()
+                res = max(res, (i - prevIdx) * prevHeight)
+                start = prevIdx
             
             stack.append([start, h])
         
         for i, h in stack:
-            area = (n - i) * h
-            res = max(res, area)
+            res = max(res, (len(heights) - i) * h)
         
         return res
