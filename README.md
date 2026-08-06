@@ -2257,6 +2257,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
