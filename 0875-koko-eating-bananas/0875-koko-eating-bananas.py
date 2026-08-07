@@ -1,24 +1,18 @@
-class Solution(object):
-    def minEatingSpeed(self, piles, h):
-        """
-        :type piles: List[int]
-        :type h: int
-        :rtype: int
-        """
-        l = 1
+class Solution:
+    def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        l = 0
         r = max(piles)
-        res = max(piles)
 
         while l <= r:
             m = (l + r) // 2
-
             count = 0
+
             for p in piles:
-                count += ((p + m - 1) // m)
+                count += p // m
             
-            if count <= h:
-                res = min(res, m)
-                r = m - 1
-            else:
+            if count >= h:
                 l = m + 1
-        return res
+            else:
+                r = m - 1
+        
+        return l
