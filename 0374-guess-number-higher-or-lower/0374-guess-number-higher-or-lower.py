@@ -11,11 +11,12 @@ class Solution:
         r = n
 
         while l <= r:
-            m = (l + r) // 2
+            m = l + (r - l) // 2
+            target = guess(m)
 
-            if guess(m) == -1:
+            if target == -1:
                 r = m - 1
-            elif guess(m) == 1:
+            elif target == 1:
                 l = m + 1
             else:
                 return m
