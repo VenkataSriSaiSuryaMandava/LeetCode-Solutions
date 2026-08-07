@@ -6,16 +6,16 @@ class Solution:
         while l <= r:
             m = (l + r) // 2
 
-            if nums[m] == target:
+            if target == nums[m]:
                 return m
-            
+
             if nums[l] <= nums[m]:
-                if target < nums[l] or target > nums[m]:
+                if target > nums[m] or target < nums[l]:
                     l = m + 1
                 else:
                     r = m - 1
             else:
-                if target > nums[r] or target < nums[m]:
+                if target < nums[m] or target > nums[r]:
                     r = m - 1
                 else:
                     l = m + 1
