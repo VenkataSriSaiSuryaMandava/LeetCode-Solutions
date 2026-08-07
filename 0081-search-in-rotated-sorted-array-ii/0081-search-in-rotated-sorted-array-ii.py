@@ -14,9 +14,12 @@ class Solution:
                     l = m + 1
                 else:
                     r = m - 1
-            else:
+            elif nums[l] > nums[m]:
                 if target < nums[m] or target > nums[r]:
                     r = m - 1
                 else:
                     l = m + 1
+            else:
+                l += 1
+                
         return False
