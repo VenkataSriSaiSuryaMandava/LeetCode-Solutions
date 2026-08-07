@@ -7,7 +7,7 @@ class Solution:
             m = (l + r) // 2
             
             if nums[m] == target:
-                return m
+                return True
             
             if nums[l] < nums[m]:
                 if target < nums[l] or target > nums[m]:
@@ -19,4 +19,4 @@ class Solution:
                     r = m - 1
                 else:
                     l = m + 1
-        return -1
+        return False
