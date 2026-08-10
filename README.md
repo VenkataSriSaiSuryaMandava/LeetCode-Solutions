@@ -773,6 +773,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1344-angle-between-hands-of-a-clock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -899,6 +900,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2240,6 +2242,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Iterator
 |  |
 | ------- |
@@ -2259,10 +2262,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2272,4 +2277,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
