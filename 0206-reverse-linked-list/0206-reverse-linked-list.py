@@ -11,7 +11,7 @@ class Solution:
         while cur:
             temp = cur.next
             cur.next = prev
-            prev = cur
+            prev = cur 
             cur = temp
         
         return prev
