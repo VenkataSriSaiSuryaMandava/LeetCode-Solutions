@@ -1,5 +1,4 @@
 class ListNode:
-
     def __init__(self, val, prev, next):
         self.val = val
         self.prev = prev
@@ -23,7 +22,7 @@ class MyCircularQueue:
         self.space -= 1
 
         return True
-        
+
     def deQueue(self) -> bool:
         if self.isEmpty():
             return False
@@ -43,8 +42,8 @@ class MyCircularQueue:
     def Rear(self) -> int:
         if self.isEmpty():
             return -1
-        
-        return self.right.prev.val
+
+        return self.right.prev.val    
 
     def isEmpty(self) -> bool:
         return self.left.next == self.right
