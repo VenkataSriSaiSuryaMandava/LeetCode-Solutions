@@ -21,7 +21,7 @@ class Solution:
                 l2 = l2.next
             else:
                 l2Val = 0
-
+            
             total = l1Val + l2Val + carry
             carry = total // 10
 
