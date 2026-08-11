@@ -1,7 +1,6 @@
 class Solution:
     def missingInteger(self, nums: List[int]) -> int:
         numsSet = set(nums)
-
         prefix = nums[0]
         
         for i in range(1, len(nums)):
@@ -11,6 +10,6 @@ class Solution:
                 break
         
         while prefix in numsSet:
-                    prefix += 1
+            prefix += 1
                 
         return prefix
