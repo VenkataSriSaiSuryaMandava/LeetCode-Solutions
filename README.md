@@ -347,6 +347,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2906-construct-product-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -557,6 +558,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1346,6 +1348,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
