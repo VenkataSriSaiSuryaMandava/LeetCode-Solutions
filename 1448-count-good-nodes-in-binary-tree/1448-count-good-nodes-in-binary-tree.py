@@ -11,11 +11,10 @@ class Solution:
             if not node:
                 return 0
             
-            if node.val > maxVal:
+            res = 0
+            if node.val >= maxVal:
                 maxVal = node.val
-                res = 1
-            else:
-                res = 0
+                res += 1
             
             res += dfs(node.left, maxVal) + dfs(node.right, maxVal)
 
