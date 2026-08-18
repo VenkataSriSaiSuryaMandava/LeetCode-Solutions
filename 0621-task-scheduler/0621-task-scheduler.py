@@ -1,17 +1,12 @@
-class Solution(object):
-    def leastInterval(self, tasks, n):
-        """
-        :type tasks: List[str]
-        :type n: int
-        :rtype: int
-        """
+class Solution:
+    def leastInterval(self, tasks: List[str], n: int) -> int:
         count = defaultdict(int)
         for task in tasks:
             count[task] += 1
         
         maxHeap = []
         for cnt in count.values():
-            heapq.heappush(maxHeap, -cnt)
+            heapq.heappush(maxHeap, -1 * cnt)
         
         queue = deque()
         time = 0
@@ -21,7 +16,7 @@ class Solution(object):
 
             if maxHeap:
                 cnt = 1 + heapq.heappop(maxHeap)
-                
+
                 if cnt:
                     queue.append([time + n, cnt])
             
