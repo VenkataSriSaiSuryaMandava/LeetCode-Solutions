@@ -1,10 +1,5 @@
-class Solution(object):
-    def maxNumberOfFamilies(self, n, reservedSeats):
-        """
-        :type n: int
-        :type reservedSeats: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
         reserved = defaultdict(set)
         res = 0
 
@@ -20,7 +15,7 @@ class Solution(object):
                 res += 2
             elif left or right or middle:
                 res += 1
-        
+            
         res += 2 * (n - len(reserved))
 
         return res
