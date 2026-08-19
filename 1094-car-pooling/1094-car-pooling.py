@@ -1,18 +1,11 @@
-class Solution(object):
-    def carPooling(self, trips, capacity):
-        """
-        :type trips: List[List[int]]
-        :type capacity: int
-        :rtype: bool
-        """
+class Solution:
+    def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         trips.sort(key = lambda t : t[1])
 
         curPass = 0
         minHeap = []
 
-        for trip in trips:
-            numPass, start, end = trip
-
+        for numPass, start, end in trips:
             while minHeap and minHeap[0][0] <= start:
                 prevEnd, prevPass = heapq.heappop(minHeap)
                 curPass -= prevPass
