@@ -1,22 +1,21 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
-        cur = []
+        subset = []
 
         def backtrack(i):
-            if len(cur) == k:
-                res.append(cur.copy())
+            if len(subset) == k:
+                res.append(subset.copy())
                 return
             
             if i > n:
-                return 
+                return
             
-            cur.append(i)
+            subset.append(i)
             backtrack(i + 1)
 
-            cur.pop()
+            subset.pop()
             backtrack(i + 1)
         
         backtrack(1)
-
         return res
