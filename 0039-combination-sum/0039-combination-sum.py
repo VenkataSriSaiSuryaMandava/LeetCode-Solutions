@@ -1,19 +1,14 @@
-class Solution(object):
-    def combinationSum(self, candidates, target):
-        """
-        :type candidates: List[int]
-        :type target: int
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
         subset = []
 
         def backtrack(i, curSum):
-            if target == curSum:
-                res.append(subset[ : : ])
-                return 
+            if curSum == target:
+                res.append(subset.copy())
+                return
             
-            if curSum > target or i == len(candidates):
+            if i == len(candidates) or curSum > target:
                 return
             
             subset.append(candidates[i])
