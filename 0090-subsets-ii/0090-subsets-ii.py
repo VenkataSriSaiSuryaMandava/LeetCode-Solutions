@@ -1,18 +1,14 @@
-class Solution(object):
-    def subsetsWithDup(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         res = []
         subset = []
 
         def backtrack(i):
-            if i == len(nums):
-                res.append(subset[ : : ])
-                return
-
+            if  i == len(nums):
+                res.append(subset.copy())
+                return 
+            
             subset.append(nums[i])
             backtrack(i + 1)
 
@@ -23,5 +19,4 @@ class Solution(object):
             backtrack(i + 1)
         
         backtrack(0)
-
         return res
