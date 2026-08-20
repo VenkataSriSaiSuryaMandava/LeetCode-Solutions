@@ -1,22 +1,19 @@
-class Solution(object):
-    def subsets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
         res = []
-        subset = []
+        cur = []
 
         def backtrack(i):
             if i == len(nums):
-                res.append(subset[ : : ])
+                res.append(cur.copy())
                 return 
             
-            subset.append(nums[i])
+            cur.append(nums[i])
             backtrack(i + 1)
 
-            subset.pop()
+            cur.pop()
             backtrack(i + 1)
-
+        
         backtrack(0)
+
         return res
