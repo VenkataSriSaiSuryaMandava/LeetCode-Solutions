@@ -1,13 +1,15 @@
-class Solution(object):
-    def subsetXORSum(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        def backtrack(i, xorTotal):
+class Solution:
+    def subsetXORSum(self, nums: List[int]) -> int:
+        self.res = 0
+
+        def backtrack(i, xor):
             if i == len(nums):
-                return xorTotal
+                self.res += xor
+                return 
             
-            return backtrack(i + 1, xorTotal ^ nums[i]) + backtrack(i + 1, xorTotal)
+            backtrack(i + 1, xor ^ nums[i])
+            backtrack(i + 1, xor)
         
-        return backtrack(0, 0)
+        backtrack(0, 0)
+
+        return self.res
