@@ -1,9 +1,5 @@
-class Solution(object):
-    def permute(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
         perms = [[]]
 
         for n in nums:
@@ -11,7 +7,7 @@ class Solution(object):
 
             for p in perms:
                 for i in range(len(p) + 1):
-                    pCopy = p[ : :]
+                    pCopy = p.copy()
                     pCopy.insert(i, n)
                     newPerms.append(pCopy)
             
