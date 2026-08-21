@@ -12,7 +12,7 @@ class Solution:
                 res.append(perms.copy())
                 return
             
-            for num in perms:
+            for num in count:
                 if count[num]:
                     count[num] -= 1
                     perms.append(num)
