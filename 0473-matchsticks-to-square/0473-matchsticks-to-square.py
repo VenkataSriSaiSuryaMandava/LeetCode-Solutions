@@ -1,9 +1,5 @@
-class Solution(object):
-    def makesquare(self, matchsticks):
-        """
-        :type matchsticks: List[int]
-        :rtype: bool
-        """
+class Solution:
+    def makesquare(self, matchsticks: List[int]) -> bool:
         if sum(matchsticks) % 4:
             return False
         
@@ -19,10 +15,9 @@ class Solution(object):
             for j in range(4):
                 if sides[j] + matchsticks[i] <= length:
                     sides[j] += matchsticks[i]
-
                     if backtrack(i + 1):
                         return True
-                    
+
                     sides[j] -= matchsticks[i]
             
             return False
