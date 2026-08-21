@@ -356,6 +356,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3161-block-placement-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -800,6 +801,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3280-convert-date-to-binary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1475,6 +1477,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3133-minimum-array-end](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3133-minimum-array-end) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1537,6 +1540,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -2191,6 +2195,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | ------- |
 | [0062-unique-paths](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sweep Line
 |  |
@@ -2205,6 +2210,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
