@@ -1,30 +1,25 @@
-class Solution(object):
-    def permuteUnique(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
+class Solution:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         count = defaultdict(int)
-        for n in nums:
-            count[n] += 1
+        for num in nums:
+            count[num] += 1
         
         res = []
         perms = []
 
         def backtrack():
             if len(perms) == len(nums):
-                res.append(perms[ : : ])
-                return 
+                res.append(perms.copy())
+                return
             
-            for n in count:
-                if count[n]:
-                    count[n] -= 1
-                    perms.append(n)
+            for num in perms:
+                if count[num]:
+                    count[num] -= 1
+                    perms.append(num)
                     backtrack()
-                    
-                    count[n] += 1
+
+                    count[num] += 1
                     perms.pop()
         
         backtrack()
-
         return res
