@@ -1,14 +1,9 @@
-class Solution(object):
-    def exist(self, board, word):
-        """
-        :type board: List[List[str]]
-        :type word: str
-        :rtype: bool
-        """
+class Solution:
+    def exist(self, board: List[List[str]], word: str) -> bool:
         rows = len(board)
         cols = len(board[0])
 
-        visit = set()
+        visited = set()
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
 
         def backtrack(r, c, i):
@@ -17,11 +12,11 @@ class Solution(object):
             
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
-                (r, c) in visit or
-                word[i] != board[r][c]):
+                board[r][c] != word[i] or
+                (r, c) in visited):
                 return False
-            
-            visit.add((r, c))
+
+            visited.add((r, c))
 
             for dr, dc in directions:
                 row = r + dr
@@ -30,13 +25,12 @@ class Solution(object):
                 if backtrack(row, col, i + 1):
                     return True
             
-            visit.remove((r, c))
-            
+            visited.remove((r, c))
             return False
-
+        
         for r in range(rows):
             for c in range(cols):
-                if (r, c) not in visit and backtrack(r, c, 0):
+                if backtrack(r, c, 0):
                     return True
         
         return False
