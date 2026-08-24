@@ -3,16 +3,12 @@ class TrieNode:
         self.children = {}
         self.endOfWord = False
 
-class WordDictionary(object):
+class WordDictionary:
 
     def __init__(self):
         self.root = TrieNode()
 
-    def addWord(self, word):
-        """
-        :type word: str
-        :rtype: None
-        """
+    def addWord(self, word: str) -> None:
         cur = self.root
 
         for c in word:
@@ -23,22 +19,17 @@ class WordDictionary(object):
         
         cur.endOfWord = True
 
-    def search(self, word):
-        """
-        :type word: str
-        :rtype: bool
-        """
-        def backtrack(j, root):
-            cur = root
+    def search(self, word: str) -> bool:
+        
+        def dfs(i, cur):
+            for j in range(i, len(word)):
+                c = word[j]
 
-            for i in range(j, len(word)):
-                c = word[i]
-
-                if c == ".":
+                if c == '.':
                     for child in cur.children.values():
-                        if backtrack(i + 1, child):
+                        if dfs(j + 1, child):
                             return True
-                    
+
                     return False
                 else:
                     if c not in cur.children:
@@ -48,7 +39,7 @@ class WordDictionary(object):
             
             return cur.endOfWord
         
-        return backtrack(0, self.root)
+        return dfs(0, self.root)
 
 
 # Your WordDictionary object will be instantiated and called as such:
