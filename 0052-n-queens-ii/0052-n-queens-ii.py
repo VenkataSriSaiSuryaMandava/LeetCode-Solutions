@@ -1,7 +1,6 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
         self.res = 0
-        board = [['.' for j in range(n)] for i in range(n)]
 
         cols = set()
         posDiag = set()
@@ -19,14 +18,12 @@ class Solution:
                 cols.add(c)
                 posDiag.add(r + c)
                 negDiag.add(r - c)
-                board[r][c] = 'Q'
 
                 backtrack(r + 1)
 
                 cols.remove(c)
                 posDiag.remove(r + c)
                 negDiag.remove(r - c)
-                board[r][c] = '.'
         
         backtrack(0)
         return self.res
