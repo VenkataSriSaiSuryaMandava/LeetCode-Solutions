@@ -3,16 +3,12 @@ class TrieNode:
         self.children = {}
         self.endOfWord = False
 
-class Trie(object):
+class Trie:
 
     def __init__(self):
         self.root = TrieNode()
 
-    def insert(self, word):
-        """
-        :type word: str
-        :rtype: None
-        """
+    def insert(self, word: str) -> None:
         cur = self.root
 
         for c in word:
@@ -23,11 +19,7 @@ class Trie(object):
         
         cur.endOfWord = True
 
-    def search(self, word):
-        """
-        :type word: str
-        :rtype: bool
-        """
+    def search(self, word: str) -> bool:
         cur = self.root
 
         for c in word:
@@ -36,13 +28,9 @@ class Trie(object):
             
             cur = cur.children[c]
         
-        return cur.endOfWord 
+        return cur.endOfWord
 
-    def startsWith(self, prefix):
-        """
-        :type prefix: str
-        :rtype: bool
-        """
+    def startsWith(self, prefix: str) -> bool:
         cur = self.root
 
         for c in prefix:
@@ -51,7 +39,7 @@ class Trie(object):
             
             cur = cur.children[c]
         
-        return True 
+        return True
 
 
 # Your Trie object will be instantiated and called as such:
