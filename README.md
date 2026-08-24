@@ -2372,4 +2372,5 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
