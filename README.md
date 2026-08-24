@@ -2368,4 +2368,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
