@@ -3,27 +3,32 @@ class Solution:
         rows = len(grid)
         cols = len(grid[0])
 
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        visited = set()
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        res = 0
 
         def dfs(r, c):
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
+                (r, c) in visited or 
                 grid[r][c] == 0):
                 return 0
             
-            grid[r][c] = 0
+            visited.add((r, c))
             area = 1
 
             for dr, dc in directions:
-                area += dfs(r + dr, c + dc)
+                row = r + dr
+                col = c + dc
+
+                area += dfs(row, col)
             
             return area
         
-        res = 0
-
         for r in range(rows):
             for c in range(cols):
-                area = dfs(r, c)
-                res = max(res, area)
+                if grid[r][c] and (r, c) not in visited:
+                    area = dfs(r, c)
+                    res = max(res, area)
         
         return res
