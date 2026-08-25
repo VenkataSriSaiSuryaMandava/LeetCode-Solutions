@@ -3,8 +3,9 @@ class Solution:
         rows = len(grid)
         cols = len(grid[0])
 
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         visited = set()
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        res = 0
 
         def dfs(r, c):
             if (r < 0 or c < 0 or
@@ -21,11 +22,9 @@ class Solution:
 
                 dfs(row, col)
         
-        res = 0
-
         for r in range(rows):
             for c in range(cols):
-                if (r, c) not in visited and grid[r][c] == '1':
+                if grid[r][c] == '1' and (r, c) not in visited:
                     dfs(r, c)
                     res += 1
         
