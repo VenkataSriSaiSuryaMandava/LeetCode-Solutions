@@ -1,7 +1,7 @@
 class TrieNode:
     def __init__(self):
         self.children = {}
-        self.word = False
+        self.endOfWord = False
 
 class Trie:
     def __init__(self, words):
@@ -13,17 +13,13 @@ class Trie:
             for c in word:
                 if c not in cur.children:
                     cur.children[c] = TrieNode()
+                
                 cur = cur.children[c]
             
-            cur.word = True
+            cur.endOfWord = True
 
-class Solution(object):
-    def minExtraChar(self, s, dictionary):
-        """
-        :type s: str
-        :type dictionary: List[str]
-        :rtype: int
-        """
+class Solution:
+    def minExtraChar(self, s: str, dictionary: List[str]) -> int:
         trie = Trie(dictionary).root
         dp = {len(s) : 0}
 
@@ -31,7 +27,7 @@ class Solution(object):
             if i in dp:
                 return dp[i]
             
-            res = 1 + dfs(i + 1)
+            dp[i] = 1 + dfs(i + 1)
             cur = trie
 
             for j in range(i, len(s)):
@@ -40,10 +36,9 @@ class Solution(object):
                 
                 cur = cur.children[s[j]]
 
-                if cur.word:
-                    res = min(res, dfs(j + 1))
+                if cur.endOfWord:
+                    dp[i] = min(dp[i], dfs(j + 1))
             
-            dp[i] = res
-            return res
+            return dp[i]
         
         return dfs(0)
