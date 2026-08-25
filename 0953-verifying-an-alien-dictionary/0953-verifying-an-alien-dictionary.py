@@ -1,14 +1,9 @@
-class Solution(object):
-    def isAlienSorted(self, words, order):
-        """
-        :type words: List[str]
-        :type order: str
-        :rtype: bool
-        """
-        indOrder = {}
+class Solution:
+    def isAlienSorted(self, words: List[str], order: str) -> bool:
+        orderInd = {}
 
         for i, c in enumerate(order):
-            indOrder[c] = i
+            orderInd[c] = i
         
         for i in range(len(words) - 1):
             w1 = words[i]
@@ -19,8 +14,9 @@ class Solution(object):
                     return False
                 
                 if w1[j] != w2[j]:
-                    if indOrder[w2[j]] < indOrder[w1[j]]:
+                    if orderInd[w2[j]] < orderInd[w1[j]]:
                         return False
+                    
                     break
         
         return True
