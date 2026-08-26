@@ -31,6 +31,7 @@ class Solution:
                     
                     queue.append((row, col))
                     grid[row][col] = 2
+                    fresh -= 1
             
             time += 1
         
