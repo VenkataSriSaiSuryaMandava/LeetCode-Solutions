@@ -1,7 +1,6 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         preMap = defaultdict(list)
-
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
         
@@ -22,7 +21,6 @@ class Solution:
             
             visited.remove(crs)
             preMap[crs] = []
-
             return True
         
         for crs in range(numCourses):
