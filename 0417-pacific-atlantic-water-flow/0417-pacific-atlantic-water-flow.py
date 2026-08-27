@@ -3,14 +3,16 @@ class Solution:
         rows = len(heights)
         cols = len(heights[0])
 
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         pacific = set()
         atlantic = set()
+
+        directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+        res = []
 
         def dfs(r, c, visited, prevHeight):
             if (r < 0 or c < 0 or
                 r == rows or c == cols or
-                (r, c) in visited or 
+                (r, c) in visited or
                 heights[r][c] < prevHeight):
                 return
             
@@ -27,10 +29,8 @@ class Solution:
         
         for c in range(cols):
             dfs(0, c, pacific, -1)
-            dfs(rows - 1, c, atlantic, -1)
+            dfs(rows - 1, c, atlantic, -1 )
         
-        res = []
-
         for r in range(rows):
             for c in range(cols):
                 if (r, c) in pacific and (r, c) in atlantic:
