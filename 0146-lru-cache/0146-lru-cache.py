@@ -51,15 +51,11 @@ class LRUCache:
     def move_to_front(self, key):
         node = self.d[key]
         if node.next == self.tail:  return
-        node.prev.next  = node.next
+        node.prev.next = node.next
         node.next.prev = node.prev
-
-        
-        node.next = self.tail
-        node.prev = self.tail.prev
-        self.tail.prev.next = node
-        self.tail.prev = node
-
+        val = node.val
+        del self.d[key]
+        self.add_node(key, val)
 
 
 
