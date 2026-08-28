@@ -38,10 +38,12 @@ class LRUCache:
     
     def add_node(self, key, value):
         node = ListNode(key, value)
-        self.tail.prev.next = node
-        node.prev = self.tail.prev
-        self.tail.prev = node
+        prevNode = self.tail.prev
+
         node.next = self.tail
+        node.prev = prevNode
+        prevNode.next = node
+        self.tail.prev = node
         
         self.d[key] = node
         
