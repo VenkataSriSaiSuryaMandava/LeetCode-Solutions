@@ -12,22 +12,24 @@ class Solution:
                 return -1
             
             queue = deque([[src, 1]])
-            visit = set([src])
+            visited = set([src])
 
             while queue:
                 n, w = queue.popleft()
+
                 if n == target:
                     return w
                 
                 for nei, weight in adj[n]:
-                    if nei not in visit:
-                        visit.add(nei)
+                    if nei not in visited:
                         queue.append([nei, w * weight])
+                        visited.add(nei)
             
             return -1
         
         res = []
-        for q1, q2 in queries:
-            res.append(bfs(q1, q2))
+
+        for a, b in queries:
+            res.append(bfs(a, b))
         
         return res
