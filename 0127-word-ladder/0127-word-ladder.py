@@ -4,32 +4,32 @@ class Solution:
             return 0
         
         wordList.append(beginWord)
-        nei = defaultdict(list)
+        adj = defaultdict(list)
 
         for word in wordList:
             for i in range(len(word)):
-                pattern = word[ : i] + '*' + word[i + 1 : ]
-                nei[pattern].append(word)
+                pattern = word[ : i] + "*" + word[i + 1 : ]
+                adj[pattern].append(word)
 
-        queue = deque([(beginWord)])
+        queue = deque([beginWord])
         visited = set([beginWord])
         res = 1
 
         while queue:
-            for _ in range(len(queue)):
+            for i in range(len(queue)):
                 word = queue.popleft()
 
                 if word == endWord:
                     return res
                 
-                for i in range(len(word)):
-                    pattern = word[ : i] + '*' + word[i + 1 : ]
+                for j in range(len(word)):
+                    pattern = word[ : j] + "*" + word[j + 1 : ]
 
-                    for neiWord in nei[pattern]:
+                    for neiWord in adj[pattern]:
                         if neiWord not in visited:
                             visited.add(neiWord)
                             queue.append(neiWord)
-
+            
             res += 1
         
         return 0
