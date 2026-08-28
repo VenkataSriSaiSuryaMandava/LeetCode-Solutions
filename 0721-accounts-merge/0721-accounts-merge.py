@@ -1,13 +1,13 @@
 class UnionFind:
     def __init__(self, n):
-        self.par = [i for i in range(n)]
+        self.parent = [i for i in range(n)]
         self.rank = [1] * n
     
     def find(self, x):
-        if x != self.par[x]:
-            self.par[x] = self.find(self.par[x])
+        if x != self.parent[x]:
+            self.parent[x] = self.find(self.parent[x])
         
-        return self.par[x]
+        return self.parent[x]
     
     def union(self, x1, x2):
         p1 = self.find(x1)
@@ -15,19 +15,21 @@ class UnionFind:
 
         if p1 == p2:
             return False
-
+        
         if self.rank[p1] > self.rank[p2]:
-            self.par[p2] = p1
             self.rank[p1] += self.rank[p2]
+            self.parent[p2] = p1
         else:
-            self.par[p1] = p2
             self.rank[p2] += self.rank[p1]
+            self.parent[p1] = p2
         
         return True
 
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
-        uf = UnionFind(len(accounts))
+        n = len(accounts)
+        uf = UnionFind(n)
+
         emailToAcc = {}
 
         for i, acc in enumerate(accounts):
@@ -45,8 +47,8 @@ class Solution:
         
         res = []
 
-        for i, emails in emailGroup.items():
+        for  i, emails in emailGroup.items():
             name = accounts[i][0]
-            res.append([name] + sorted(emails))
+            res.append([name] +  sorted(emails))
         
         return res
