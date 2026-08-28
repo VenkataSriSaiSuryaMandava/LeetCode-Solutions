@@ -1,58 +1,80 @@
-class Node:
-    def __init__(self, key, val):
-        self.key = key
-        self.val = val
+class ListNode:
+    def __init__(self, key=None, val=None):
         self.prev = None
+        self.val = val
         self.next = None
+        self.key = key
 
 class LRUCache:
-
+  
     def __init__(self, capacity: int):
-        self.cap = capacity
-        self.hash = {}
-
-        self.left = Node(0, 0)
-        self.right = Node(0, 0)
-
-        self.left.next = self.right
-        self.right.prev = self.left
-
-    def insert(self, node):
-        prevNode = self.right.prev
-        nextNode = self.right
-
-        node.next = nextNode
-        node.prev = prevNode
-
-        nextNode.prev = node
-        prevNode.next = node
-
-    def remove(self, node):
-        prevNode = node.prev
-        nextNode = node.next
-
-        prevNode.next = nextNode
-        nextNode.prev = prevNode
+        self.capacity = capacity
+        self.d = {}
+        self.head = ListNode()
+        self.tail = ListNode()
+        self.head.next = self.tail
+        self.tail.prev = self.head
 
     def get(self, key: int) -> int:
-        if key in self.hash:
-            self.remove(self.hash[key])
-            self.insert(self.hash[key])
-            return self.right.prev.val
-        
-        return -1
+        if key not in self.d:   return -1
+        self.move_to_front(key)
+        # self.print(key)
+        return self.d[key].val
 
     def put(self, key: int, value: int) -> None:
-        if key in self.hash:
-            self.remove(self.hash[key])
+        if key in self.d:
+            self.get(key)
+            self.d[key].val = value
+        else:
+            if len(self.d) == self.capacity:
+                self.pop_left()
+            self.add_node(key, value)
+        # self.print("put")
+    
+    def pop_left(self):
+        node = self.head.next
+        self.head.next = node.next
+        node.next.prev = self.head
+        del self.d[node.key]
+    
+    def add_node(self, key, value):
+        node = ListNode(key, value)
+        self.tail.prev.next = node
+        node.prev = self.tail.prev
+        self.tail.prev = node
+        node.next = self.tail
+        
+        self.d[key] = node
+        
 
-        self.hash[key] = Node(key, value)
-        self.insert(self.hash[key])
+    def move_to_front(self, key):
+        node = self.d[key]
+        # print(node.val, self.tail.prev.val)
+        if node.next == self.tail:  return
+        node.prev.next  = node.next
+        node.next.prev = node.prev
 
-        if len(self.hash) > self.cap:
-            lru = self.left.next
-            self.remove(lru)
-            del self.hash[lru.key]
+        
+        node.next = self.tail
+        node.prev = self.tail.prev
+        self.tail.prev.next = node
+        self.tail.prev = node
+        # print("end of move", node.val, "head next = ", self.head.next.val)
+
+    def print(self, key):
+        node = self.head.next
+        res = []
+        while node:
+            res.append(str(node.val))
+            node = node.next
+        # print("Key = ", key, "head = ", self.head.val, " tail = ", self.tail.val)
+        print("->".join(res))
+
+
+
+
+
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
