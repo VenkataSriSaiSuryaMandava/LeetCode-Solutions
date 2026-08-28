@@ -22,7 +22,8 @@ class LRUCache:
 
     def put(self, key: int, value: int) -> None:
         if key in self.d:
-            self.get(key)
+            # self.get(key)
+            self.move_to_front(key)
             self.d[key].val = value
         else:
             if len(self.d) == self.capacity:
