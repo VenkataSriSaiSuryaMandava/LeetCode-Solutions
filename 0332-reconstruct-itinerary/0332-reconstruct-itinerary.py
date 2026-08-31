@@ -1,10 +1,10 @@
 class Solution:
     def findItinerary(self, tickets: List[List[str]]) -> List[str]:
         adj = defaultdict(list)
-        tickets.sort(reverse=True)
+        tickets.sort(reverse = True)
 
-        for src, dest in tickets:
-            adj[src].append(dest)
+        for src, dst in tickets:
+            adj[src].append(dst)
         
         res = []
 
@@ -12,8 +12,8 @@ class Solution:
             while adj[src]:
                 dst = adj[src].pop()
                 dfs(dst)
-            res.append(src)
             
+            res.append(src)
+        
         dfs("JFK")
         return res[ : : -1]
-            
