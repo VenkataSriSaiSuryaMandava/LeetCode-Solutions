@@ -2394,4 +2394,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
