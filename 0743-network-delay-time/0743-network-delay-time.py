@@ -1,34 +1,25 @@
-class Solution(object):
-    def networkDelayTime(self, times, n, k):
-        """
-        :type times: List[List[int]]
-        :type n: int
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         edges = defaultdict(list)
-        for u, v, w in times:
-            edges[u].append((v, w))
-        
-        minHeap = [[0, k]]
-        visit = set()
 
+        for u, v, w in times:
+            edges[u].append([v, w])
+        
+        heap = [[0, k]]
+        visited = set()
         t = 0
 
-        while minHeap:
-            w1, n1 = heapq.heappop(minHeap)
+        while heap:
+            w1, n1 = heapq.heappop(heap)
 
-            if n1 in visit:
+            if n1 in visited:
                 continue
             
-            visit.add(n1)
+            visited.add(n1)
             t = max(t, w1)
 
             for n2, w2 in edges[n1]:
-                if n2 not in visit:
-                    heapq.heappush(minHeap, [w1 + w2, n2])
+                if n2 not in visited:
+                    heapq.heappush(heap, [w1 + w2, n2])
         
-        if len(visit) == n:
-            return t
-        else:
-            return -1
+        return t if len(visited) == n else -1
