@@ -1129,6 +1129,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0706-design-hashmap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
