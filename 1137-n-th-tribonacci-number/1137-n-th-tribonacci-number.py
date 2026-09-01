@@ -4,7 +4,7 @@ class Solution:
 
         if n < 3:
             return t[n]
-
+        
         for i in range(n - 2):
             t[0], t[1], t[2] = t[1], t[2], t[0] + t[1] + t[2]
         
