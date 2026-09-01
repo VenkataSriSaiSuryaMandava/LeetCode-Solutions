@@ -14,4 +14,4 @@ class Solution:
         left = robHouses(0, len(nums) - 2)
         right = robHouses(1, len(nums) - 1)
 
-        return max(left, right)
+        return max(nums[0], left, right)
