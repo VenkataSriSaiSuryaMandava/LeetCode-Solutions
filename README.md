@@ -381,6 +381,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -582,6 +583,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3714-longest-balanced-substring-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -1505,6 +1507,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -1687,6 +1690,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3546-equal-sum-grid-partition-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
@@ -1909,6 +1913,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
