@@ -1,26 +1,23 @@
-class Solution(object):
-    def firstStableIndex(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
+class Solution:
+    def firstStableIndex(self, nums: list[int], k: int) -> int:
         n = len(nums)
-        maxArray = [0] * n
+
+        maxArray = [float("-inf")] * n
         minArray = [float("inf")] * n
 
-        maxVal = 0
+        curMax = float("-inf")
+        curMin = float("inf")
+
         for i in range(n):
-            maxVal = max(maxVal, nums[i])
-            maxArray[i] = maxVal
+            curMax = max(curMax, nums[i])
+            maxArray[i] = curMax
 
-        minVal = float("inf")
         for i in range(n - 1, -1, -1):
-            minVal = min(minVal, nums[i])
-            minArray[i] = minVal
-
+            curMin = min(curMin, nums[i])
+            minArray[i] = curMin
+        
         for i in range(n):
             if maxArray[i] - minArray[i] <= k:
                 return i
-
+        
         return -1
