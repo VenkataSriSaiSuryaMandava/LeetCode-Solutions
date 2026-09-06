@@ -1,18 +1,17 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        if numRows == 1:
-            return s
-        
-        res = ""
-
-        for r in range(numRows):
-            increment = (numRows - 1) * 2
-
-            for i in range(r, len(s), increment):
-                res += s[i]
-
-                if (r > 0 and r < numRows - 1 and
-                    i + increment - 2 * r < len(s)):
-                    res += s[i + increment - 2 * r]
-
-        return res
+        if numRows <= 1:    return s
+        res = ['' for _ in range(numRows)]
+        direction = True
+        i = 0
+        for ch in s:
+            res[i] += ch
+            if i == numRows-1:
+                direction = False
+            elif i == 0:
+                direction = True
+            if direction:
+                i += 1
+            else:
+                i -= 1
+        return ''.join(res)
