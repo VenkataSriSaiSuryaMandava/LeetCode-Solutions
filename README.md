@@ -916,6 +916,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1269,6 +1270,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0831-masking-personal-information) |
+| [0940-distinct-subsequences-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1041-robot-bounded-in-circle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1041-robot-bounded-in-circle) |
