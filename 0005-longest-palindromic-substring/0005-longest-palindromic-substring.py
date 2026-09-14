@@ -8,7 +8,7 @@ class Solution:
                 if self.resLen < r - l + 1:
                     self.resLen = r - l + 1
                     self.res = s[l : r + 1]
-                
+
                 l -= 1
                 r += 1
         
