@@ -788,6 +788,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0633-sum-of-square-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -2023,6 +2024,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
