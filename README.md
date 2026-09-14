@@ -2437,4 +2437,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
