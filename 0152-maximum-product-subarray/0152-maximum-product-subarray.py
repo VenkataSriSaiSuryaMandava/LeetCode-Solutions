@@ -1,12 +1,8 @@
-class Solution(object):
-    def maxProduct(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        res = max(nums)
+class Solution:
+    def maxProduct(self, nums: list[int]) -> int:
         curMax = 1
         curMin = 1
+        res = max(nums)
 
         for n in nums:
             if n == 0:
@@ -15,9 +11,8 @@ class Solution(object):
                 continue
             
             temp = curMax
-            curMax = max(curMax * n, curMin * n, n)
-            curMin = min(temp * n, curMin * n, n)
-
+            curMax = max(n, curMax * n, curMin * n)
+            curMin = min(n, curMin * n, temp * n)
             res = max(res, curMax)
         
         return res
