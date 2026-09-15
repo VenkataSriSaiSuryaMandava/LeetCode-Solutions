@@ -2449,4 +2449,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
