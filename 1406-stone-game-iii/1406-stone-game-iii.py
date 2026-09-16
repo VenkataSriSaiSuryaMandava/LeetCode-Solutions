@@ -12,14 +12,14 @@ class Solution:
             
             for j in range(i, min(i + 3, n)):
                 dp[i] = max(dp[i], sum(stoneValue[i : j + 1]) - dfs(j + 1))
-            
+
             return dp[i]
         
         res = dfs(0)
 
         if res > 0:
             return "Alice"
-        elif res < 0:
+        elif res < 0 :
             return "Bob"
         else:
             return "Tie"
