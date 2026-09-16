@@ -2448,11 +2448,13 @@ This repository is actively updated as I continue solving new problems on LeetCo
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Brute-Force Search
 |  |
