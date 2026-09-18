@@ -1,10 +1,5 @@
-class Solution(object):
-    def findTargetSumWays(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
+class Solution:
+    def findTargetSumWays(self, nums: list[int], target: int) -> int:
         dp = defaultdict(int)
         dp[0] = 1
 
@@ -13,7 +8,7 @@ class Solution(object):
 
             for cur, count in dp.items():
                 nextDP[cur + nums[i]] += count
-                nextDP[cur - nums[i]] += count
+                nextDP[cur - nums[i]] -= count
             
             dp = nextDP
         
