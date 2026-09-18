@@ -8,7 +8,7 @@ class Solution:
 
             for cur, count in dp.items():
                 nextDP[cur + nums[i]] += count
-                nextDP[cur - nums[i]] -= count
+                nextDP[cur - nums[i]] += count
             
             dp = nextDP
         
