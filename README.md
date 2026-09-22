@@ -2491,4 +2491,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
