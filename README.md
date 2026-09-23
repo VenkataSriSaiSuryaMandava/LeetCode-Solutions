@@ -276,6 +276,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1598-crawler-log-folder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1672-richest-customer-wealth](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -559,6 +560,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1590-make-sum-divisible-by-p](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
@@ -1103,6 +1105,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1664-ways-to-make-a-fair-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -1415,6 +1418,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1592,6 +1596,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
