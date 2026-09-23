@@ -1,24 +1,24 @@
 class Solution:
-    def lemonadeChange(self, bills: List[int]) -> bool:
-        fives = 0
-        tens = 0
+    def lemonadeChange(self, bills: list[int]) -> bool:
+        five = 0
+        ten = 0
 
         for bill in bills:
             if bill == 5:
-                fives += 1
+                five += 1
             elif bill == 10:
-                tens += 1
+                ten += 1
 
-                if fives >= 1:
-                    fives -= 1
+                if five>= 1:
+                    five -= 1
                 else:
                     return False
             else:
-                if tens >= 1 and fives >= 1:
-                    tens -= 1
-                    fives -= 1
-                elif fives >= 3:
-                    fives -= 3
+                if ten >= 1 and five >= 1:
+                    five -= 1
+                    ten -= 1
+                elif five >= 3:
+                    five -= 3
                 else:
                     return False
         
