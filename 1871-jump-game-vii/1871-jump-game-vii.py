@@ -12,9 +12,9 @@ class Solution:
             for j in range(start, end):
                 if s[j] == '0':
                     queue.append(j)
-                    
+
                     if j == len(s) - 1:
-                        return True                        
+                        return True
             
             farthest = i + maxJump
         
