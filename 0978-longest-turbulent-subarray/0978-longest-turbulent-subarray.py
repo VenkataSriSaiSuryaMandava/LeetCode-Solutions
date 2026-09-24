@@ -1,9 +1,5 @@
-class Solution(object):
-    def maxTurbulenceSize(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxTurbulenceSize(self, arr: list[int]) -> int:
         l = 0
         r = 1
 
@@ -11,14 +7,14 @@ class Solution(object):
         prev = ""
 
         while r < len(arr):
-            if arr[r - 1] > arr[r] and prev != ">":
+            if arr[r - 1] < arr[r] and prev != '<':
                 res = max(res, r - l + 1)
                 r += 1
-                prev = ">"
-            elif arr[r - 1] < arr[r] and prev != "<":
+                prev = '<'
+            elif arr[r - 1] > arr[r] and prev != '>':
                 res = max(res, r - l + 1)
                 r += 1
-                prev = "<"
+                prev = '>'
             else:
                 if arr[r - 1] == arr[r]:
                     r += 1
