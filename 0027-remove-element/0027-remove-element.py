@@ -1,15 +1,15 @@
 class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        i=j=0
-        while i<len(nums):
+    def removeElement(self, nums: list[int], val: int) -> int:
+        if not nums:    return 0
+        start = 0
+        end = i = len(nums)-1
+        while i >= 0:
             if nums[i] == val:
-                i += 1
-            else:
-                nums[j] = nums[i]
-                j += 1
-                i += 1
-        return j
+                nums[i],nums[end] = nums[end], nums[i]
+                end -= 1
+            i -= 1
+        # print("end = ", end)
+        return end+1
 
-        
-        
+
         
