@@ -2,25 +2,25 @@ class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         n = len(senate)
 
-        R = deque()
-        D = deque()
+        radiant = deque()
+        dire = deque()
 
-        for i, c in enumerate(senate):
-            if c == "R":
-                R.append(i)
+        for i, ch in enumerate(senate):
+            if ch == 'R':
+                radiant.append(i)
             else:
-                D.append(i)
+                dire.append(i)
         
-        while R and D:
-            R_turn = R.popleft()
-            D_turn = D.popleft()
+        while dire and radiant:
+            dire_turn = dire.popleft()
+            radiant_turn = radiant.popleft()
 
-            if R_turn < D_turn:
-                R.append(R_turn + n)
+            if dire_turn < radiant_turn:
+                dire.append(dire_turn + n)
             else:
-                D.append(D_turn + n)
+                radiant.append(radiant_turn + n)
         
-        if R:
-            return "Radiant"
-        else:
+        if dire:
             return "Dire"
+        else:
+            return "Radiant"
