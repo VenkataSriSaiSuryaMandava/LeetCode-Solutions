@@ -1,6 +1,6 @@
 class Solution:
-    def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
-        good = set()
+    def mergeTriplets(self, triplets: list[list[int]], target: list[int]) -> bool:
+        tripletSet = set()
 
         for t in triplets:
             if t[0] > target[0] or t[1] > target[1] or t[2] > target[2]:
@@ -8,6 +8,6 @@ class Solution:
             
             for i, v in enumerate(t):
                 if v == target[i]:
-                    good.add(i)
+                    tripletSet.add(i)
         
-        return len(good) == 3
+        return len(tripletSet) == 3
