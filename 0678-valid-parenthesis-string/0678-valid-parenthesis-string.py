@@ -3,11 +3,11 @@ class Solution:
         leftMin = 0
         leftMax = 0
 
-        for c in s:
-            if c == "(":
+        for ch in s:
+            if ch == '(':
                 leftMin += 1
                 leftMax += 1
-            elif c == ")":
+            elif ch == ')':
                 leftMin -= 1
                 leftMax -= 1
             else:
@@ -19,5 +19,5 @@ class Solution:
             
             if leftMin < 0:
                 leftMin = 0
-            
+        
         return leftMin == 0
