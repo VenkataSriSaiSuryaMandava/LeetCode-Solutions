@@ -4,7 +4,7 @@ class Solution:
         level = 0
 
         for ch in seq:
-            if ch == ')':
+            if ch == '(':
                 if level % 2:
                     res.append(0)
                 else:
