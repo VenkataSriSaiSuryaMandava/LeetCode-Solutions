@@ -334,6 +334,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2392-build-a-matrix-with-conditions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -578,6 +579,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2215-find-the-difference-of-two-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2615-sum-of-distances](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
@@ -714,6 +716,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -1044,6 +1047,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -1209,6 +1213,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1851-minimum-interval-to-include-each-query](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -2117,6 +2122,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
