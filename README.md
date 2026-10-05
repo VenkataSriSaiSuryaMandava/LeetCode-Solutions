@@ -474,6 +474,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2462-total-cost-to-hire-k-workers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1372,6 +1373,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -2323,6 +2325,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
