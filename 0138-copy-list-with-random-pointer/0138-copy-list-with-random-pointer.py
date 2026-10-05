@@ -12,14 +12,12 @@ class Solution:
         nodeToCopy = {None : None}
 
         cur = head
-
         while cur:
             copy = Node(cur.val)
             nodeToCopy[cur] = copy
             cur = cur.next
         
         cur = head
-        
         while cur:
             nodeToCopy[cur].next = nodeToCopy[cur.next]
             nodeToCopy[cur].random = nodeToCopy[cur.random]
