@@ -543,6 +543,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0817-linked-list-components](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1822,6 +1823,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0700-search-in-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1891,6 +1893,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0797-all-paths-from-source-to-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -1960,6 +1963,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0797-all-paths-from-source-to-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -2031,6 +2035,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0700-search-in-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
