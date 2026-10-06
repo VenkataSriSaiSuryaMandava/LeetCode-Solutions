@@ -7,32 +7,31 @@
 
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
-        
-        def dfs(node, parent):
-            if not node:
-                return None
-            
-            parentChild[node] = parent
-            
-            dfs(node.left, node)
-            dfs(node.right, node)
-        
-        def dfs2(node, parent, k):
+        def findParent(node, parent):
             if not node:
                 return 
+            
+            childToParent[node] = parent
+
+            findParent(node.left, node)
+            findParent(node.right, node)
+        
+        childToParent = {}
+        findParent(root, None)
+
+        def findNodes(node, parent, k):
+            if not node:
+                return
             
             if k == 0:
                 res.append(node.val)
-                return 
+                return
             
-            for nextNode in (node.left, node.right, parentChild[node]):
+            for nextNode in (node.left, node.right, childToParent[node]):
                 if nextNode != parent:
-                    dfs2(nextNode, node, k - 1)
+                    findNodes(nextNode, node, k - 1)
         
-        parentChild = {}
-        dfs(root, None)
-
         res = []
-        dfs2(target, None, k)
+        findNodes(root, None, k)
 
         return res
