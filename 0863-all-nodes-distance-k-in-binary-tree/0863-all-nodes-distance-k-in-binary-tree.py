@@ -32,6 +32,6 @@ class Solution:
                     findNodes(nextNode, node, k - 1)
         
         res = []
-        findNodes(root, None, k)
+        findNodes(target, None, k)
 
         return res
