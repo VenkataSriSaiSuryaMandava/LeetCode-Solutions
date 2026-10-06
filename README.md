@@ -973,6 +973,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1872-stone-game-viii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2466-count-ways-to-build-good-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2466-count-ways-to-build-good-strings) |
@@ -1129,6 +1130,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2574-left-and-right-sum-differences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -1357,6 +1359,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
