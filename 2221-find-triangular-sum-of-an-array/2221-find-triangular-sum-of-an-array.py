@@ -1,8 +1,5 @@
 class Solution:
-    def triangularSum(self, nums: list[int]) -> int:
-        if len(nums) == 1:
-            return nums[0]
-        
+    def triangularSum(self, nums: list[int]) -> int:        
         while len(nums) > 1:
             newNums = [0] * (len(nums) - 1)
 
