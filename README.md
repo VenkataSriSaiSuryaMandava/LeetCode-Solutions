@@ -1024,6 +1024,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0846-hand-of-straights](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -1309,6 +1310,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0831-masking-personal-information) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
@@ -1477,6 +1479,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0853-car-fleet](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -2429,6 +2432,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0022-generate-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
