@@ -753,6 +753,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0767-reorganize-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1603-design-parking-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
@@ -1103,6 +1104,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
+| [1603-design-parking-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 | [2069-walking-robot-simulation-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -2134,6 +2136,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
