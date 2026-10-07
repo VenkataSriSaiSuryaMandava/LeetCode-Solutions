@@ -320,6 +320,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2073-time-needed-to-buy-tickets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2126-destroying-asteroids](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -972,6 +973,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1130,6 +1132,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2574-left-and-right-sum-differences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
