@@ -22,10 +22,10 @@ class Solution:
                 dfs(row, col)
         
         res = 0
-        
+
         for r in range(rows):
             for c in range(cols):
-                if (r, c) not in visited:
+                if grid[r][c] == '1' and (r, c) not in visited:
                     dfs(r, c)
                     res += 1
         
