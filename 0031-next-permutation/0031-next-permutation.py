@@ -28,7 +28,7 @@ class Solution:
         while i>=0:
             if nums[i] > nLeft:
                 nums[i], nums[left] = nums[left], nums[i]
-                print(nums)
+                # print(nums)
                 rev_arr(left+1, l-1)
                 return
             i -= 1
