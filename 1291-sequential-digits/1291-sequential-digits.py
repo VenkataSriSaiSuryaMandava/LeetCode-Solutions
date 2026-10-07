@@ -1,5 +1,5 @@
 class Solution:
-    def sequentialDigits(self, low: int, high: int) -> List[int]:
+    def sequentialDigits(self, low: int, high: int) -> list[int]:
         res = []
 
         for i in range(1, 9):
