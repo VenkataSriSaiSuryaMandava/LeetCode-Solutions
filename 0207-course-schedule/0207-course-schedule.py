@@ -1,6 +1,7 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+    def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
         preMap = defaultdict(list)
+
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
         
@@ -19,8 +20,7 @@ class Solution:
                 if not dfs(pre):
                     return False
             
-            visited.remove(crs)
-            preMap[crs] = []
+            preMap[crs] = True
             return True
         
         for crs in range(numCourses):
