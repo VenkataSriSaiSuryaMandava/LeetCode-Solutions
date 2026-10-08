@@ -1,16 +1,11 @@
-class Solution(object):
-    def findOrder(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: List[int]
-        """
+class Solution:
+    def findOrder(self, numCourses: int, prerequisites: list[list[int]]) -> list[int]:
         preMap = defaultdict(list)
 
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
         
-        visit = set()
+        visited = set()
         cycle = set()
         res = []
 
@@ -18,7 +13,7 @@ class Solution(object):
             if crs in cycle:
                 return False
             
-            if crs in visit:
+            if crs in visited:
                 return True
             
             cycle.add(crs)
@@ -28,7 +23,7 @@ class Solution(object):
                     return False
             
             cycle.remove(crs)
-            visit.add(crs)
+            visited.add(crs)
             res.append(crs)
 
             return True
