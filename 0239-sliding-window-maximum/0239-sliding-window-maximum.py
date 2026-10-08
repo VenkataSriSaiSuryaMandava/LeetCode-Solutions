@@ -1,7 +1,7 @@
 class Solution:
-    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        queue = deque()
+    def maxSlidingWindow(self, nums: list[int], k: int) -> list[int]:
         res = []
+        queue = deque()
 
         l = 0
         for r in range(len(nums)):
