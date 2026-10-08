@@ -20,7 +20,8 @@ class Solution:
                 if not dfs(pre):
                     return False
             
-            preMap[crs] = True
+            visited.remove(crs)
+            preMap[crs] = []
             return True
         
         for crs in range(numCourses):
