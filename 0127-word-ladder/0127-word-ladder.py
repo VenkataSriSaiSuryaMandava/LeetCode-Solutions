@@ -4,7 +4,6 @@ class Solution:
             return 0
         
         wordList.append(beginWord)
-        wordList = set(wordList)
 
         wordMap = defaultdict(list)
 
@@ -24,8 +23,8 @@ class Solution:
                 if word == endWord:
                     return res
 
-                for i in range(len(word)):
-                    pattern = word[ : i] + '*' + word[i + 1 : ]
+                for j in range(len(word)):
+                    pattern = word[ : j] + '*' + word[j + 1 : ]
 
                     for nextWord in wordMap[pattern]:
                         if nextWord not in visited:
@@ -33,3 +32,5 @@ class Solution:
                             queue.append(nextWord)
             
             res += 1
+        
+        return 0
