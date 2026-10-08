@@ -2578,4 +2578,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
