@@ -2586,4 +2586,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0127-word-ladder) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
