@@ -6,7 +6,7 @@ class Solution:
         i = 0
         n = len(s)
 
-        while i < len(s):
+        while i < n:
             if s[i] == '(':
                 count += 1
             else:
