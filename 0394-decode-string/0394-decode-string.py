@@ -7,13 +7,12 @@ class Solution:
                 stack.append(ch)
             else:
                 cur = ""
-
                 while stack[-1] != '[':
                     cur = stack.pop() + cur
                 
                 stack.pop()
-                k = ""
 
+                k = ""
                 while stack and stack[-1] in "0123456789":
                     k = stack.pop() + k
                 
