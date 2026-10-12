@@ -4,14 +4,14 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def reverseList(self, head: ListNode | None) -> ListNode | None:
         cur = head
         prev = None
 
         while cur:
-            temp = cur.next
+            temp = cur.next 
             cur.next = prev
-            prev = cur 
+            prev = cur
             cur = temp
         
         return prev
