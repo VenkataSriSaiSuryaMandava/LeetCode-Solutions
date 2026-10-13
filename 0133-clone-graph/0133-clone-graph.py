@@ -15,12 +15,11 @@ class Solution:
             if node in oldToNew:
                 return oldToNew[node]
             
-            copy = Node(node.val)
-            oldToNew[node] = copy
+            oldToNew[node] = Node(node.val)
 
             for nei in node.neighbors:
-                copy.neighbors.append(dfs(nei))
-
-            return copy
+                oldToNew[node].neighbors.append(dfs(nei))
+            
+            return oldToNew[node]
         
         return dfs(node) if node else node
