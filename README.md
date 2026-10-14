@@ -867,6 +867,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1084,6 +1085,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3689-maximum-total-subarray-value-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |
