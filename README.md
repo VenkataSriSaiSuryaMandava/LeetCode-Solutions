@@ -269,6 +269,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1539-kth-missing-positive-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -646,6 +647,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0918-maximum-sum-circular-subarray](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -839,6 +841,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -980,6 +983,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1444,6 +1448,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1867,6 +1872,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -2079,6 +2085,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1325-delete-leaves-with-a-given-value](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -2113,6 +2120,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0700-search-in-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -2338,10 +2346,12 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0509-fibonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -2602,4 +2612,8 @@ This repository is actively updated as I continue solving new problems on LeetCo
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
