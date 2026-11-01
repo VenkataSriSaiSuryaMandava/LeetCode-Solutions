@@ -1,13 +1,5 @@
-class Solution(object):
-    def minMoves(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        minNum = min(nums)
-        res = 0
+class Solution:
+    def minMoves(self, nums: list[int]) -> int:
+        min_val = min(nums)
 
-        for num in nums:
-            res += num - minNum
-        
-        return res
+        return sum(num - min_val for num in nums)
