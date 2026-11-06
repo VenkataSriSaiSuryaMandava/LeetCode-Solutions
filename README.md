@@ -357,6 +357,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+| [2747-count-zero-request-servers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -601,6 +602,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2615-sum-of-distances](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2747-count-zero-request-servers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -743,6 +745,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2402-meeting-rooms-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2542-maximum-subsequence-score](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2747-count-zero-request-servers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1495,6 +1498,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
