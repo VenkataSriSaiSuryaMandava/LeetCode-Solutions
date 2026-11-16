@@ -1419,6 +1419,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2288-apply-discount-to-prices](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2288-apply-discount-to-prices) |
@@ -2217,6 +2218,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
