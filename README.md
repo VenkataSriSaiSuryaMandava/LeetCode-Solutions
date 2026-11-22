@@ -1427,6 +1427,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
