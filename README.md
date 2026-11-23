@@ -253,6 +253,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1340-jump-game-v](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -862,6 +863,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1232-check-if-it-is-a-straight-line](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -1158,6 +1160,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1146-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
@@ -1182,6 +1185,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [1004-max-consecutive-ones-iii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1300,6 +1304,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [0703-kth-largest-element-in-a-stream](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/2013-detect-squares) |
 ## String
 |  |
