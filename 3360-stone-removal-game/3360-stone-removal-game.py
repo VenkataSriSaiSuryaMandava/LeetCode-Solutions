@@ -10,5 +10,3 @@ class Solution:
                     Alice = not Alice
             else:
                 return not Alice
-
-        return Alice 
