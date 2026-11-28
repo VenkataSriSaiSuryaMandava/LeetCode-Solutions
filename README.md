@@ -440,6 +440,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3876-construct-uniform-parity-array-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1058,6 +1059,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3742-maximum-path-score-in-a-grid](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1137,6 +1139,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Design
 |  |
 | ------- |
