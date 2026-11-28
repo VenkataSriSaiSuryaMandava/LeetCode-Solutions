@@ -441,6 +441,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3886-sum-of-sortable-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -781,6 +782,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3731-find-missing-elements](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1140,6 +1142,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Design
 |  |
 | ------- |
@@ -1303,6 +1306,7 @@ This repository is actively updated as I continue solving new problems on LeetCo
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-network-recovery-pathways](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/VenkataSriSaiSuryaMandava/LeetCode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Data Stream
 |  |
 | ------- |
